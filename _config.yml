@@ -48,7 +48,7 @@ copyright: "Copyright (c) 2023-{currentYear} {author}"
 
 description: ISHI-KAI's Homepage
 
-baseurl: "ishi-kai.github.io" # the subpath of your site, e.g. /blog
+baseurl: "/ishi-kai.github.io" # the subpath of your site, e.g. /blog
 #baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://ishi-kai.org" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "/assets/images/ishikai_icon.png" # the favicon for your site
@@ -215,7 +215,7 @@ kmarkdown:
 
 # theme: owner/name --> Don't forget to remove/comment the gem-based theme option
 remote_theme: "jeffreytse/jekyll-theme-yat"
-theme: jekyll-theme-yat
+#theme: jekyll-theme-yat
 
 plugins:
   - jekyll-feed
