@@ -31,6 +31,7 @@ categories: Information Seminar OpenSourcePDK
 ### @jun1okamura | [eFabless](https://efabless.com/) のCTO行脚報告
 OpenMPWの最初のパートナーである[eFabless](https://efabless.com/) のCTOが来日されました。
 その日本行脚に@jun1okamuraが同行したとのことですので、その行脚に対する報告となります。
+
 ※本報告は録画無しとなる可能性があります。
 
 ### [@noritsuna](https://www.siprop.org/en/2.0/index.php?noritsuna) の [RISC-V Day Tokyo2023 Summer](https://riscv.or.jp/risc-v-day-tokyo-2023-summer/)報告
