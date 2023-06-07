@@ -29,8 +29,9 @@ categories: Information
      * 半導体（ASIC/LSI/IC）オープン化について語り合いたい方
      * 半導体（ASIC/LSI/IC）分野の新しい未来を一緒に切り開きたい方
 
-# Links
 ***
+
+# Links
 
 ## 会の説明
 * 発足理由や対象となる方の説明を行っています。
@@ -43,14 +44,16 @@ categories: Information
 
 ## connpass
 * イベントの受付や通知はconpassを利用しています。ぜひ、ご登録ください。
-        * [https://ishikai.connpass.com/](https://ishikai.connpass.com/)
+     * [https://ishikai.connpass.com/](https://ishikai.connpass.com/)
 
 ## ビデオ
 * YouTube
      * [https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A](https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A)
 
-# おまけ
+
 ***
+
+# おまけ
 
 ## ISHI会のアイコンができるまで
 * [レイアウト設計超入門: 番外編 Siliwizでお絵描き](https://note.com/akira_tsuchiya/n/n0c720b3498b4)

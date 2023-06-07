@@ -18,7 +18,7 @@ permalink: /links/
 
 ## connpass
 * イベントの受付や通知はconpassを利用しています。ぜひ、ご登録ください。
-        * [https://ishikai.connpass.com/](https://ishikai.connpass.com/)
+     * [https://ishikai.connpass.com/](https://ishikai.connpass.com/)
 
 ## ビデオ
 * YouTube
