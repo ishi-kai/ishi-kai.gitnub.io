@@ -3,8 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-#会の説明
+# 会の説明
 * 本会は、ISHI会（Inter-linked Society on Homemade IC Kai）と命名されました。オープン化（民主化）されたISHI=石=Silicon=半導体（ASIC/LSI/IC）を扱い、いろいろな分野を繋げていくソサエティー・コミュニティー（会）から発想されたネーミングです。
 * その先駆けとして登場したOpenMPW(Open Multi Project Wafer)は、Google社がEfabless社に出資して生まれたシャトルプログラムであり、半導体（ASIC/LSI/IC）を作るうえで必要なツール（EDA/PDK）からファブでのISHI製造まで含めて、すべてオープン＆無料で半導体（ASIC/LSI/IC）を製造することができるプログラムです。
 これはまさにGNUから始まったオープンソースムーブメント（ソフトウェアの民主化）の「半導体（ASIC/LSI/IC）やEDA/PDKのオープン化」であります！
@@ -15,7 +14,7 @@ permalink: /about/
      * [結成呼びかけ資料](https://docs.google.com/presentation/d/130FRFYiFgKC3VASkGGDYNaNjsFOrMhMc7CDHG81pCZQ/)
      ![ISHI会グランドデザイン](/assets/images/ishikai_granddesign_fig.png)
 
-#参加資格
+# 参加資格
 * 半導体（ASIC/LSI/IC）を作ってみたい方
      * 半導体（ASIC/LSI/IC）に関する知識のない方
      * FPGAやマイコンに関する知識のない方
@@ -27,23 +26,7 @@ permalink: /about/
      * 半導体（ASIC/LSI/IC）オープン化について語り合いたい方
      * 半導体（ASIC/LSI/IC）分野の新しい未来を一緒に切り開きたい方
 
-#Links
+# おまけ
 ***
-##会の説明
-* 発足理由や対象となる方の説明を行っています。
-     * https://ishi-kai.org/about.html
-##Discord
-* 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
-     * Discordへの招待リンクです。
-        * https://discord.gg/RwAWF5mZSR
-##connpass
-* イベントの受付や通知はconpassを利用しています。ぜひ、ご登録ください。
-        * https://ishikai.connpass.com/
-##ビデオ
-* YouTube
-     * https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A
-
-#おまけ
-***
-##ISHI会のアイコンができるまで
+## ISHI会のアイコンができるまで
 * [レイアウト設計超入門: 番外編 Siliwizでお絵描き](https://note.com/akira_tsuchiya/n/n0c720b3498b4)
