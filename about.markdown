@@ -1,8 +1,9 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
+
 # 会の説明
 * 本会は、ISHI会（Inter-linked Society on Homemade IC Kai）と命名されました。オープン化（民主化）されたISHI=石=Silicon=半導体（ASIC/LSI/IC）を扱い、いろいろな分野を繋げていくソサエティー・コミュニティー（会）から発想されたネーミングです。
 * その先駆けとして登場したOpenMPW(Open Multi Project Wafer)は、Google社がEfabless社に出資して生まれたシャトルプログラムであり、半導体（ASIC/LSI/IC）を作るうえで必要なツール（EDA/PDK）からファブでのISHI製造まで含めて、すべてオープン＆無料で半導体（ASIC/LSI/IC）を製造することができるプログラムです。
@@ -28,5 +29,6 @@ permalink: /about/
 
 # おまけ
 ***
+
 ## ISHI会のアイコンができるまで
 * [レイアウト設計超入門: 番外編 Siliwizでお絵描き](https://note.com/akira_tsuchiya/n/n0c720b3498b4)
