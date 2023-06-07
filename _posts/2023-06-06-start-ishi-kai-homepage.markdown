@@ -2,7 +2,7 @@
 layout: post
 title:  "ISHI会のホームページが立ち上がりました！"
 date:   2023-06-06 20:00:00 +0900
-categories: Infomation
+categories: Information
 ---
 # 会の説明
 * 本会は、ISHI会（Inter-linked Society on Homemade IC Kai）と命名されました。オープン化（民主化）されたISHI=石=Silicon=半導体（ASIC/LSI/IC）を扱い、いろいろな分野を繋げていくソサエティー・コミュニティー（会）から発想されたネーミングです。
