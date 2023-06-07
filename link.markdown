@@ -3,6 +3,7 @@ layout: page
 title: link
 permalink: /links/
 ---
+
 # Links
 ***
 
@@ -22,3 +23,4 @@ permalink: /links/
 ## ビデオ
 * YouTube
      * [https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A](https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A)
+
