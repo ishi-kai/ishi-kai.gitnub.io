@@ -2,12 +2,12 @@
 layout: post
 title:  "IEEE SSCS Open-Source Ecosystem Chipathon 2023に日本チームが採択されました。"
 date:   2023-06-12 00:00:00 +0900
-categories: Information
+categories: Information Chipathon
 ---
 
 [IEEE SSCS Open-Source Ecosystem Chipathon 2023](https://github.com/sscs-ose/sscs-ose-chipathon.github.io/blob/main/initial_notebooks_2023/accepted_notebooks/README.md)に日本チームが採択されました。
 
-     ![採択者リスト](/assets/images/Chipathon/SSCS-OSE-CHIPATHON2023-ACCEPT.png)
+  ![採択者リスト](/assets/images/Chipathon/SSCS-OSE-CHIPATHON2023-ACCEPT.png)
 
 Chipathonはあるルールに基づいて、チームで半導体（ASIC）を数か月かけて、設計～製造までやり抜くプロジェクトです。
 ですが、趣旨としては「素人歓迎の半導体人材育成」ですので、***やる気さえあれば***、ASICや半導体に関する知識は不要です。
