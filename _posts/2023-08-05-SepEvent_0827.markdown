@@ -2,7 +2,7 @@
 layout: post
 title:  "ISHI会　2023年9月イベント「ASIC視点で考えるライセンス」の参加者募集✨"
 date:   2023-08-05 00:00:00 +0900
-categories: Seminar
+categories: Information Seminar
 ---
 
 ### イベント「はじめての半導体チップ設計」の概要
