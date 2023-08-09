@@ -24,3 +24,11 @@ permalink: /links/
 * YouTube
      * [https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A](https://www.youtube.com/channel/UCVtHUhkcGjaGMnypWd2Ub2A)
 
+
+## 初心者向け情報
+* EDAツールのセットアップ方法
+     * [https://github.com/ishi-kai/OpenLane-Examples](https://github.com/ishi-kai/OpenLane-Examples)
+
+* 用語集
+     * [https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/](https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/)
+
