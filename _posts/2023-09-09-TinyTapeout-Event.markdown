@@ -25,6 +25,8 @@ categories: Information Seminar
 
 # 参加申し込み 
 -  [https://ishikai.connpass.com/event/295967/](https://ishikai.connpass.com/event/295967/)
+- 日時
+	- 2023年9月13日（水）21：00〜22：00
 
 - メニュー
 	- TinyTapeoutとは？
