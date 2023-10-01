@@ -27,8 +27,8 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 そこで、その立体構造を判りやすく学習するため、アクリル板や3Dプリンターでパズルを製作いたしました！ 
 アクリル板バージョンも3Dプリンターバージョンも共に3000円で販売予定です。 
 
-- アクリル板バージョンの外観 ![アクリル板バージョン](/assets/images/InverterPuzzle.jpg) 
-- 3Dプリンターバージョンの外観 ![3Dプリンターバージョン](/assets/images/InverterPuzzle3D.jpg) 
+- アクリル板バージョンの外観 ![アクリル板バージョン](/assets/images/MFT2023/InverterPuzzle.jpg) 
+- 3Dプリンターバージョンの外観 ![3Dプリンターバージョン](/assets/images/MFT2023/InverterPuzzle3D.jpg) 
 
 - [Inverter Puzzleの詳細説明](https://ishi-kai.org/assets/presentation/202308/InvPuz_LT230804.pptx) 
 
@@ -36,9 +36,9 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 [MAKE LSI:](https://scrapbox.io/makelsi/)やISHI会のメンバーが実際に作成した「自作半導体」を展示します！実際に触って、見られる状態として展示予定です。 
 さらに、どのように設計して、製造したかの体験ができるコーナーも用意する予定ですので、ぜひ、体験しにいらしてください！ 
 
-- 学習用の半導体設計アプリ ![siliwiz](/assets/images/siliwiz.png) 
-- Make LSI:メンバーによる半導体の設計図 ![Make LSI](/assets/images/makelsi_design.jpg) 
-- ISHI会メンバーにより製造された半導体チップ ![OpenMPW](/assets/images/openmpw_chip.jpg) 
+- 学習用の半導体設計アプリ ![siliwiz](/assets/images/MFT2023/siliwiz.png) 
+- Make LSI:メンバーによる半導体の設計図 ![Make LSI](/assets/images/MFT2023/makelsi_design.jpg) 
+- ISHI会メンバーにより製造された半導体チップ ![OpenMPW](/assets/images/MFT2023/openmpw_chip.jpg) 
 
 
 # 開催概要
