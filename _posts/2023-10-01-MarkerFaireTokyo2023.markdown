@@ -30,6 +30,7 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 - アクリル板バージョンの外観 ![アクリル板バージョン](/assets/images/InverterPuzzle.jpg) 
 - 3Dプリンターバージョンの外観 ![3Dプリンターバージョン](/assets/images/InverterPuzzle3D.jpg) 
 
+- [Inverter Puzzleの詳細説明](https://ishi-kai.org/assets/presentation/202308/InvPuz_LT230804.pptx) 
 
 ## 自作半導体
 [MAKE LSI:](https://scrapbox.io/makelsi/)やISHI会のメンバーが実際に作成した「自作半導体」を展示します！実際に触って、見られる状態として展示予定です。 
