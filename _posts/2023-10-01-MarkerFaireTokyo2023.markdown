@@ -6,8 +6,8 @@ categories: Information
 ---
 
 # [Maker Faier Tokyo 2023](https://makezine.jp/event/mft2023/)へ出展します！
-初出展の今年は[MAKE LSI:](https://scrapbox.io/makelsi/)との共同出展となります！ 
-[MAKE LSI:](https://scrapbox.io/makelsi/)とISHI会のメンバーが展示物の解説などをしておりますので、よろしくお願いいたします！ 
+初出展の今年は[MakeLSI:](https://scrapbox.io/makelsi/)との共同出展となります！ 
+[MakeLSI:](https://scrapbox.io/makelsi/)とISHI会のメンバーが展示物の解説などをしておりますので、よろしくお願いいたします！ 
 
 - [公式ページへのリンク](https://makezine.jp/event/makers-mft2023/m0069/)
 
@@ -33,12 +33,14 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 - [Inverter Puzzleの詳細説明](https://ishi-kai.org/assets/presentation/202308/InvPuz_LT230804.pptx) 
 
 ## 自作半導体
-[MAKE LSI:](https://scrapbox.io/makelsi/)やISHI会のメンバーが実際に作成した「自作半導体」を展示します！実際に触って、見られる状態として展示予定です。 
+[MakeLSI:](https://scrapbox.io/makelsi/)やISHI会のメンバーが実際に作成した「自作半導体」を展示します！実際に触って、見られる状態として展示予定です。 
 さらに、どのように設計して、製造したかの体験ができるコーナーも用意する予定ですので、ぜひ、体験しにいらしてください！ 
 
 - 学習用の半導体設計アプリ ![siliwiz](/assets/images/MFT2023/siliwiz.png) 
 - Make LSI:メンバーによる半導体の設計図 ![Make LSI](/assets/images/MFT2023/makelsi_design.jpg) 
 - ISHI会メンバーにより製造された半導体チップ ![OpenMPW](/assets/images/MFT2023/openmpw_chip.jpg) 
+
+※上記の展示物は都合により変更される可能性があります。ご了承ください。 
 
 
 # 開催概要
