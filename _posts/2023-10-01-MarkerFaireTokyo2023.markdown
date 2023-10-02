@@ -37,7 +37,7 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 さらに、どのように設計して、製造したかの体験ができるコーナーも用意する予定ですので、ぜひ、体験しにいらしてください！ 
 
 - 学習用の半導体設計アプリ ![siliwiz](/assets/images/MFT2023/siliwiz.png) 
-- Make LSI:メンバーによる半導体の設計図 ![Make LSI](/assets/images/MFT2023/makelsi_design.jpg) 
+- MakeLSI:メンバーによる半導体の設計図 ![MakeLSI](/assets/images/MFT2023/makelsi_design.jpg) 
 - ISHI会メンバーにより製造された半導体チップ ![OpenMPW](/assets/images/MFT2023/openmpw_chip.jpg) 
 
 ※上記の展示物は都合により変更される可能性があります。ご了承ください。 
