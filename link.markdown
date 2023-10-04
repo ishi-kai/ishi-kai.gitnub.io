@@ -9,7 +9,7 @@ permalink: /links/
 
 ## 会の説明
 * 発足理由や対象となる方の説明を行っています。
-     * [https://ishi-kai.org/about.html](https://ishi-kai.org/about.html)
+     * [https://ishi-kai.org/about/](https://ishi-kai.org/about/)
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
