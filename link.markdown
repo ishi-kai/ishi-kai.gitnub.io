@@ -32,3 +32,12 @@ permalink: /links/
 * 用語集
      * [https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/](https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/)
 
+* Siliwizハンズオンセミナー
+     * [https://ishikai.connpass.com/event/280081/](https://ishikai.connpass.com/event/280081/)
+
+* TinyPageout体験記
+     * [https://www.slideshare.net/noritsuna/tinytapeout](https://www.slideshare.net/noritsuna/tinytapeout)
+
+* InverterPazzule
+     * [https://github.com/ishi-kai/InverterPuzzle3D/](https://github.com/ishi-kai/InverterPuzzle3D/)
+
