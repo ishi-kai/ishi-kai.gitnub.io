@@ -11,6 +11,9 @@ permalink: /links/
 * 発足理由や対象となる方の説明を行っています。
      * [https://ishi-kai.org/about/](https://ishi-kai.org/about/)
 
+* ISHI会の説明プレゼン
+     * [https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw](https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw)
+
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
      * Discordへの招待リンクです。
@@ -38,6 +41,7 @@ permalink: /links/
 * TinyPageout体験記
      * [https://www.slideshare.net/noritsuna/tinytapeout](https://www.slideshare.net/noritsuna/tinytapeout)
 
-* InverterPazzule
+* InverterPuzzle
      * [https://github.com/ishi-kai/InverterPuzzle3D/](https://github.com/ishi-kai/InverterPuzzle3D/)
+
 
