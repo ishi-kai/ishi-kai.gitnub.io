@@ -14,8 +14,7 @@ categories: Information Seminar
 ### 日時
 * 2023年11月10日（金）19：00〜21：30
 * 現地参加は「18:45」にGoogle社渋谷オフィス受付集合
-  ![入館方法](/assets/pdf/STRM_office_access_instructions_JP_ver._L2.pdf)
-
+  [入館方法](https://github.com/ishi-kai/ishi-kai.gitnub.io/blob/main/assets/pdf/STRM_office_access_instructions_JP_ver._L2.pdf)
 
 ### 参加申し込み 
 * [https://ishikai.connpass.com/event/301114/](https://ishikai.connpass.com/event/301114/)
