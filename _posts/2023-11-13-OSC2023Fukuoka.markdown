@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "オープンソースカンファレンス2023福岡で講演と展示します"
+date:   2023-11-13 00:00:00 +0900
+categories: Information Event
+---
+
+# [オープンソースカンファレンス2023福岡](https://ospn.connpass.com/event/296547/)
+
+[オープンソースカンファレンス2023福岡](https://ospn.connpass.com/event/296547/)で、[講演](https://register.ospn.jp/osc2023-fukuoka/modules/eventrsv/1.html)と[展示](https://ospn.connpass.com/event/296547/)をしてきます！  
+OpenMPWで作った実チップや[インバーターパズル](https://github.com/ishi-kai/InverterPuzzle3D)を展示予定です！  
+よろしくお願いいたします！
+
+## 開催概要
+- 12月9日(土) 10:00-18:00  
+
+## 会場
+- [福岡SRPセンタービル 2F](https://www.fukuoka-srp.co.jp/access)  
+
+## 会場
+- 開催形式
+- リアル会場でのセミナー、展示ブース
+
+## 講演
+- 場所：研修室1
+- 時間：10:00～10:45
