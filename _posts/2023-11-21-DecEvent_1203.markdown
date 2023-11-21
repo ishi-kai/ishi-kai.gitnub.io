@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ISHI会　2023年12月イベント「最終救済！一日で作るインバータ回路forOpenMPW GF-1ハンズオン」の参加者募集"
+date:   2023-11-21 00:00:00 +0900
+categories: Information Seminar
+---
+
+### イベント「最終救済！一日で作るインバータ回路forOpenMPW GF-1ハンズオン」の概要
+* 約1年ぶりとなる[OpenMPWのシャトルの募集](https://efabless.com/gf-180-open-mpw-shuttle-program)が開始されました！
+すなわち、自分の半導体を作るチャンスがやってきたということです！  
+しかし、とはいっても「どうしたらいいんだろう？」という方が多いのではないかと思います。そこで、[前回のイベント](https://ishikai.connpass.com/event/301114/)で「オペアンプをグループ投稿しよう！」というお話をしました。  
+しかし、みなさま、オペアンプ、いかがでしょうか？？？  
+実際にやってみると素人にはなかなかハードル高いですよね？  
+そこで、最初の一歩たるインバーター回路だけを作って、それで投稿しよう！というハンズオンをやろうかと思います。要は、どうしても投稿したいけど、オペアンプはつらい・・・という方向けの救済企画です！！！  
+
+### 日時
+* 2023年12月03日（日）13：00〜18：00  
+* 現地参加は「12:30」にGMO Yoursに集合  
+** [オフィス専用のB1ロビー入り口の場所](https://www.gmo.jp/company-profile/access-map/night/)  
+** [GMO社テックブログの入場説明](https://tech.gmo-media.jp/post/87572264259/how-to-enter-gmo-yours)  
+
+### 参加申し込み 
+* [https://ishikai.connpass.com/event/303102/](https://ishikai.connpass.com/event/303102/)  
+
