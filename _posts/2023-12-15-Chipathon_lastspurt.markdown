@@ -15,7 +15,14 @@ Chipathonについては、[Chipathon関連記事](https://ishi-kai.org/categori
 
 [Discordのビデオチャット](https://discord.gg/97fmd87Y) (2023/12/20 21時から本格稼働予定！ それ以降は、(ISHI会Discord)[https://discord.gg/M9BW7RSt9q]からお願いします。 )
 
-- 制作予定の回路
--- PLL(位相同期回路)
--- BGR(バンドギャップリファレンス)
--- ADC(アナログデジタルコンバータ)
+# 制作予定の回路
+###  PLL(位相同期回路)
+- [PLLのサンプル回路](https://github.com/3zki/gf180_pll_3v3)
+
+###  BGR(バンドギャップリファレンス)
+- [BGRのサンプル回路](https://note.com/akira_tsuchiya/n/na50333ac5986)
+
+###  ADC(アナログデジタルコンバータ)
+- [ADCのサンプル回路](https://github.com/atuchiya/openmpw-transistor-level-examples/blob/main/jupyter-notebook/ADC/SAR_ADC_Introduction.ipynb)
+- [OpenMPW-4のADCサンプル](https://github.com/christoph-weiser/caravel_user_project_analog)
+- [OpenMPW-6のADCサンプル](https://github.com/christoph-weiser/mpw6)
