@@ -51,7 +51,7 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 約1年ぶりとなる[OpenMPWのシャトルの募集](https://efabless.com/gf-180-open-mpw-shuttle-program)が開始され、かつ、「グループ投稿すると当選率が上がる（40プロジェクトが抽選で選ばれる）」ため、グループ応募の募集をして、約1か月を走り切った季節でした。  
 
 そして、無事にグループ投稿に成功しました。あとは、結果を待つのみです！  
-* [ISHI-KAI_Multiple_Projects_OpenGFMPW-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)
+* [ISHI-KAI_Multiple_Projects_OpenGFMPW-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenGFMPW-1)  
 
 
 # 12月
@@ -63,23 +63,23 @@ CMOSプロセスで設計したインバータ（NOTゲート）のレイアウ�
 
 # 制作予定の回路
 ###  PLL(位相同期回路)
-- [PLLのサンプル回路](https://github.com/3zki/gf180_pll_3v3)
+- [PLLのサンプル回路](https://github.com/3zki/gf180_pll_3v3)  
 
 ###  BGR(バンドギャップリファレンス)
-- [BGRのサンプル回路](https://note.com/akira_tsuchiya/n/na50333ac5986)
+- [BGRのサンプル回路](https://note.com/akira_tsuchiya/n/na50333ac5986)  
 
 ###  ADC(アナログデジタルコンバータ)
 - [ADCのサンプル回路](https://github.com/atuchiya/openmpw-transistor-level-examples/blob/main/jupyter-notebook/ADC/SAR_ADC_Introduction.ipynb)
-- [OpenMPW-4のADCサンプル](https://github.com/christoph-weiser/caravel_user_project_analog)
-- [OpenMPW-6のADCサンプル](https://github.com/christoph-weiser/mpw6)
+- [OpenMPW-4のADCサンプル](https://github.com/christoph-weiser/caravel_user_project_analog)  
+- [OpenMPW-6のADCサンプル](https://github.com/christoph-weiser/mpw6)  
 
 
 # まとめ
 来年も、下記あたりは走らせていこうと思っておりますので、よろしくお願いします！！！
 
-* OpenMPWシャトル投稿
-* MakeLSI:のシャトル投稿
-* Chipathonへの参加
-* TinyTapeoutへの投稿
-* ハンズオンセミナー
-* Maker Faireを筆頭に各種イベントに参加
+- OpenMPWシャトル投稿
+- MakeLSI:のシャトル投稿
+- Chipathonへの参加
+- TinyTapeoutへの投稿
+- ハンズオンセミナー
+- Maker Faireを筆頭に各種イベントに参加
