@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "RISC-V Day Tokyo 2024 WinterでISHI会ブースが設置されます！"
+title:  "RISC-V Day Tokyo 2024 Winterで講演します！"
 date:   2024-01-05 00:00:00 +0900
 categories: Information Conference RISC-V
 ---
