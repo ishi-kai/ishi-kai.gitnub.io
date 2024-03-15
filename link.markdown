@@ -11,14 +11,16 @@ permalink: /links/
 * 発足理由や対象となる方の説明を行っています。
      * [https://ishi-kai.org/about/](https://ishi-kai.org/about/)
 
+
 * ISHI会の説明プレゼン
      * [https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw](https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw)
+
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
      * Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)
-        * [https://discord.gg/RwAWF5mZSR](https://discord.gg/RwAWF5mZSR)
         * [https://discord.gg/Sj47dJk8x7](https://discord.gg/Sj47dJk8x7)
+        * [https://discord.gg/RwAWF5mZSR](https://discord.gg/RwAWF5mZSR)
 
 
 ## connpass
