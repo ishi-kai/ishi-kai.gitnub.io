@@ -16,12 +16,15 @@ permalink: /links/
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
-     * Discordへの招待リンクです。
+     * Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)
         * [https://discord.gg/RwAWF5mZSR](https://discord.gg/RwAWF5mZSR)
+        * [https://discord.gg/Sj47dJk8x7](https://discord.gg/Sj47dJk8x7)
+
 
 ## connpass
 * イベントの受付や通知はconpassを利用しています。ぜひ、ご登録ください。
      * [https://ishikai.connpass.com/](https://ishikai.connpass.com/)
+
 
 ## ビデオ
 * YouTube
