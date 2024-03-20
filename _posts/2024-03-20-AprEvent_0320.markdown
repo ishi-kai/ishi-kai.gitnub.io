@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "ISHI会　2024年4月イベント「オープンソースPDK団体勉強会」の参加者募集"
+date:   2024-03-20 00:00:00 +0900
+categories: Information Seminar
+---
+
+### イベント「オープンソースPDK団体勉強会」の概要
+* 昨今の半導体業界の盛り上がりとともに、国内外のオープンソースPDKやEDAの動きが活発化してきました。そこで、今回の勉強会では、国内外のオープンソースPDKやEDAの状況について、キーマンに語っていただきます。
+
+### 日時
+* 2024年4月4日（木）18：30〜20：00  
+
+### 参加申し込み 
+* [https://ishikai.connpass.com/event/313567/](https://ishikai.connpass.com/event/313567/)  
+
