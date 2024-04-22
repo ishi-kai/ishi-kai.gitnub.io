@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "ISHI会　2024年5月イベント「ISHI会一周年記念イベント～大討論会～」の参加者募集"
+date:   2024-04-22 00:00:00 +0900
+categories: Information Seminar
+---
+
+### イベント「オープンソースPDK団体勉強会」の概要
+* ついにISHI会は結成より一周年を迎えることになりました。そこで、いままでの伝手を総動員して大討論会を開催したいと考えております！
+5つのテーマごとにそれぞれオープンソース半導体や半導体産業に関っている人物をお呼びしておりますので、こぞって参加していただければと思います。
+
+### 日時
+* 2024年5月6日（祝・月）13：30〜18：30  
+
+### 参加申し込み 
+* 東京会場&オンライン  
+    * [https://ishikai.connpass.com/event/315799/](https://ishikai.connpass.com/event/315799/)  
+* 福岡会場  
+    * [https://ishikai.connpass.com/event/315800/](https://ishikai.connpass.com/event/315800/)  

@@ -12,9 +12,7 @@ permalink: /about/
 * 専門家だけが利用可能だったOSやコンパイラ、ライブラリ、アプリ、電子基板、3D CADや3Dプリンターがオープンソースソフトウェア、オープンハードウェア、オープンモデリングなどとして誰もが利用できるようになったように、半導体（ASIC/LSI/IC）やEDA/PDKを誰もが利用できる世界を目指して活動していく所存です。
     * 今後の活動方針としては、他分野の人たちを巻き込んで半導体（ASIC/LSI/IC）分野に革命を起こすという方針で、他分野向けの超初心者向けハンズオンセミナーや専門家向けの濃い内容の勉強会などのイベントを開催したり、チームを作ってOpenMPWシャトルや世界のChipathonに挑戦したり、Maker Faireなどのイベントへの参加をしていきたいと思いますので、よろしくお願いいたします。
 
-     * [結成呼びかけ資料](https://docs.google.com/presentation/d/130FRFYiFgKC3VASkGGDYNaNjsFOrMhMc7CDHG81pCZQ/)
-
-     ![ISHI会グランドデザイン](/assets/images/ishikai_granddesign_fig.png)
+     ![ISHI会グランドデザイン](/assets/images/ishikai_granddesign_fig.png)  
 
 # 参加資格
 * 半導体（ASIC/LSI/IC）を作ってみたい方
