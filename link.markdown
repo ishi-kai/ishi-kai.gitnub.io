@@ -49,3 +49,6 @@ permalink: /links/
 * InverterPuzzle
      * [https://github.com/ishi-kai/InverterPuzzle3D/](https://github.com/ishi-kai/InverterPuzzle3D/)
          * [InverterPuzzle販売サイト](https://akita111.booth.pm/items/5187072)
+
+* Open Silicon Comunity
+     * [OpenSUSI](https://www.opensusi.org/)
