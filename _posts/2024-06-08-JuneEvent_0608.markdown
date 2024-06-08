@@ -24,3 +24,9 @@ categories: Information Seminar
 ### 参加申し込み 
 * オンライン  
     * [https://ishikai.connpass.com/event/321795/](https://ishikai.connpass.com/event/321795/)  
+
+
+### ハッシュタグ
+ISHI会のハッシュタグは #osssilicon でお願いします。 </BR>
+
+本勉強会のつぶやきなどにご利用ください。  

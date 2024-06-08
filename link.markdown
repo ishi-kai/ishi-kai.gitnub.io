@@ -52,3 +52,8 @@ permalink: /links/
 
 * Open Silicon Comunity
      * [OpenSUSI](https://www.opensusi.org/)
+
+
+#ハッシュタグ
+ISHI会のハッシュタグは #osssilicon でお願いします。 </BR>
+本勉強会などのつぶやきなどにご利用ください。 
