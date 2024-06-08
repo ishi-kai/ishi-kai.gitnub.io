@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "ISHI会　2024年6月イベント「オープンソースEDA開発者苦労話勉強会」の参加者募集"
+date:   2024-06-08 00:00:00 +0900
+categories: Information Seminar
+---
+
+### イベント「オープンソースEDA開発者苦労話勉強会」の概要 
+* ISHI会Discord上（[最初の投稿](https://discord.com/channels/1087260891264856144/1090382611702091837/1242815432759709827)）で学生さんより「オープンソースEDA（半導体系の開発ツール群）で貢献するにはどうしたらよいですか？」という旨の質問があり、各種オープンソースEDAを作成されている方々よりいろいろとアドバイスがありました。 
+そこで、その方々に開発しているものを簡単に解説してもらって、実際にやってみた体験談（楽しかったことやお得だったこと、苦労話や失敗談など）や「どうしてやろうと思った」とか「どうやって開発しているのか」などのメインにお話ししてもらうイベントを企画いたしました。 
+オープンソースEDAを実際に開発して、その苦労話などを聞く機会はなかなかないと思いますので、奮って参加していただければと思います。
+（ガチな内容は[オープンソースEDA研究会](https://www.anagix.com/nyusu/%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3%E3%82%BD%E3%83%BC%E3%82%B9eda-supportersdiscord%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85)のほうで議論しておりますので、ぜひ、ご参加ください！） 
+
+     * Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。) 
+        * [https://discord.gg/Sj47dJk8x7](https://discord.gg/Sj47dJk8x7) 
+        * [https://discord.gg/RwAWF5mZSR](https://discord.gg/RwAWF5mZSR) 
+
+  ![決定的瞬間](/assets/images/discord_msg_June2024Event.png) 
+
+
+### 日時 
+* 2024年6月22日（土）22：00〜24：00  
+
+### 参加申し込み 
+* オンライン  
+    * [https://ishikai.connpass.com/event/321795/](https://ishikai.connpass.com/event/321795/)  
