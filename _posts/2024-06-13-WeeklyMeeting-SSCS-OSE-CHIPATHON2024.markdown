@@ -4,7 +4,7 @@ title:  "IEEE SSCS Open-Source Ecosystem Chipathon 2024の知識共有定例Mtg�
 date:   2024-06-13 00:00:00 +0900
 categories: Chipathon
 ---
-
+## 知識共有定例Mtg
 IEEE SSCS Open-Source Ecosystem Chipathon 2024が先週から始動しました。  
 いろいろと情報が出てきたので精査したところ、かなりの幅広い知識（アナログ回路の知識はもちろん、機械学習や制御工学などの知識も必要）が無いとかなり厳しいことがわかりました。  
   
@@ -13,10 +13,9 @@ IEEE SSCS Open-Source Ecosystem Chipathon 2024が先週から始動しました�
   
 もし、IEEE SSCS Open-Source Ecosystem Chipathon 2024参加者の方で知識に不安のある方は、ぜひ、ご参加ください！  
 
-***
+
 ## Meetingのスケジュール
 * 週一回、日本時間の木曜日の22時～24時（この後からChipathon2024の本家のMtgがあります。）
-    * [https://github.com/sscs-ose/sscs-ose-chipathon.github.io/blob/main/MEETUP.md](https://github.com/sscs-ose/sscs-ose-chipathon.github.io/blob/main/MEETUP.md)
 
 ## Discord
 * Chipathon活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
