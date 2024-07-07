@@ -18,9 +18,10 @@ permalink: /links/
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
-     * Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)
+    * Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)
         * [https://discord.gg/Sj47dJk8x7](https://discord.gg/Sj47dJk8x7)
         * [https://discord.gg/RwAWF5mZSR](https://discord.gg/RwAWF5mZSR)
+            * Discordへの新規登録の場合、Discordのアカウントを作成して、Discord内の"Join a Server"から"Invite link Discord"へログイン済みではない場合、無効なリンクとなることがあるようです。
 
 
 ## connpass
@@ -54,6 +55,6 @@ permalink: /links/
      * [OpenSUSI](https://www.opensusi.org/)
 
 
-#ハッシュタグ
-ISHI会のハッシュタグは #osssilicon でお願いします。 </BR>
+# ハッシュタグ
+ISHI会のハッシュタグは **#osssilicon** でお願いします。  
 本勉強会などのつぶやきなどにご利用ください。 
