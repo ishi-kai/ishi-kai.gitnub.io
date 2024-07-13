@@ -5,12 +5,21 @@ date:   2024-07-13 00:00:00 +0900
 categories: Information Event
 ---
 
-2024年8月3日(日)　11:00 – 16:00 日本時間（JST)に、秋葉原第1電波ビル8Fにて、開催予定の [つくまた](https://w.atwiki.jp/tukumata/)でISHI会にて[InverterPuzzle 3D](https://github.com/ishi-kai/InverterPuzzle3D)をします！  
+2024年8月3日(土)　11:00 – 16:00 日本時間（JST)に、秋葉原第1電波ビル8Fにて、開催予定の [つくまた](https://w.atwiki.jp/tukumata/)でISHI会にて[InverterPuzzle 3D](https://github.com/ishi-kai/InverterPuzzle3D)をします！  
 興味のある方は、ぜひ、見に来てね！！！  
 
  ![つくまた](https://img.atwiki.jp/tukumata/attach/1/2/%E3%81%A4%E3%81%8F%E3%81%BE%E3%81%9F%E3%83%95%E3%83%A9%E3%82%A4%E3%83%A4%E3%83%BCs.jpg)
 
+
+2024年8月4日(日)に、秋葉原にて、ぶっちゃけこれに参加される秋田先生と雑談会を開きます。  
+こちらも、ぜひ、参加してみてね！  
+
+* [雑談会](https://ishikai.connpass.com/event/323957/)
+
+
 # 作成記
+[InverterPuzzle3D](https://github.com/ishi-kai/InverterPuzzle3D) とは何か？については [詳細説明](/assets/presentation/202308/InvPuz_LT230804.pdf)をご覧ください。
+
 ## 今回のポイント
 今回は、どれだけ労力を少なく、かつ、前回の余りのレジンで作るか？に焦点を当てて制作しました。  
 下記のものは3D印刷業者にお願いすることとしました。  
