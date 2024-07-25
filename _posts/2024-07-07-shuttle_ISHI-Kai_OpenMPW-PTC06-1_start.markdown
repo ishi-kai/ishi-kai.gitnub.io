@@ -85,6 +85,7 @@ ISHI会でスポンサーが付く形でシャトルの相乗り募集をする�
 Discord参加後、参加希望の方はこちらにお名前などをご記入ください。  
 
 * [参加者リスト](https://docs.google.com/spreadsheets/d/1Qg1rbDdd422Bkpse7TivgFhrSr_80P_xI2aivt4_CU0/edit?usp=sharing)
+* [ピンリスト](https://docs.google.com/spreadsheets/d/12y_po4_q8ZQB6woU7F74LmnMvDxUnujbQQpp6Jt9oGQ/edit?gid=0#gid=0)
 
 
 ## 投稿相談会のご案内
