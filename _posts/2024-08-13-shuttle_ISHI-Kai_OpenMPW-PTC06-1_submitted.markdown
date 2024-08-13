@@ -8,8 +8,8 @@ categories: openmpw shuttle PTC06
 本日、ISHI会版OpenMPW PTC06-1の全22人による全24デザインの投稿が完了しました！  
 下の図はみなさまのデザインとなります。  
 
-  ![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-1/blob/main/Submitted/all_members_layout.png)  
-  ![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-1/blob/main/Submitted/all_members_layout_using.png)  
+  ![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-1/blob/main/Submitted/all_members_layout.png?raw=true)  
+  ![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-1/blob/main/Submitted/all_members_layout_using.png?raw=true)  
 
 
 ### 投稿サイト
