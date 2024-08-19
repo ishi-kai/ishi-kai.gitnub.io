@@ -7,7 +7,8 @@ categories: Information Seminar
 
 # [TinyTapeout](https://tinytapeout.com)ハンズオン勉強会とは？
 - [TinyTapeout体験記](https://github.com/noritsuna/tt04-tt_um_8bitcounter_AI) を元としたTinyTapeoutのテープアウト（半導体製造）までを疑似体験するハンズオン形式の勉強会です。
-	- ただし、ハンズオンといいながら、オンラインのみの開催となります。
+	- 資料：[半導体製造(TinyTapeout)に挑戦しよう！](https://www.slideshare.net/slideshow/tinytapeout/260745768)
+		- ただし、ハンズオンといいながら、オンラインのみの開催となります。資料を見ながら疑似体験するというイメージです。
 
 ## [TinyTapeout](https://tinytapeout.com)とは？
 - 約100万円で半導体チップが作れる[ChipIgnite](https://efabless.com/)というサービスがあるのですが、そのユーザエリア（回路を記述するエリア）：3.1mm x 3.2mmをみんなでシェアすることで1エリア約1万円で半導体チップが作れるというサービスです。  
