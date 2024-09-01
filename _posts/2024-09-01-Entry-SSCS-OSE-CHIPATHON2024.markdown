@@ -25,11 +25,13 @@ Chipathonはあるルールに基づいて、チームで半導体（ASIC）を�
   - [AI自動生成環境セットアップ](https://docs.google.com/presentation/d/e/2PACX-1vQBTmXIEmeb9jw-czwUoCni3RChDak-BHy1vTbSrZu50NM4e_f0DllS7znHwj3eHQ/pub?start=false&loop=false&delayms=3000&slide=id.p1)
 
 
-# 日本チーム
+### 日本チーム
 ## SaltyChipチーム
 - Yuta Shiomi(リーダー)
 - M.Yamada
 - Bo-Yu Tseng
+
+
 ### ターゲット回路
 - Transmission Gate
 - MIM Capacitor
@@ -37,8 +39,12 @@ Chipathonはあるルールに基づいて、チームで半導体（ASIC）を�
 - Current Mirror
 - Regulated Cascode
   - カレントソースを作ることが目的
+
+
 ## ISHI-Kai LNAチーム
 - Noritsuna Imamura
+
+
 ### ターゲット回路
 - Low noise amplifier
 
@@ -48,6 +54,6 @@ Chipathonはあるルールに基づいて、チームで半導体（ASIC）を�
 また、毎週木曜日はChipathonもくもく会もやっておりますので、どんなことをやっているのか？気になる方は覗きに来てもらえればと思います。  
 
 
-### 定例もくもく会:https://discord.com/channels/1087260891264856144/1175045420922183740
+### [定例もくもく会](https://discord.com/channels/1087260891264856144/1175045420922183740)
 - 毎週木曜日の21～24時
   - 適当な時間に集まって、適当にもくもくする会です。
