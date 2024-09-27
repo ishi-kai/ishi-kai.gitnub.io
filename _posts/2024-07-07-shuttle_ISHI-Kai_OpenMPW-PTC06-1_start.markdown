@@ -35,7 +35,7 @@ ISHI会でスポンサーが付く形でシャトルの相乗り募集をする�
 今回はスポンサーの申し出があったため「**無料**」となります。  
 
 - シャトル提供スポンサー
-    - [株式会社GxP](https://www.gxp.co.jp/)
+    - [株式会社グロースエクスパートナーズ](https://www.gxp.co.jp/)
 - コミュニティー開発支援スポンサー
     - [有限会社シンビー](https://sinby.com/)
     - [SIProp LLC](https://www.siprop.org/)
