@@ -58,7 +58,7 @@ yat:
   date_format: "%b %d, %Y"
 
 # If you want more debug log, you can set true
-# debug: false
+debug: false
 
 # If you don't want transparent header, you can set false
 # header_transparent: true
