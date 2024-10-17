@@ -46,7 +46,7 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの東海理化シ
         - VSSは共通のものを利用してもよいため、数に入れなくてもよい
 - なぜ、4ピンだけか？
     - 設計難度が高いところをバランス良く外付けと振り分けることで「まったく動かない回路」になることを避けるためです
-    - ![4Pin](/assets/images/shuttle/TR10/4pins.png)  
+![4Pin](/assets/images/shuttle/TR10/4pins.png)  
 
 
 ### 料金は？
@@ -71,7 +71,7 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの東海理化シ
 
 セットアップされるツールは下記の通りのとなります。もちろん、すべて**オープンソース**のツールであり、**無料**で利用可能です。  
 
-  ![ツール一覧](/assets/images/shuttle/OSS_tools.png)
+![ツール一覧](/assets/images/shuttle/OSS_tools.png)
 
 
 ## 参加方法
