@@ -49,3 +49,17 @@ categories: contest minimalfab
 ### 締め切り
 エントリ締め切りは、第１部、第２部ともに、2025年1月6日の23:59です。
 
+
+## 環境構築
+公式からはPDKのインストール方のみがアナウンスされています。  
+そこで、ISHI会でWSL/Ubuntu22.04/Mac Appleシリコンシリーズに対応したEDA(開発環境)まで対応した開発環境構築用のスクリプトを作りました。  
+必要な方はご活用ください。  
+各環境にて下記のコマンドで環境構築が可能です。  
+
+```
+git clone https://github.com/ishi-kai/OpenRule1umPDK_setupEDA
+cd OpenRule1umPDK_setupEDA
+./eda-setup.sh
+./pdk_MF20-setup.sh
+```
+
