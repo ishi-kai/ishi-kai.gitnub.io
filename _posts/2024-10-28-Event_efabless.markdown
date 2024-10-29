@@ -5,7 +5,7 @@ date:   2024-10-28 00:00:00 +0900
 categories: Information Seminar
 ---
 
-# 2024年11月イベントeFabless勉強会
+## 2024年11月イベントeFabless勉強会
 [eFabless 社](https://efabless.com/) | eFabless社 CTO Mohamed Kassem氏が来日されます。  
 そこで、今回の勉強会ではMohamed 氏をお呼びして、eFabless社の現状について語っていただきます。  
 さらに、eFabless社のChipIgniteを利用したご経験を日置様に語っていただき、[OpenSUSI](https://www.opensusi.org/) 代表理事 岡村様に国内でのChipIgniteの状況ついて語ってもらいます。  
@@ -16,12 +16,12 @@ categories: Information Seminar
 * 2024年11月23日（土）13：00〜17：00  
 
 
-###開催場所
-### リアル会場
+### 開催場所
+#### リアル会場
 * 【施設名】WeWork 日比谷 FORT TOWER 10F 共有スペース
 * 【住所】　東京都港区西新橋1丁目1番地
 
-### オンライン会場
+#### オンライン会場
 * YouTube Streaming
     * [https://youtube.com/live/4exSlvReb9g?feature=share](https://youtube.com/live/4exSlvReb9g?feature=share)
     * 【参加資格】　誰でも可
