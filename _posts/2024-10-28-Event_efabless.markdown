@@ -18,7 +18,7 @@ categories: Information Seminar
 
 ### 開催場所
 #### リアル会場
-* 【施設名】WeWork 日比谷 FORT TOWER 10F 共有スペース
+* 【施設名】WeWork 日比谷 FORT TOWER 9階 9R会議室
 * 【住所】　東京都港区西新橋1丁目1番地
 
 #### オンライン会場

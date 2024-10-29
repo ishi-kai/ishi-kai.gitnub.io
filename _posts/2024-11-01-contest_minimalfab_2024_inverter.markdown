@@ -4,20 +4,19 @@ title:  "ISHI会版OpenMPW TR10-1開始！！！～2024年TR10（東海理化シ
 date:   2024-11-01 00:00:00 +0900
 categories: shuttle contest minimalfab
 ---
-# 2024年12月イベント：初めての半導体設計・製造体験 for ミニマルファブコンテスト ハンズオン
-## 内容
-初めての半導体設計・製造を体験したいという方に向けて「一日で環境のセットアップ～回路～レイアウト～テープアプト」までを一気にやるという企画です。</br>
-</br>
-もし、俺もオレオレチップ作ってみたい！という方がいらっしゃれば、ぜひ、チャレンジしてみてください！！！</br>
-また、スペースに余裕があれば、レイアウトを載せることは可能ですので、その場合は来年の動作確認会を開催しますので、その時に自分の設計の動作確認が可能です。。</br>
-ただし、今回は「***コンテストに勝ち残った場合***」にチップは製造され、動作確認のための測定会は開催されますが、***お手元に配布するチップ***はありません。</br>
+## 2024年12月イベント：初めての半導体設計・製造体験 for ミニマルファブコンテスト ハンズオン
+初めての半導体設計・製造を体験したいという方に向けて「一日で環境のセットアップ～回路～レイアウト～テープアプト」までを一気にやるという企画です。  
 
+
+もし、俺もオレオレチップ作ってみたい！という方がいらっしゃれば、ぜひ、チャレンジしてみてください！！！   
+また、スペースに余裕があれば、レイアウトを載せることは可能ですので、その場合は来年の動作確認会を開催しますので、その時に自分の設計の動作確認が可能です。。  
+ただし、今回は「***コンテストに勝ち残った場合***」にチップは製造され、動作確認のための測定会は開催されますが、***お手元に配布するチップ***はありません。  
 
 - [ISHI会のOpenMPWのご案内](https://ishi-kai.org/openmpw/shuttle/tr10/2024/10/15/shuttle_ISHI-Kai_OpenMPW-TR10-1_start.html)
 
 
-※[アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/inverter_OR1.pdf) をベースに進めます！</br>  
-※オープンソース半導体ってどうなの？ってかたは、[こちらの資料](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf) をご覧ください！</br>  
+* [アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/inverter_OR1.pdf) をベースに進めます！  
+* オープンソース半導体ってどうなの？ってかたは、[こちらの資料](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf) をご覧ください！  
 
 
 ### ミニマルファブコンテストについて
@@ -48,19 +47,19 @@ categories: shuttle contest minimalfab
 - 作成した回路やレイアウトなどの成果物、出来てきた半導体の動作結果などの発表会をしますので、その資料を作成してください。
 
 
-#日程
-##募集サイト
+## 日程
+### 募集サイト
 * [https://connpass.com/event/335276/](https://connpass.com/event/335276/)
 
-##日時
-2024年12月14日（土）13：00〜18：00</br>
+### 日時
+2024年12月14日（土）13：00〜18：00
 
-##開催場所
-### リアル会場
-* 【施設名】WeWork 日比谷 FORT TOWER 10F 共有スペース
-* 【住所】　東京都港区西新橋1丁目1番地</br>
+### 開催場所
+#### リアル会場
+* 【施設名】WeWork 日比谷 FORT TOWER 9階 9R会議室
+* 【住所】　東京都港区西新橋1丁目1番地
 
-### オンライン配信
+#### オンライン配信
 * YouTube Streaming
     * [https://youtube.com/live/tnlWAqaulqs?feature=share](https://youtube.com/live/tnlWAqaulqs?feature=share)
     * 【参加資格】　見学者用
@@ -69,12 +68,12 @@ categories: shuttle contest minimalfab
     * 【参加資格】　設計挑戦したい方用（Maxが25名のため聞くだけの人はYouTubeをご利用ください。コメントでの質疑応答も受け付けます。）
 
 
-##参加費
+### 参加費
 無料
 
 
-## 各種準備
-### 開発環境 
+### 各種準備
+#### 開発環境 
 公式からはPDKのインストール方のみがアナウンスされています。  
 そこで、ISHI会でWSL/Ubuntu22.04/Mac Appleシリコンシリーズに対応したEDA(開発環境)まで対応した開発環境構築用のスクリプトを作りました。  
 必要な方はご活用ください。  
@@ -88,13 +87,13 @@ cd OpenRule1umPDK_setupEDA
 ./pdk_MF20-setup.sh
 ```
 
-### 持ち物  
+#### 持ち物  
 * PC・・・必須です。WindowsやUbuntuやMac M1,2,3でご用意ください。
 * マウス・・・タッチパッドでは厳しいです。ぜひともご用意ください。回路図エディタやレイアウトエディタを操作するには、タッチパッドではかなり厳しいです。
 * めげない心・・・一番重要です。忘れないようにしっかり寝てから参戦しましょう！
 
 
-### 各種資料
+#### 各種資料
 * [アナログ開発ツールの使い方(OpenRule1um)](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/inverter_OR1.pdf)
 * [上記の補講ビデオ:202409定例「SKY130で学ぶLSI回路設計」](https://www.youtube.com/watch?v=s2QD2kWNEMs)
 * [オープンソース半導体の世界がやってきた！(読み物)](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf)
