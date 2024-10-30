@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ISHI会版OpenMPW TR10-1開始！！！～2024年TR10（東海理化シャトル）の相乗り募集～"
+title:  "2024年12月イベント：初めての半導体設計・製造体験 for ミニマルファブコンテスト ハンズオン"
 date:   2024-11-01 00:00:00 +0900
 categories: shuttle contest minimalfab
 ---
@@ -15,8 +15,8 @@ categories: shuttle contest minimalfab
 - [ISHI会のOpenMPWのご案内](https://ishi-kai.org/openmpw/shuttle/tr10/2024/10/15/shuttle_ISHI-Kai_OpenMPW-TR10-1_start.html)
 
 
-* [アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/inverter_OR1.pdf) をベースに進めます！  
-* オープンソース半導体ってどうなの？ってかたは、[こちらの資料](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf) をご覧ください！  
+* [アナログ開発環境の使い方について](https://github.com/ishi-kai/minimalfab_contest_2024_all_iverter/blob/main/docs/inverter_MF20.pdf) をベースに進めます！  
+* オープンソース半導体ってどうなの？ってかたは、[こちらの資料](https://github.com/ishi-kai/minimalfab_contest_2024_all_iverter/blob/main/docs/forBeginners.pdf) をご覧ください！  
 
 
 ### ミニマルファブコンテストについて
@@ -87,6 +87,13 @@ cd OpenRule1umPDK_setupEDA
 ./pdk_MF20-setup.sh
 ```
 
+##### Macの開発環境 
+Mac環境（Appleシリコン）ですとセットアップスクリプトが動作しない場合があります。その場合は、[VMware](https://www.vmware.com/)上で実行してください。（Intel Macは非対応）  
+* [VMware Image for minimalfab](https://www.noritsuna.jp/download/ISHI-kai_EDA_vmware_MF20.tar.xz)  
+    * ID:ishi-kai  
+    * pass:ishi-kai  
+
+
 #### 持ち物  
 * PC・・・必須です。WindowsやUbuntuやMac M1,2,3でご用意ください。
 * マウス・・・タッチパッドでは厳しいです。ぜひともご用意ください。回路図エディタやレイアウトエディタを操作するには、タッチパッドではかなり厳しいです。
@@ -94,6 +101,6 @@ cd OpenRule1umPDK_setupEDA
 
 
 #### 各種資料
-* [アナログ開発ツールの使い方(OpenRule1um)](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/inverter_OR1.pdf)
+* [アナログ開発ツールの使い方(OpenRule1um)](https://github.com/ishi-kai/minimalfab_contest_2024_all_iverter/blob/main/docs/inverter_MF20.pdf)
 * [上記の補講ビデオ:202409定例「SKY130で学ぶLSI回路設計」](https://www.youtube.com/watch?v=s2QD2kWNEMs)
-* [オープンソース半導体の世界がやってきた！(読み物)](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf)
+* [オープンソース半導体の世界がやってきた！(読み物)](https://github.com/ishi-kai/minimalfab_contest_2024_all_iverter/blob/main/docs/forBeginners.pdf)
