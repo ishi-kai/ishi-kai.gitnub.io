@@ -35,8 +35,11 @@ permalink: /links/
 
 
 ## 初心者向け情報
+* 初心者向け資料
+     * [オープンソース半導体の世界がやってきた！](./assets/pdf/forBeginners.pdf)
+
 * EDAツールのセットアップ方法
-     * [https://github.com/ishi-kai/OpenLane-Examples](https://github.com/ishi-kai/OpenLane-Examples)
+     * [https://github.com/ishi-kai/OpenRule1umPDK_setupEDA](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA)
 
 * 用語集
      * [https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/](https://github.com/jun1okamura/glossary_semiconductor_design_terms_for_beginners/)
