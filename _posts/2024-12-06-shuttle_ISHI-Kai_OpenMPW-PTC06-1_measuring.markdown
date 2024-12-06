@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ISHI会版OpenMPW PTC06-1測定＆お渡し会！！！～2024年PTC06（フェニテックシャトル）～"
-date:   2024-12-07 00:00:00 +0900
+date:   2024-12-06 00:00:00 +0900
 categories: openmpw shuttle PTC06
 ---
 ## ISHI会版OpenMPW PTC06-1測定＆お渡し会！！！～2024年PTC06（フェニテックシャトル）～
