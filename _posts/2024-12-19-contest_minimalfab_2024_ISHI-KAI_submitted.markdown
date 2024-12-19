@@ -12,7 +12,7 @@ categories: openmpw shuttle TR10
   ![みんなdeインバータのデザイン](https://github.com/ishi-kai/minimalfab_contest_2024_all_inverter/raw/main/Submitted/all_member_inverter_layout.png)
   ![みんなdeインバータのデザイン名前入り](https://github.com/ishi-kai/minimalfab_contest_2024_all_inverter/raw/main/Submitted/all_member_inverter_name.png)
 
-  ![めいろdeインバータのデザイン名前入り]https://github.com/ishi-kai/minimalfab_contest_2024_maze_inverter/raw/main/images/member_target.png)
+  ![めいろdeインバータのデザイン名前入り](https://github.com/ishi-kai/minimalfab_contest_2024_maze_inverter/raw/main/images/member_target.png)
   ![めいろdeインバータのデザイン](https://github.com/ishi-kai/minimalfab_contest_2024_maze_inverter/raw/main/images/layout.png)
 
 
