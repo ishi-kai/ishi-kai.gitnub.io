@@ -34,6 +34,14 @@ ISHI界最大となるオフ＆オンライン合わせての100名近い参加�
 ](https://ishi-kai.org/openmpw/shuttle/ptc06/2024/07/06/shuttle_ISHI-Kai_OpenMPW-PTC06-1_start.html)  
 * [ISHI会版OpenMPW TR10-1開始！！！～2024年TR10（東海理化シャトル）の相乗り募集～](https://ishi-kai.org/openmpw/shuttle/tr10/2024/10/15/shuttle_ISHI-Kai_OpenMPW-TR10-1_start.html)  
 
+* [ISHI会版OpenMPW PTC06-1完了！！！](https://ishi-kai.org/openmpw/shuttle/ptc06/2024/08/12/shuttle_ISHI-Kai_OpenMPW-PTC06-1_submitted.html)  
+
+![レイアウト](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-1/raw/main/Submitted/all_members_layout_using.png?raw=true)
+
+* [ISHI会版OpenMPW TR10-1完了！！！](https://ishi-kai.org/openmpw/shuttle/tr10/2024/12/17/shuttle_ISHI-Kai_OpenMPW-TR10-1_submitted.html)  
+
+![レイアウト](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/raw/main/images/submited_layout_name.png)
+
 の2つのOpenMPWをISHI会の主催で開催いたしました。  
 下記のスポンサーの皆様やこれまでISHI会に関わってきてくれた方々の実績があればこそであり、非常にありがたいイベントとなりました。  
 
