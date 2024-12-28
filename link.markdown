@@ -13,7 +13,14 @@ permalink: /links/
 
 
 * ISHI会の説明プレゼン
-     * [https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw](https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw)
+     * 2025年バージョン（日本語）
+         * [PPTX](assets/presentation/2025/ISHI-KAI_JP_2025.pptx)
+         * [PDF](assets/presentation/2025/ISHI-KAI_JP_2025.pdf)
+     * 2025年バージョン（英語）
+         * [PPTX](assets/presentation/2025/ISHI-KAI_EN_2025.pptx)
+         * [PDF](assets/presentation/2025/ISHI-KAI_EN_2025.pdf)
+     * [2024年バージョン](assets/presentation/2025/ISHI-KAI_2024.pptx)
+     * [最初期バージョン](https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw)
 
 
 ## Discord
