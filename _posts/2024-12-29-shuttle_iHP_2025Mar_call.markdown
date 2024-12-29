@@ -25,14 +25,14 @@ categories: shuttle iHP
 そのほかは、大晦日21時～からのISHI会のDiscordで[もくもく会](https://discord.com/channels/1087260891264856144/1175045420922183740)や[大晦日ハッカソン](https://omisoka-hackathon.connpass.com/)ででも決めていこうかと思います。  
 
 * LNA(Low Noise Amplifire)チーム
-    * ![表紙](assets/images/shuttle/iHP_202503/call_1.png)
-    * ![シャトル説明](assets/images/shuttle/iHP_202503/call_2.png)
-    * ![なにをするのか？](assets/images/shuttle/iHP_202503/call_3.png)
-    * ![チーム投稿](assets/images/shuttle/iHP_202503/call_4.png)
-    * ![LNAチーム](assets/images/shuttle/iHP_202503/call_5.png)
-    * ![スケジュール](assets/images/shuttle/iHP_202503/call_6.png)
-    * ![セットアップ](assets/images/shuttle/iHP_202503/call_7.png)
-    * [PDF版](assets/images/shuttle/iHP_202503/iHP_20250301.pdf)
+    * ![表紙](/assets/images/shuttle/iHP_202503/call_1.png)
+    * ![シャトル説明](/assets/images/shuttle/iHP_202503/call_2.png)
+    * ![なにをするのか？](/assets/images/shuttle/iHP_202503/call_3.png)
+    * ![チーム投稿](/assets/images/shuttle/iHP_202503/call_4.png)
+    * ![LNAチーム](/assets/images/shuttle/iHP_202503/call_5.png)
+    * ![スケジュール](/assets/images/shuttle/iHP_202503/call_6.png)
+    * ![セットアップ](/assets/images/shuttle/iHP_202503/call_7.png)
+    * [PDF版](/assets/images/shuttle/iHP_202503/iHP_20250301.pdf)
 
 
 ### 募集先
