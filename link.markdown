@@ -22,6 +22,10 @@ permalink: /links/
      * [2024年バージョン](assets/presentation/2025/ISHI-KAI_2024.pptx)
      * [最初期バージョン](https://www.slideshare.net/noritsuna/introduction-of-ishikai-with-openmpw)
 
+* シャトルスポンサー募集用資料
+    * [PPTX](assets/presentation/2025/OpenMPW_2025.pptx)
+    * [PDF](assets/presentation/2025/OpenMPW_2025.pdf)
+
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
