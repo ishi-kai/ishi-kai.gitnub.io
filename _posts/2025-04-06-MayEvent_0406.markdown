@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "ISHI会　2025年5月イベント「ISHI会二周年記念イベント～AIで半導体を設計してみよう！～」の参加者募集"
+date:   2025-04-06 00:00:00 +0900
+categories: Information Seminar
+---
+
+### 2025年5月イベント「ISHI会二周年記念イベント～AIで半導体を設計してみよう！～」の概要
+ISHI会は２年前のGWに結成され、二周年を迎えました！  
+最近流行りのAIを使って、アナログ回路半導体を設計する内容となります。  
+
+具体的には、Jakob Ratschenberger and Harald Pretlの[From Code to Chip : Open-Source Automated Analog Layout Design](https://sedemos.blogspot.com/2025/01/book-from-code-to-chip.html)をベースとしての解説イベントです。  
+AIを利用して、OPAMPを自動設計する場合の裏にある自動設計するための技術の詳細解説と実際にSkywater130nm PDKを用いて作成するところまでありますので、なかなか濃い内容となります。  
+（ロジック系はFPGAのAI設計と同じ方向≒Verilogを出力するとなるため、今回はスコープからは外しました。要望があればこちらもやっていきたいところです。）  
+  
+ぜひ、新しい半導体業界の息吹を感じ取ってもらえればと思います。 ※偶数年は流行りものイベントをやって、奇数年は討論会イベントをやろうと思っています。（あくまで予定）  
+
+
+### 日時
+* 2025年5月6日（祝・火）13：00〜18：30  
+
+### 参加申し込み 
+* 東京会場&オンライン  
+    * [https://ishikai.connpass.com/event/346344/](https://ishikai.connpass.com/event/346344/)  
