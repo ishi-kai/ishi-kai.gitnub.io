@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ISHI会版OpenMPW TR10-1測定＆お渡し会！！！～2024年TR10（東海理化シャトル）～"
-date:   2025-03-15 00:00:00 +0900
+date:   2025-03-03 00:00:00 +0900
 categories: openmpw shuttle TR10
 ---
 ## ISHI会版OpenMPW TR10-1測定＆お渡し会！！！～2024年TR10（東海理化シャトル）～
@@ -32,7 +32,7 @@ categories: openmpw shuttle TR10
 * [2025年4月イベント：ISHI会版OpenMPW TR10-1測定＆お渡し会](https://connpass.com/event/346347/) 
 
 ###日時
-- 2025年4月12日（土）13：00〜18：00  
+- 2025年4月13日（日）13：00〜18：00  
 
 ###開催場所
 #### リアル会場
