@@ -1,18 +1,19 @@
 ---
 layout: post
-title:  "月刊I/O_2025年05月号より全6回予定で「Myチップを作りたい！」という連載開始です！"
+title:  "月刊I/O 2025年05月号より全6回予定で「Myチップを作りたい！」という連載開始です！"
 date:   2025-04-06 00:00:00 +0900
 categories: Article IO
 ---
 
-# [月刊I/O_2025年05月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)より全6回予定で「Myチップを作りたい！」という連載開始です！
-[月刊I/O_2025年05月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)より、全6回予定で「Myチップを作りたい！」という連載予定です！  
+# [月刊I/O 2025年05月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)より全6回予定で「Myチップを作りたい！」という連載開始です！
+[月刊I/O 2025年05月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)より、全6回予定で「Myチップを作りたい！」という連載予定です！  
 電子工作「は」やったことある人向けにInverter回路を設計して、レイアウトするところまでを駆け足で解説する連載となります。  
 かなりの初心者をターゲットにしてほしいという編集からの要望で、第一回目は「チップとは？」というところからとなります。皆さんに作ってもらったチップなどを題材としながら解説しております。  
 気になる方はぜひ、お買い求めください！  
 
-●月刊I/O_2025年05月号
-https://www.amazon.co.jp/dp/B00TIVBKOM/
+## [月刊I/O 2025年05月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)
+- [Amazon](https://www.amazon.co.jp/dp/B00TIVBKOM/)
+- [楽天ブックス](https://books.rakuten.co.jp/rb/18201560/)
 
   ![表紙](/assets/images/article/IO/IO_202505_TOP.jpg)  
   ![サンプルページ](/assets/images/article/IO/IO_202505_1stP.png)  
