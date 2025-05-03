@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "ISHI会　2025年6月イベント「TinyTapeoutのお誘い」の参加者募集"
+date:   2025-05-14 00:00:00 +0900
+categories: Information Seminar
+---
+
+# 2025年6月イベント「[TinyTapeout](https://tinytapeout.com/)のお誘い」の参加者募集の概要
+9月1日に締め切り（テープアウト）がある[TinyTapeout](https://tinytapeout.com/)への投稿のお誘いイベントです。  
+[TinyTapeout](https://tinytapeout.com/)への投稿方法を解説と各種質問の受付をします。  
+チャレンジしてみたい方は、ぜひ、ご参加ください。  
+（製造可能な半導体回路はVerilogによるデジタル（ロジック）回路となります。）  
+
+## 日時
+* 2025年6月11日（水）21：00〜22：00（オンラインのみ）  
+
+## 参加申し込み 
+* [https://ishikai.connpass.com/event/354535/](https://connpass.com/event/354535/)  
+
+## 資料
+* [半導体製造(TinyTapeout)に挑戦しよう！HP130版](https://www.slideshare.net/slideshow/try-make-your-chip-by-tinytapeout-for-ihp/278680328)  
+
+
+# [TinyTapeout](https://tinytapeout.com/)とは？
+約2万円で製造出来る半導体製造サービスの一つです。  
+利用できるゲート数は2000ゲートほどと少ないですが、初めての半導体製造体験にはうってつけのサービスとなっています。  
+（お金を払えば増やせます。€50ごとに2000ゲートずつ増えます。）  
+
