@@ -31,7 +31,7 @@ OPAMP設計・製造グループは別途募集予定ですので、まず、本
 * [ISHI会のYouTube](https://www.youtube.com/@ISHI_KAI)
 
 ## YouTube配信とアーカイブ
-* [初めてのOPAMP設計講座Vol.1（2025/05/28）](https://youtube.com/live/zmJ3PZyaGXA?feature=share)
+* [初めてのOPAMP設計講座Vol.1（2025/05/29）](https://youtube.com/live/zmJ3PZyaGXA?feature=share)
 * [初めてのOPAMP設計講座Vol.2（2025/06/05）](https://youtube.com/live/V3ZwCuObiX0?feature=share)
 * [初めてのOPAMP設計講座Vol.3（2025/06/12）](https://youtube.com/live/bYIJgI574VQ?feature=share)
 * [初めてのOPAMP設計講座Vol.4（2025/06/19）](https://youtube.com/live/uMAU7_YwMBQ?feature=share)
