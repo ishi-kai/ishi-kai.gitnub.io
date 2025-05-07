@@ -5,15 +5,15 @@ date:   2025-05-08 00:00:00 +0900
 categories: Article IO
 ---
 
-# [月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)にて第二回目「Myチップを作りたい！」が掲載されます
-[月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)で「Myチップを作りたい！」の第二回目が掲載されます！  
+# [月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B0F64VL9TD/)にて第二回目「Myチップを作りたい！」が掲載されます
+[月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B0F64VL9TD/)で「Myチップを作りたい！」の第二回目が掲載されます！  
 「Myチップはどうしたら作れるの？」というサブタイトルにて、今後の連載の流れのダイジェストと無償にて半導体を製造する方法やセミナーの案内をしています。ぶっちゃければ、ISHI会の宣伝回です。  
   
 気になる方はぜひ、お買い求めください！  
 
-## [月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B00TIVBKOM/)
-* [Amazon](https://www.amazon.co.jp/dp/B00TIVBKOM/)
-* [楽天ブックス](https://books.rakuten.co.jp/rb/18201560/)
+## [月刊I/O 2025年06月号](https://www.amazon.co.jp/dp/B0F64VL9TD/)
+* [Amazon](https://www.amazon.co.jp/dp/B0F64VL9TD/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18225406/)
 
   ![表紙](/assets/images/article/IO/IO_202506_TOP.jpg)  
   ![サンプルページ](/assets/images/article/IO/IO_202506_1stP.png)  
