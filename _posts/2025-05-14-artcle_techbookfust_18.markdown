@@ -30,7 +30,7 @@ categories: Article
 
 ## 電子版
 * [技術書典18](https://techbookfest.org/)
-    * [電子版(PDF&epubのセット)：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://techbookfest.org/market)
+    * [電子版(PDF&epubのセット)：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://techbookfest.org/market) （現在、審査中）
 * Amazon
     * [Kindle版：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://www.amazon.co.jp/dp/B0F7GTBFYR)
 * 価格
