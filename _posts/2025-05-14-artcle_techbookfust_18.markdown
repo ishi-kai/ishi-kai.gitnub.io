@@ -24,13 +24,13 @@ categories: Article
 * 価格
     * 紙版のみ
         * 1000円
-    * 紙版＋電子版のセット
+    * 会場のみの特別セット：紙版＋電子版のセット
         * 1500円
 
 
 ## 電子版
 * [技術書典18](https://techbookfest.org/)
-    * [電子版(PDF&epubのセット)：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://techbookfest.org/market) （現在、審査中）
+    * [電子版(PDF&epubのセット)：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://techbookfest.org/product/3W7W1ukgkMrX6ENeBJaaYn) 
 * Amazon
     * [Kindle版：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://www.amazon.co.jp/dp/B0F7GTBFYR)
 * 価格
