@@ -41,3 +41,4 @@ categories: Article
   ![表紙](/assets/images/article/magazine/vol_1_cover.png)  
   ![もくじ1](/assets/images/article/magazine/vol_1_agenda1.png)  
   ![もくじ2](/assets/images/article/magazine/vol_1_agenda2.png)  
+
