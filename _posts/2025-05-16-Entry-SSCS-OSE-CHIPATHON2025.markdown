@@ -13,6 +13,9 @@ IEEE SSCS Open-Source Ecosystem [Chipathon](https://sscs.ieee.org/technical-comm
 6月くらいから徐々に立ち上がっていきますので、興味のある方はぜひエントリーしてみてください。  
 
 ISHI会では、チームビルディングのお手伝いなどをする予定ですので、「ソロなのでちょっと無理かもしれない」という方や「知識に不安があるんだけど」という方は、ISHI会Discord内の「[2025_sscs-pico-chipathon](https://discord.gg/7Pc3wve2uV)」チャンネルを「通知設定」しておいてもらえればと思います。  
+滋賀県立大学の土谷先生からは、上記のチャンネルにて下記のようなコメントをもらっておりますので、ぜひとも参加してもらえればと思います。  
+
+![メッセージ](/assets/images/Chipathon/2025_committee_message.png)
 
 
 ### 去年の大雑把なスケジュール
@@ -31,8 +34,8 @@ ISHI会では、チームビルディングのお手伝いなどをする予定�
 
 
 ## 2023-2024の情報
-* [Chipathon関連記事一覧](https://ishi-kai.org/categories.html#h-Chipathon)
-* [2024年参加者であるSaltyChipさんの感想記](https://note.com/saltychip/n/n0a94b33fb384)
+* [Chipathon関連記事一覧](https://ishi-kai.org/categories.html#h-Chipathon)  
+* [2024年参加者であるSaltyChipさんの感想記](https://note.com/saltychip/n/n0a94b33fb384)  
 
 ## 活動場所
 日本チームに関しては、ISHI会Discord内の「[2025_sscs-pico-chipathon](https://discord.gg/7Pc3wve2uV)」チャンネルで活動予定です。  
