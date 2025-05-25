@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ISHI会版OpenMPW PTC06-2開始！！！～2025年PTC06（フェニテックシャトル）の相乗り募集～"
-date:   2025-05-26 00:00:00 +0900
+date:   2025-05-25 00:00:00 +0900
 categories: openmpw shuttle PTC06
 ---
 ## ISHI会版OpenMPW PTC06-2開始！！！～2025年PTC06（フェニテックシャトル）の相乗り募集～
@@ -53,6 +53,7 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの[2025_08_フェ
         - 2名以上のグループ
     - PDK
         - [OpenRule1umPDK](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA)のPTC06
+            - これ以外のPDK利用は不可
     - テープアウト(締め切り)
         - 2025年8月11日
     - Maxサイズは「横：600um x 縦：400um」
@@ -67,11 +68,12 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの[2025_08_フェ
     - ISHI会のDiscord上シャトルフォーラムの[2025_08_フェニテックシャトル掲示板](https://discord.com/channels/1087260891264856144/1360151443557843045)で参加宣言をしてください。
         - 事前に**参加宣言されない場合は受け付けません**。
         - 参加宣言に強制力はありません。後日「やっぱりやめます」でもOKです。
-    - 優先順位（下記の条件に多くあてはまる人が多いほど優先します）
+    - 優先順位（枠には限りがあるため、下記の条件に多くあてはまる人が多いほど優先します）
         - インバータ回路しか半導体設計をしたことがない人
         - いままで共同投稿に参加したけど、まだテープアウト（製造）までたどり着けていない人
         - 学生
         - 若手（35歳以下）の人
+            - 要するに初心者や初学者を優先するというということです
 - 活動方法
     - クローズドでは活動せずにISHI会のDiscord上シャトルフォーラムの[2025_08_フェニテックシャトル掲示板](https://discord.com/channels/1087260891264856144/1360151443557843045)などをご利用ください
         - 理由はOSS活動のため**未来の皆様の設計資産**として残すためです
@@ -92,8 +94,8 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの[2025_08_フェ
 また、滋賀県立大学の土谷先生の[GF180によるOPAMP解説](https://note.com/akira_tsuchiya/n/n710ed2d0e428)も、利用予定のOpenRule1umPDKに書き直したものも用意しました。  
 ぜひ、ご活用ください。
 
-- [サンプルの回路図](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/opamp)  
-- [解説書](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/opamp/docs/opamp.pdf)  
+- [サンプルの回路図](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OR1/PTC06/opamp/)  
+- [解説書](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OR1/PTC06/README.md)  
 
 
 ### 料金は？
@@ -105,7 +107,7 @@ ISHI会のDiscordチャンネルのシャトルフォーラムの[2025_08_フェ
 
 ### 参加条件
 * チップはパッケージ入りとベアダイを、応募者で分けることになり、基本的にどちらかを一人一個となります。
-* EDAツールはOSSのもののみ使用可能です。
+* EDAツールはOSSのもののみ使用可能です。ただし、代替が効かないものは商用のツールを利用してもらって構いませんが成果物が公開できない形になる場合は不可です。
 * PDKはOpenRule1umPDKのみ使用可能です。他のPDKを使用した場合は受け付けません。
 * 作成した回路やレイアウトなどの成果物はOSSとしてISHI会のページで公開します。
 * 作成した回路やレイアウトなどの成果物、出来てきた半導体の動作結果などの発表会をしますので、その資料を作成してください。
