@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "月刊I/O 2025年07月号 第三回目「Myチップを作りたい！」が掲載されます"
+date:   2025-06-04 00:00:00 +0900
+categories: Article IO
+---
+
+# [月刊I/O 2025年07月号](https://www.amazon.co.jp/dp/B0FB57YV42/)にて第二回目「Myチップを作りたい！」が掲載されます
+[月刊I/O 2025年07月号](https://www.amazon.co.jp/dp/B0FB57YV42/)で「Myチップを作りたい！」の第二回目が掲載されます！  
+「半導体ってなに？」というサブタイトルにて、知っているようで知らない半導体の動作原理について解説しています。これを理解することで、半導体チップの設計知識へとつながる重要な章となります。  
+  
+気になる方はぜひ、お買い求めください！  
+
+## [月刊I/O 2025年07月号](https://www.amazon.co.jp/dp/B0FB57YV42/)
+* [Amazon](https://www.amazon.co.jp/dp/B0FB57YV42/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18253864/)
+
+  ![表紙](/assets/images/article/IO/IO_202507_TOP.jpg)  
+  ![サンプルページ](/assets/images/article/IO/IO_202507_1stP.png)  
+  ![もくじ](/assets/images/article/IO/IO_202507_agenda.png)  
+
