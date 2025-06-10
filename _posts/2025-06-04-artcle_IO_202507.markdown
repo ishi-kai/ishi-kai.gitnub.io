@@ -15,7 +15,7 @@ categories: Article IO
 * [Amazon](https://www.amazon.co.jp/dp/B0FB57YV42/)
 * [楽天ブックス](https://books.rakuten.co.jp/rb/18253864/)
 
-  ![表紙(Comming Soon)](/assets/images/article/IO/IO_202507_TOP.jpg)  
+  ![表紙](/assets/images/article/IO/IO_202507_TOP.jpg)  
   ![サンプルページ](/assets/images/article/IO/IO_202507_1stP.png)  
-  ![もくじ(Comming Soon)](/assets/images/article/IO/IO_202507_agenda.png)  
+  ![もくじ](/assets/images/article/IO/IO_202507_agenda.png)  
 
