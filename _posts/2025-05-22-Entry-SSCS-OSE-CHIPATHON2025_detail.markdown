@@ -49,3 +49,12 @@ LLMを利用して、ロジック回路（デジタル回路）を作ること�
 日本チームに関しては、ISHI会Discord内の「[2025_sscs-pico-chipathon](https://discord.gg/7Pc3wve2uV)」チャンネルで活動予定です。  
 もし、IEEE SSCS Open-Source Ecosystem Chipathon 2025参加を検討している方や知識に不安のある方は、ぜひ、ご参加ください！  
 また、Chipathonでは本家で毎週でMtgが行われる予定のため、その共有なども行われます。  
+
+
+## 公式リンク
+- 公式サイト
+    - [Chipathon 2025 github](https://github.com/sscs-ose/sscs-chipathon-2025)
+    - [Chipathon 2025 room here](https://matrix.to/#/%23chipathon-2025:fossi-chat.org)
+- 定例Mtg
+    - 毎週土曜日のゼロ時（毎週金曜日の24時）
+    - [Chipathon 2025 Zoom]( https://us06web.zoom.us/j/83060635740?pwd=UbIWLnu8C7nyLTZE7JglzRgbwSa23r.1)
