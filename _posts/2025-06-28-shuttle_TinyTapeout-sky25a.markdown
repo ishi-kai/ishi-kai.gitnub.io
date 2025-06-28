@@ -9,7 +9,7 @@ categories: tinytapeout shuttle sky
 TinyTapeoutのテープアウト（半導体製造）が、2025/9/15 締め切り（TO）で開催されます。  
 開発環境のセットアップ方法をまとめましたので、挑戦したい方はぜひ！  
 
-- 資料：[半導体製造(TinyTapeout)に挑戦しよう！](./assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
+- 資料：[半導体製造(TinyTapeout)に挑戦しよう！](https://ishi-kai.org/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
 
 
 ## [TinyTapeout](https://tinytapeout.com)とは？
