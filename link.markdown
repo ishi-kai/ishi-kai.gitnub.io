@@ -69,6 +69,43 @@ permalink: /links/
      * [OpenSUSI](https://www.opensusi.org/)
 
 
+# ハンズオン用資料
+## インバータ回路
+- [サンプル回路](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/tree/main/samples/inverter)
+- [ツールの使い方解説資料](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/tree/main/docs)
+- [サンプル回路の解説資料](https://github.com/3zki/lsi1_analog1/blob/main/analog_tutorial_jp.pdf)
+
+
+## OPAMP回路
+- [サンプル回路](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06)
+- [サンプル回路の解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)
+
+
+#### 解説ビデオ
+* [初めてのOPAMP設計講座Vol.1（2025/05/29）](https://youtube.com/live/zmJ3PZyaGXA?feature=share)
+* [初めてのOPAMP設計講座Vol.2（2025/06/05）](https://youtube.com/live/V3ZwCuObiX0?feature=share)
+* [初めてのOPAMP設計講座Vol.3（2025/06/12）](https://youtube.com/live/bYIJgI574VQ?feature=share)
+* [初めてのOPAMP設計講座Vol.4（2025/06/19）](https://youtube.com/live/uMAU7_YwMBQ?feature=share)
+* [初めてのOPAMP設計講座Vol.5（2025/06/26）](https://youtube.com/live/TMPB9pKv8nQ?feature=share)
+* [初めてのOPAMP設計講座Vol.6（2025/07/10）](https://youtube.com/live/LkaxX0n08vk?feature=share)
+* [初めてのOPAMP設計講座Vol.7（2025/07/17）](https://youtube.com/live/LWhL9P6R39Y?feature=share)
+* [初めてのOPAMP設計講座Vol.8（2025/07/24）](https://youtube.com/live/bsnM7mGUCtY?feature=share)
+* [初めてのOPAMP設計講座Vol.9（2025/07/31）](https://youtube.com/live/fTUNI5V6kBU?feature=share)
+
+#### おすすめ参考書
+- [https://discord.com/channels/1087260891264856144/1301740012072603648](https://discord.com/channels/1087260891264856144/1301740012072603648)
+- [https://discord.com/channels/1087260891264856144/1101145748206260287](https://discord.com/channels/1087260891264856144/1101145748206260287)
+- [https://discord.com/channels/1087260891264856144/1101140268939489291](https://discord.com/channels/1087260891264856144/1101140268939489291)
+
+#### 教科書
+- [https://discord.com/channels/1087260891264856144/1098055260632780931](https://discord.com/channels/1087260891264856144/1098055260632780931)
+- [https://discord.com/channels/1087260891264856144/1094200516411674754](https://discord.com/channels/1087260891264856144/1094200516411674754)
+
+#### おすすめ動画やサイト
+- [https://discord.com/channels/1087260891264856144/1246029054772248618](https://discord.com/channels/1087260891264856144/1246029054772248618)
+- [https://discord.com/channels/1087260891264856144/1113366969647890513](https://discord.com/channels/1087260891264856144/1113366969647890513)
+
+
 # ハッシュタグ
 ISHI会のハッシュタグは **#osssilicon** でお願いします。  
 本勉強会などのつぶやきなどにご利用ください。 
