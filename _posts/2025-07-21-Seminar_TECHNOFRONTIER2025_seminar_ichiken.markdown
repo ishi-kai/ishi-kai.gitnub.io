@@ -23,7 +23,7 @@ categories: Seminar
     - DIY半導体の時代へようこそ!オペアンプを設計し、半導体チップにするまで
 - 内容
     - 本講演では、オープンソースツールを用い、オペアンプの設計から実際の半導体チップ製造までを解説します。EDAツールの使い方、設計プロセス、シャトルサービスでの製造方法、完成チップの評価までを分かりやすく紹介し、DIY半導体設計の可能性と将来展望を示します。初心者からエンジニアまで幅広く役立つ内容です。
-
+- ![図](/assets/images/Seminar/TECHNOFRONTIER2025_seminar_ichiken.png)
 
 ### [イチケンさん](https://www.youtube.com/@ICHIKEN1)のレクチャーに利用した資料  
 * [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
