@@ -28,3 +28,9 @@ categories: Seminar
 ### [イチケンさん](https://www.youtube.com/@ICHIKEN1)のレクチャーに利用した資料  
 * [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
 * [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/)  
+
+
+
+# 2025/07/29追記
+電波新聞社が運営する半導体ナビにて、先日の[テクノフロンティア2025でのイチケンさんのオープンソース半導体に関する講演記事](https://note.com/semiconnavi/n/n903f16a12855)が公開されました。  
+ISHI会の話にも触れていただいております。  

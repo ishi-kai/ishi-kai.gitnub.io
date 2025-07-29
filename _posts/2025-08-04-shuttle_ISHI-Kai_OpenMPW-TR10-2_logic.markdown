@@ -1,28 +1,28 @@
 ---
 layout: post
-title:  "ISHI会版OpenMPW TR10-2　OPAMPハンズオンセミナー"
-date:   2025-08-03 00:00:00 +0900
+title:  "ISHI会版OpenMPW TR10-2　1bit CPUハンズオンセミナー"
+date:   2025-08-04 00:00:00 +0900
 categories: openmpw shuttle TR10
 ---
 
-# 2025年09月イベント：二日でOPAMP回路ハンズオン募集の概要
-半導体のアナログ設計の基礎知識からOPAMP設計に必要な各種アナログ回路を設計の仕方を学び、OPAMPを設計してレイアウトして製造するハンズオンとなります。  
-具体的には、半導体の教科書の一番最初に出てくるような二段差動増幅OPAMPとなります。  
-ちなみに、「[電気系ものづくりYouTuberのイチケンさんがオープンソース半導体でOPAMP設計に関するセミナーをTECHNO-FRONTIER 2025で実施します](https://ishi-kai.org/seminar/2025/07/20/Seminar_TECHNOFRONTIER2025_seminar_ichiken.html)」で書いた[イチケンさん](https://www.youtube.com/@ICHIKEN1)に実施したOPAMP設計レクチャーをベースに実施します。ですので、[イチケンさん](https://www.youtube.com/@ICHIKEN1)の苦労を追体験できます。  
+# 2025年09月イベント：ロジック回路ハンズオン募集の概要
+CPUやGPUが半導体としてどのように設計・製造されるのかを理解するためのハンズオン企画です。。  
+ロジック回路の概要とAND回路などの中の構造がFETの組み合わせで出来ていることの解説をします。そして、実際に1bit CPU回路図を作って、シミュレーションをしてもらいます。これにより、Verilogなどのハードウェア記述言語で記述したソフトウェアがどのように半導体の設計として反映されるかを理解してもらいます。    
+さらに、そのハードウェア記述言語で記述したソフトウェアがどのように半導体上にレイアウトされるのか？を理解するために、スタンダードセルを手作業で配置配線してもらいます。これにより、半導体がどのように製造されるか？を理解してもらいます。  
 
-  ![回路図](https://ishi-kai.org/assets/images/Seminar/OPAMP/circuit_01.png)  
-  ![レイアウト](https://ishi-kai.org/assets/images/Seminar/OPAMP/layout_01.png)  
+  ![回路図](https://github.com/noritsuna/1bit-CPU/raw/main/images/xschem_1bit-CPU.png)  
+  ![1line回路図](https://github.com/noritsuna/1bit-CPU/raw/main/images/xschem_1line.png)  
+  ![レイアウト](https://github.com/noritsuna/1bit-CPU/raw/main/images/klayout_1line.png)  
+  ![スタセルレイアウト](https://github.com/noritsuna/1bit-CPU/raw/main/images/klayout_1line_block.png)  
 
-* 【参加資格】
-    * 2日連続で10-18時で参加できる方  
+
+* 【参加資格】　
     * オープンソース半導体のEDAツールの使い方は理解している方
     * テスト運用と理解して参加してもらえる方
-    * レイアウトは自宅で一週間以内に完成されられる方
 
-** ！！！特大注意！！！テスト運用ということもあり、スパルタハンズオンとなります。ついていけないと判断した人は、容赦なく切り捨てていきます。理由は、「どのレベルくらいの方」が「どのくらいのレベルの解説をすると付いてこれなくなるのか？」を探るためのテスト運用となるためです。その条件であると理解して参加してください。 **  
+** ！！！特大注意！！！テスト運用ということもあり、スパルタハンズオンとなります。ついていけないと判断した人は、容赦なく切り捨てていきます。理由は、「どのレベルくらいの方」が「どのくらいのレベルの解説をすると付いてこれなくなるのか？」を探るためのテスト運用となるためです。その条件であると理解して参加してください。 **
 
-
-[九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターが主催する2025年度実習シリーズ](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)向けのOPAMPコースのテスト運用の形で実施されます。  
+[九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターが主催する2025年度実習シリーズ](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)向けのロジック・デジタル中級コースのテスト運用の形で実施されます。  
 そのため、ハンズオンとしてはまだ未完成の状態であるためかなりの不備が出ることが想定されます。そのため、その辺りが理解できる方のみご参加ください。  
 また、テスト運用のためレイアウトまで終わらない可能性が高く、レイアウトは自宅でやっていただく可能性が高いです。そのため、レイアウトを一週間以内に完成させて、提出してもらえることも条件となります。  
 
@@ -30,12 +30,6 @@ categories: openmpw shuttle TR10
 
 ## ハンズオンの内容
   ![目次1](https://ishi-kai.org/assets/images/Seminar/OPAMP/agenda_01.png)  
-  ![目次2](https://ishi-kai.org/assets/images/Seminar/OPAMP/agenda_02.png)  
-  ![目次3](https://ishi-kai.org/assets/images/Seminar/OPAMP/agenda_03.png)  
-  ![目次4](https://ishi-kai.org/assets/images/Seminar/OPAMP/agenda_04.png)  
-  ![目次5](https://ishi-kai.org/assets/images/Seminar/OPAMP/agenda_05.png)  
-  ![回路図](https://ishi-kai.org/assets/images/Seminar/OPAMP/circuit_01.png)  
-  ![レイアウト](https://ishi-kai.org/assets/images/Seminar/OPAMP/layout_01.png)  
 
 
 ### 最低限の知識となる資料（これが理解できない方は[インバータ回路ハンズオン](https://ishikai.connpass.com/event/363093/)へ参加してください。）  
@@ -44,9 +38,8 @@ categories: openmpw shuttle TR10
 
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
-* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/)  
-
+* [1bit CPUサンプル](https://github.com/noritsuna/1bit-CPU/)
+* [1bit CPU設計解説資料](https://github.com/noritsuna/1bit-CPU/)
 
 
 ## ISHI会版OpenMPW TR10-2について
@@ -85,15 +78,13 @@ categories: openmpw shuttle TR10
     - [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
 
 
-# チップ製造枠
+#チップ製造枠
 現在、調整中ですので、増減する可能性があります。  
 
 
 # 日程
 ## 日時
-- 一日目：2025年9月14日（日）      10：00〜18：00  
-- 二日目：2025年9月15日（月・祝）  10：00〜18：00  
-    - 2日連続となります。片方のみの参加は出来ません。  
+2025年9月20日（土）      10：00〜18：00  
 
 
 ## 開催場所
@@ -101,10 +92,8 @@ categories: openmpw shuttle TR10
 * 【施設名】WeWork 日比谷 FORT TOWER 9階 9R会議室
 * 【住所】　東京都港区西新橋1丁目1番地  
 * 【参加資格】　
-    * 2日連続で10-18時で参加できる方  
     * オープンソース半導体のEDAツールの使い方は理解している方
     * テスト運用と理解して参加してもらえる方
-    * レイアウトは自宅で一週間以内に完成されられる方
 
 ### オンライン配信
 * ISHI会Discord内チャット
@@ -122,7 +111,7 @@ categories: openmpw shuttle TR10
 
 ### オンライン配信
 * Discord
-    * 申し込み後、お伝えします。
+* 申し込み後、お伝えします。
 
 ## 参加費
 無料
@@ -134,9 +123,6 @@ categories: openmpw shuttle TR10
 | 09:45 | ISHI会 | 開場 |
 | 10:00-18:00 | ISHI会 | ハンズオン |
 | 18:30 | ISHI会 | 閉場 |
-
-### 募集サイト
-* [2025年09月イベント：二日でOPAMP回路ハンズオン](https://connpass.com/event/363412/) 
 
 
 ## 各種準備
@@ -154,6 +140,5 @@ categories: openmpw shuttle TR10
 -- [アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2/raw/main/docs/inverter_OR1.pdf)  
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
-* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/)  
-
+* [1bit CPUサンプル](https://github.com/noritsuna/1bit-CPU/)
+* [1bit CPU設計解説資料](https://github.com/noritsuna/1bit-CPU/)
