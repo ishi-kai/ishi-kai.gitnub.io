@@ -40,5 +40,4 @@ OPAMP設計・製造グループは別途募集予定ですので、まず、本
 * [初めてのOPAMP設計講座Vol.7（2025/07/10）](https://youtube.com/live/LkaxX0n08vk?feature=share)
 * [初めてのOPAMP設計講座Vol.8（2025/07/17）](https://youtube.com/live/LWhL9P6R39Y?feature=share)
 * [初めてのOPAMP設計講座Vol.9（2025/07/24）](https://youtube.com/live/bsnM7mGUCtY?feature=share)
-* [初めてのOPAMP設計講座Vol.10（2025/07/31）](https://youtube.com/live/fTUNI5V6kBU?feature=share)
 
