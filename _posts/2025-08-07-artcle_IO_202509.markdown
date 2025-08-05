@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "月刊I/O 2025年09月号 第五回目「Myチップを作りたい！」が掲載されます"
+date:   2025-08-07 00:00:00 +0900
+categories: Article IO
+---
+
+# [月刊I/O 2025年09月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)にて第四回目「Myチップを作りたい！」が掲載されます
+[月刊I/O 2025年09月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)で「Myチップを作りたい！」の第五回目が掲載されます！  
+「半導体のレイアウトをデザインしよう（フロントエンド編）」というサブタイトルにて、レイアウト設計の前半、トランジスタを配置する作業とDRCについて取り上げます。  
+
+気になる方はぜひ、お買い求めください！  
+
+
+## [月刊I/O 2025年09月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)
+* [Amazon](https://www.amazon.co.jp/dp/B0FK5YRQ33/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18327717/)
+
+  ![表紙](/assets/images/article/IO/IO_202509_TOP.jpg)  
+  ![サンプルページ](/assets/images/article/IO/IO_202509_1stP.png)  
+  ![もくじ](/assets/images/article/IO/IO_202509_agenda.jpg)  
+
