@@ -5,7 +5,7 @@ date:   2025-08-03 00:00:00 +0900
 categories: openmpw shuttle TR10
 ---
 
-# 2025年09月イベント：二日でOPAMP回路ハンズオン募集の概要
+# [2025年09月イベント：二日でOPAMP回路ハンズオン](https://connpass.com/event/363412/)募集の概要
 半導体のアナログ設計の基礎知識からOPAMP設計に必要な各種アナログ回路を設計の仕方を学び、OPAMPを設計してレイアウトして製造するハンズオンとなります。  
 具体的には、半導体の教科書の一番最初に出てくるような二段差動増幅OPAMPとなります。  
 ちなみに、「[電気系ものづくりYouTuberのイチケンさんがオープンソース半導体でOPAMP設計に関するセミナーをTECHNO-FRONTIER 2025で実施します](https://ishi-kai.org/seminar/2025/07/20/Seminar_TECHNOFRONTIER2025_seminar_ichiken.html)」で書いた[イチケンさん](https://www.youtube.com/@ICHIKEN1)に実施したOPAMP設計レクチャーをベースに実施します。ですので、[イチケンさん](https://www.youtube.com/@ICHIKEN1)の苦労を追体験できます。  
@@ -13,7 +13,7 @@ categories: openmpw shuttle TR10
   ![回路図](https://ishi-kai.org/assets/images/Seminar/OPAMP/circuit_01.png)  
   ![レイアウト](https://ishi-kai.org/assets/images/Seminar/OPAMP/layout_01.png)  
 
-* 【参加資格】
+* 【チップ製造（あり）枠参加資格】（なし枠での条件は「2」のみとなります）
     * 2日連続で10-18時で参加できる方  
     * オープンソース半導体のEDAツールの使い方は理解している方
     * テスト運用と理解して参加してもらえる方
@@ -85,10 +85,6 @@ categories: openmpw shuttle TR10
     - [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
 
 
-# チップ製造枠
-現在、調整中ですので、増減する可能性があります。  
-
-
 # 日程
 ## 日時
 - 一日目：2025年9月20日（土）  10：00〜18：00  
@@ -100,7 +96,7 @@ categories: openmpw shuttle TR10
 ### リアル会場
 * 【施設名】WeWork 日比谷 FORT TOWER 9階 9R会議室
 * 【住所】　東京都港区西新橋1丁目1番地  
-* 【参加資格】　
+* 【チップ製造（あり）枠参加資格】（なし枠での条件は「2」のみとなります）　
     * 2日連続で10-18時で参加できる方  
     * オープンソース半導体のEDAツールの使い方は理解している方
     * テスト運用と理解して参加してもらえる方
