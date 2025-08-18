@@ -14,7 +14,6 @@ categories: openmpw shuttle PTC06
 詳細は下記のサイトのご覧ください！  
 - [投稿サイト](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2)  
 
-
 ### 謝辞
 今年は[サンケン電気株式会社様](https://www.sanken-ele.co.jp/)にスポンサードしていただき、無事にテープアウトまでこぎつけました。  
 この場にて御礼申し上げます。  
