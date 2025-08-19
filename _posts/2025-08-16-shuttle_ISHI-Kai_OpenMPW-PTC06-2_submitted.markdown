@@ -10,9 +10,11 @@ categories: openmpw shuttle PTC06
 
   ![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2/blob/main/Submitted/all_members_layout.png?raw=true)  
   ![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2/blob/main/Submitted/all_members_layout_using.png?raw=true)  
+
 ### 投稿サイト
 詳細は下記のサイトのご覧ください！  
 - [投稿サイト](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2)  
+
 
 ### 謝辞
 今年は[サンケン電気株式会社様](https://www.sanken-ele.co.jp/)にスポンサードしていただき、無事にテープアウトまでこぎつけました。  
