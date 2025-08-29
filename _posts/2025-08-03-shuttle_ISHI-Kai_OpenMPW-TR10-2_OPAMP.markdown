@@ -40,7 +40,7 @@ categories: openmpw shuttle TR10
 
 ### 最低限の知識となる資料（これが理解できない方は[インバータ回路ハンズオン](https://ishikai.connpass.com/event/363093/)へ参加してください。）  
 * インバーターの作り方  
--- [アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2/raw/main/docs/inverter_OR1.pdf)  
+-- [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10_V1.pdf)  
 
 
 ### 利用する資料  
@@ -147,9 +147,9 @@ categories: openmpw shuttle TR10
 
 ### 最低限の知識となる資料（これが理解できない方は[インバータ回路ハンズオン](https://ishikai.connpass.com/event/363093/)へ参加してください。）  
 * インバーターの作り方  
--- [アナログ開発環境の使い方について](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_PTC06-2/raw/main/docs/inverter_OR1.pdf)  
+-- [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10_V1.pdf)  
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
-* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/)  
+* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/docs)  
+* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/)  
 
