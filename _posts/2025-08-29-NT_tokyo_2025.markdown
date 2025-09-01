@@ -23,7 +23,7 @@ categories: Information
 ## 内容
 - ある程度、やることを端折った「3分クッキング方式」でハンズオンを実施します。
     - そのため、「ただひたすらペーストを作るために30分、乳鉢で混ぜる作業」など苦行系の作業を端折った内容となります。
-- [当日利用する資料](https://ishi-kai.org/assets/presentation/event/202505/Dye-sensitized_solar_cells.pdf)
+- [当日利用する資料](https://ishi-kai.org/assets/presentation/event/202509/Dye-sensitized_solar_cells_V2.pdf)
 - [概要解説動画](https://youtu.be/B_BENM9wfdA?si=A1lwTtHzRvtd7-Ef)
 
 
