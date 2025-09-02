@@ -10,7 +10,11 @@ categories: Information
 もちろん、手ぶらでの参加でOKです！  
 
 - [公式ページへのリンク](https://nt-tokyo.org/)
-    - まだ告知などなし
+    - [タイムテーブル](https://nt-tokyo.org/timetable)
+
+![タイムテーブル](assets/images/NT/Tokyo2025/timetable.png)
+![内容](assets/images/NT/Tokyo2025/contents.png)
+![場所](assets/images/NT/Tokyo2025/place.png)
 
 
 # ハンズオン内容
@@ -31,9 +35,14 @@ categories: Information
 - 日時 
     - 2025年9月7日（日） 14:00～16:00  
 - 会場 
-    - 科学技術館 イベントホール 1～5号館のプレゼンテーションブース
+    - 科学技術館 イベントホール 1～5号館のセミナーブース
         - 東京都千代田区北の丸公園2-1
 - 申し込み
-    - 当日、直接プレゼンテーションブースへお越しください
+    - 当日、直接セミナーブースへお越しください
 - 参加費
     - 無料
+
+
+![タイムテーブル](assets/images/NT/Tokyo2025/timetable.png)
+![内容](assets/images/NT/Tokyo2025/contents.png)
+![場所](assets/images/NT/Tokyo2025/place.png)
