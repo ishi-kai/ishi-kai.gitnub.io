@@ -12,9 +12,9 @@ categories: Information
 - [公式ページへのリンク](https://nt-tokyo.org/)
     - [タイムテーブル](https://nt-tokyo.org/timetable)
 
-![タイムテーブル](./assets/images/NT/Tokyo2025/timetable.png)
-![内容](./assets/images/NT/Tokyo2025/contents.png)
-![場所](./assets/images/NT/Tokyo2025/place.png)
+![タイムテーブル](/assets/images/NT/Tokyo2025/timetable.png)
+![内容](/assets/images/NT/Tokyo2025/contents.png)
+![場所](/assets/images/NT/Tokyo2025/place.png)
 
 
 # ハンズオン内容
@@ -43,6 +43,6 @@ categories: Information
     - 無料
 
 
-![タイムテーブル](./assets/images/NT/Tokyo2025/timetable.png)
-![内容](./assets/images/NT/Tokyo2025/contents.png)
-![場所](./assets/images/NT/Tokyo2025/place.png)
+![タイムテーブル](/assets/images/NT/Tokyo2025/timetable.png)
+![内容](/assets/images/NT/Tokyo2025/contents.png)
+![場所](/assets/images/NT/Tokyo2025/place.png)
