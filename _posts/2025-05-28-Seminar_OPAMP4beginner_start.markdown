@@ -80,4 +80,5 @@ ISHI会のDiscord内で参考となる書籍や動画などを案内していま
 * [初めてのOPAMP設計講座Vol.6（2025/07/10）](https://youtube.com/live/LkaxX0n08vk?feature=share)
 * [初めてのOPAMP設計講座Vol.7（2025/07/17）](https://youtube.com/live/LWhL9P6R39Y?feature=share)
 * [初めてのOPAMP設計講座Vol.8（2025/07/24）](https://youtube.com/live/bsnM7mGUCtY?feature=share)
-* [初めてのOPAMP設計講座Vol.9（2025/07/31）](https://youtube.com/live/fTUNI5V6kBU?feature=share)
+* [初めてのOPAMP設計講座Vol.9（2025/09/04）](https://youtube.com/live/WHM5wOd8uv8?feature=share)
+* [初めてのOPAMP設計講座Vol.10（2025/09/25）](https://youtube.com/live/6BCQVIcWyH4?feature=share)
