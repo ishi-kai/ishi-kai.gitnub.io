@@ -5,16 +5,16 @@ date:   2025-09-07 00:00:00 +0900
 categories: Article IO
 ---
 
-# [月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)にて第六回目「Myチップを作りたい！」が掲載されます
-[月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)で「Myチップを作りたい！」の第六回目が掲載されます！  
+# [月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B012875XNG/)にて第六回目「Myチップを作りたい！」が掲載されます
+[月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B012875XNG/)で「Myチップを作りたい！」の第六回目が掲載されます！  
 「半導体のレイアウトをデザインしよう（配線作業とLVS編）」というサブタイトルにて、レイアウト設計の後半、配線作業とLVSについて取り上げます。
 
 気になる方はぜひ、お買い求めください！  
 
 
-## [月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B0FK5YRQ33/)
-* [Amazon](https://www.amazon.co.jp/dp/B0FK5YRQ33/)
-* [楽天ブックス](https://books.rakuten.co.jp/rb/18327717/)
+## [月刊I/O 2025年10月号](https://www.amazon.co.jp/dp/B012875XNG/)
+* [Amazon](https://www.amazon.co.jp/dp/B012875XNG/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/16210779/)
 
   ![表紙](/assets/images/article/IO/IO_202510_TOP.jpg)  
   ![サンプルページ](/assets/images/article/IO/IO_202510_1stP.png)  
