@@ -44,8 +44,7 @@ categories: openmpw shuttle TR10
 
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/docs)  
-* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OR1/PTC06/)  
+* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/opamp)  
 
 
 
@@ -150,6 +149,5 @@ categories: openmpw shuttle TR10
 -- [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10_V1.pdf)  
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/docs)  
-* [OPAMP設計サンプル](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/)  
+* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/opamp)  
 
