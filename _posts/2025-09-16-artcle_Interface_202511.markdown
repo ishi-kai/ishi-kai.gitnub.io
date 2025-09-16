@@ -7,18 +7,20 @@ categories: Article Interface
 
 # [Interface 2025年11月号](https://www.amazon.co.jp/dp/B0FPDWF4BD/) 特集「最新CPU Q＆A100」が掲載されます
 [Interface 2025年11月号](https://www.amazon.co.jp/dp/B0FPDWF4BD/)で特集「最新CPU Q＆A100」が掲載されます！  
-ISHI会も「CPU製造のQ＆A」という形で執筆しています。  
+ISHI会も「CPU製造のQ＆A」という形で執筆しています。CPU（半導体）がどのように設計・製造されているか？から自作する手段など解説しています。  
 
 気になる方はぜひ、お買い求めください！  
-
+※QPUの章も少し書きましたので気になる方はそちらもぜひ！  
 
 ## [Interface 2025年11月号](https://www.amazon.co.jp/dp/B0FPDWF4BD/)
 * [Amazon](https://www.amazon.co.jp/dp/B0FPDWF4BD/)
 
   ![表紙](/assets/images/article/Interface/Interface_202511_TOP.jpg)  
-  ![サンプルページ1](/assets/images/article/Interface/Interface_202511_Sample01.png)  
   ![サンプルページ2](/assets/images/article/Interface/Interface_202511_Sample02.png)  
-  ![もくじ](/assets/images/article/Interface/Interface_202511_Agenda.jpg)  
+  ![もくじ](/assets/images/article/Interface/Interface_202511_Agenda.png)  
+
+## QPU
+  ![サンプルページ1](/assets/images/article/Interface/Interface_202511_Sample01.png)  
 
 
 ## 謝辞
