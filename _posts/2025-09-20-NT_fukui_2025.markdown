@@ -14,7 +14,8 @@ NT東京2025にて大盛況だった「有機半導体太陽光パネル製造�
     - ![NT東京での風景1](/assets/images/NT/Tokyo2025/photo01.jpg)
     - ![NT東京での風景2](/assets/images/NT/Tokyo2025/photo02.jpg)
     - ![NT東京での風景3](/assets/images/NT/Tokyo2025/photo03.jpg)
-    - ![NT東京での風景4](/assets/images/NT/Tokyo2025/photo04.jpg)
+- NTふくい向けの消耗品の準備完了！
+    - ![NTふくい向けの消耗品](/assets/images/NT/Fukui2025/photo01.jpg)
 
 # ハンズオン内容
 ## タイトル
