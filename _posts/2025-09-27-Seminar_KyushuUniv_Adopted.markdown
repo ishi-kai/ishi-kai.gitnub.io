@@ -20,10 +20,10 @@ categories: Seminar
 - [東海理化のプレスリリース](https://www.tokai-rika.co.jp/release/file/20250922-1.pdf)
 
 - インバータハンズオンの試験運用の風景
-    - ![インバータハンズオンの試験運用の風景](/assets/images/Seminar/kyushuUniv2025_inverter_01.jpg)
-    - ![インバータハンズオンの試験運用の風景](/assets/images/Seminar/kyushuUniv2025_inverter_02.jpg)
-    - ![インバータハンズオンの試験運用の風景](/assets/images/Seminar/kyushuUniv2025_inverter_03.jpg)
-    - ![インバータハンズオンの試験運用の風景](/assets/images/Seminar/kyushuUniv2025_inverter_04.jpg)
+    - ![インバータハンズオンの試験運用の風景](/assets/images/shuttle/TR10/kyushuUniv2025_inverter_01.jpg)
+    - ![インバータハンズオンの試験運用の風景](/assets/images/shuttle/TR10/kyushuUniv2025_inverter_02.jpg)
+    - ![インバータハンズオンの試験運用の風景](/assets/images/shuttle/TR10/kyushuUniv2025_inverter_03.jpg)
+    - ![インバータハンズオンの試験運用の風景](/assets/images/shuttle/TR10/kyushuUniv2025_inverter_04.jpg)
 
 
 ## 今後の予定
@@ -41,15 +41,15 @@ OPAMPはかなり詰め込みとなってしまいましたが、参加者の8�
 
 - [OPAMPハンズオンの募集サイト](https://ishikai.connpass.com/event/363412/)
 - OPAMPハンズオンの風景：1日目
-    - ![OPAMPハンズオンの風景：1日目のリアル会場](//assets/images/shuttle/TR10/2025_opamp_handson01.jpg)
-    - ![OPAMPハンズオンの風景：1日目のオンライン会場](//assets/images/shuttle/TR10/2025_opamp_handson02.png)
+    - ![OPAMPハンズオンの風景：1日目のリアル会場](/assets/images/shuttle/TR10/2025_opamp_handson01.jpg)
+    - ![OPAMPハンズオンの風景：1日目のオンライン会場](/assets/images/shuttle/TR10/2025_opamp_handson02.png)
 - OPAMPハンズオンの風景：2日目
-    - ![OPAMPハンズオンの風景：2日目のリアル会場](//assets/images/shuttle/TR10/2025_opamp_handson03.jpg)
-    - ![OPAMPハンズオンの風景：2日目のオンライン会場](//assets/images/shuttle/TR10/2025_opamp_handson04.png)
+    - ![OPAMPハンズオンの風景：2日目のリアル会場](/assets/images/shuttle/TR10/2025_opamp_handson03.jpg)
+    - ![OPAMPハンズオンの風景：2日目のオンライン会場](/assets/images/shuttle/TR10/2025_opamp_handson04.png)
 - 1bit-CPUハンズオンの風景
-    - ![1bit-CPUハンズオンの風景](//assets/images/shuttle/TR10/2025_cpu_handson01.jpg)
-    - ![1bit-CPUハンズオンの風景](//assets/images/shuttle/TR10/2025_cpu_handson02.jpg)
-    - ![1bit-CPUハンズオンの風景](//assets/images/shuttle/TR10/2025_cpu_handson03.jpg)
+    - ![1bit-CPUハンズオンの風景](/assets/images/shuttle/TR10/2025_cpu_handson01.jpg)
+    - ![1bit-CPUハンズオンの風景](/assets/images/shuttle/TR10/2025_cpu_handson02.jpg)
+    - ![1bit-CPUハンズオンの風景](/assets/images/shuttle/TR10/2025_cpu_handson03.jpg)
 
 
 ## インバータ回路解説
