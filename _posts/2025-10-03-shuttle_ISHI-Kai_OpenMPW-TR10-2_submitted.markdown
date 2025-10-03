@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ISHI会版OpenMPW PTC06-2投稿完了！！！～2025年PTC06（フェニテックシャトル）～"
+title:  "ISHI会版OpenMPW TR10-2投稿完了！！！～2025年TR10（東海理化シャトル）～"
 date:   2025-10-03 00:00:00 +0900
 categories: openmpw shuttle TR10
 ---
