@@ -8,8 +8,8 @@ categories: openmpw shuttle TR10
 本日、ISHI会版OpenMPW TR10-2の全16人による全18デザインの投稿が完了しました！  
 下の図はみなさまのデザインとなります。  
 
-  ![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/blob/main/Submitted/all_members_layout.png?raw=true)  
-  ![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/blob/main/Submitted/all_members_layout_using.png?raw=true)  
+  ![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/blob/main/images/all_members_layout.png?raw=true)  
+  ![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/blob/main/images/all_members_layout_using.png?raw=true)  
 
 ### 投稿サイト
 詳細は下記のサイトのご覧ください！  
