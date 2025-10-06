@@ -8,7 +8,7 @@ categories: Information Conference
 [Open NetworkIng Conference Japan 2025](https://www.onic.jp/)にて、@noritsunaが[BoF](https://www.onic.jp/program-detail/#b_02)を実施することになりました。  
 内容は下記のようになっておりますので、お暇な方はご参加ください！  
 
-![TOP](./assets/images/Conference/onic2025_top.png)
+![TOP](/assets/images/Conference/onic2025_top.png)
 
 ### BoF内容
 - タイトル
@@ -21,4 +21,4 @@ categories: Information Conference
 - 場所
     - BoF＠ホワイエ
 
-![プログラム](./assets/images/Conference/onic2025_program.png)
+![プログラム](/assets/images/Conference/onic2025_program.png)
