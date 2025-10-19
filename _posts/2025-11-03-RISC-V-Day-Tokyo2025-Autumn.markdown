@@ -4,14 +4,13 @@ title:  "RISC-V Day Tokyo 2025 Autumnでハンズオンします！"
 date:   2025-11-03 00:00:00 +0900
 categories: Information Conference RISC-V
 ---
-
-2025年12月4日(火)　9:00 – 18:00 日本時間（JST)に、東京大学　伊藤国際学術研究センター　地下2階　伊藤謝恩ホールにて、開催予定の [RISC-V Day Tokyo 2025 Autumn](https://riscv.or.jp/risc-v-tokyo-2025-autumn/)でハンズオンをします！  
+2025年12月4日(木)　9:00 – 18:00 日本時間（JST)に、東京大学　伊藤国際学術研究センター　地下2階　伊藤謝恩ホールにて、開催予定の [RISC-V Day Tokyo 2025 Autumn](https://riscv.or.jp/risc-v-tokyo-2025-autumn/)でハンズオンをします！  
 TinyTapeoutの紹介と投稿するための環境構築ハンズオンとなります。希望の方はPCを持参のうえご参加ください！  
 
 ***
 
 * 開催日時
-    * 2025年12月4日(火)　9:00 – 18:00 日本時間（JST)
+    * 2025年12月4日(木)　9:00 – 18:00 日本時間（JST)
 * 開催場所
     * 東京大学　伊藤国際学術研究センター　地下2階　伊藤謝恩ホール
 * ハンズオン情報
