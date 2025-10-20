@@ -11,7 +11,7 @@ categories: Information Seminar
 
 ## 雑談案
 - 各イベント参加報告
-    - NT系
+    - NT系（ハンズオン）
     - 講演系
 - シャトル振り返り
     - フェニテックシャトル
