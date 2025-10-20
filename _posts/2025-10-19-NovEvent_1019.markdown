@@ -32,3 +32,6 @@ categories: Information Seminar
 
 ## 参加申し込み 
 * [https://connpass.com/event/373155/](https://connpass.com/event/373155/)  
+
+## 資料
+* [雑談のネタ](/assets/presentation/event/202511/ISHI-KAI_event_202511.pdf)
