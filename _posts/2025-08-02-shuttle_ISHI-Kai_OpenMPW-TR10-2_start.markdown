@@ -13,7 +13,7 @@ categories: openmpw shuttle TR10
 抽選枠ではありますが、作成した回路を載せたチップの製造まで実践できます。  
 ### 利用する資料  
 * インバーターの作り方  
--- [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10_V1.pdf)  
+-- [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10.pdf)  
 
 ### 募集サイト
 * [2025年09月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン](https://connpass.com/event/363093/) 
@@ -28,7 +28,7 @@ categories: openmpw shuttle TR10
 
 
 ### 各種資料
-* [アナログ開発ツールの使い方(TR10)](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10_V1.pdf
+* [アナログ開発ツールの使い方(TR10)](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/raw/main/docs/inverter_TR10.pdf)
 * [上記の補講ビデオ:202409定例「SKY130で学ぶLSI回路設計」](https://www.youtube.com/watch?v=s2QD2kWNEMs)
 * [オープンソース半導体の世界がやってきた！(読み物)](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-1/blob/main/docs/forBeginners.pdf)
 * [github](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2)
