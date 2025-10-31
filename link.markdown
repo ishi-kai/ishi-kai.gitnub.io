@@ -26,6 +26,9 @@ permalink: /links/
     * [PPTX](assets/presentation/2025/OpenMPW_2025.pptx)
     * [PDF](assets/presentation/2025/OpenMPW_2025.pdf)
 
+* ISHI会の書籍情報
+    * [書籍情報リンク](https://ishi-kai.org/books/)
+
 
 ## Discord
 * 基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！
@@ -47,7 +50,7 @@ permalink: /links/
 
 ## 初心者向け情報
 * 初心者向け資料
-     * [オープンソース半導体の世界がやってきた！](./assets/pdf/forBeginners.pdf)
+     * [オープンソース半導体の世界がやってきた！](/assets/pdf/forBeginners.pdf)
 
 * EDAツールのセットアップ方法
      * [https://github.com/ishi-kai/OpenRule1umPDK_setupEDA](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA)
