@@ -18,12 +18,13 @@ ISHI会で発行した書籍のサポートページです。
     * [Kindle版：Open Source Silicon Magazine vol.1 はじめてのIC 設計～オリジナルのインバータを作ってみよう～](https://www.amazon.co.jp/dp/B0F7GTBFYR)
 * 価格
     * 1000円
-![表紙](/assets/images/article/magazine/vol_1_cover.png)
+* 表紙
+    * ![表紙](/assets/images/article/magazine/vol_1_cover_mini.png)
 
 
 ### アワード
 * [技術書典「第10回刺され！技術書アワード」のニュースタンダード部門のファイナリスト](https://ishi-kai.org/article/2025/07/07/artcle_techbookfust_award.html)
-    * ![キャプチャ画面](/assets/images/article/magazine/vol_1_award_nominate.png)
+    * ![キャプチャ画面](/assets/images/article/magazine/vol_1_award_nominate_mini.png)
 
 
 ### インバータ回路
