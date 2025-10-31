@@ -10,9 +10,11 @@ categories: Information
 もちろん、技術的にレベルが高いものじゃなくてもOKです。過去の記事を見てもらうとわかりますが、何かをやってみた感想などでもOKです！  
 ぜひ、参加してみてください！  
 
+* [オープンソース半導体 アドベントカレンダー 2025](https://qiita.com/advent-calendar/2025/osssilicon)
+
 ## 過去のオープンソース半導体 アドベントカレンダー
-- [2024](https://qiita.com/advent-calendar/2024/osssilicon)
-- [2023](https://qiita.com/advent-calendar/2023/opensource-pdk)
+* [2024](https://qiita.com/advent-calendar/2024/osssilicon)
+* [2023](https://qiita.com/advent-calendar/2023/opensource-pdk)
 
 
 ## アドベントカレンダーとは？
