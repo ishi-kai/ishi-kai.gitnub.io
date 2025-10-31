@@ -38,7 +38,7 @@ categories: Information Seminar
 
 
 ## タイムテーブル
-|時間|壇上者|内容|
+| 時間 | 壇上者 | 内容 |
 |--|--|--|
 | 12:50 | ISHI会 | 1F集合 |
 | 13:00 | ISHI会 | 開会 |
