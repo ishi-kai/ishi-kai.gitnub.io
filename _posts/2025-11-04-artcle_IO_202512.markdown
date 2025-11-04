@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "月刊I/O 2025年12月号にて「Myチップを作りたい！」の番外編「Myチップを作ってみた！①」が掲載されます"
+date:   2025-11-04 00:00:00 +0900
+categories: Article IO
+---
+
+# [月刊I/O 2025年12月号](https://www.amazon.co.jp/dp/B0FY79FP42/)にて「Myチップを作りたい！」の番外編「Myチップを作ってみた！①」が掲載されます
+[月刊I/O 2025年12月号](https://www.amazon.co.jp/dp/B0FY79FP42/)で「Myチップを作りたい！」の番外編「Myチップを作ってみた！①」が掲載されます！  
+タイトル通り、実際にMyチップを作ってみたレポート回となります！もし、Myチップを作りたいと思っている方は是非参考にしてください！
+
+気になる方はぜひ、お買い求めください！  
+
+
+## [月刊I/O 2025年12月号](https://www.amazon.co.jp/dp/B0FY79FP42/)
+* [Amazon](https://www.amazon.co.jp/dp/B0FY79FP42/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/16386717/)
+
+  ![表紙](/assets/images/article/IO/IO_202512_TOP.jpg)  
+  ![サンプルページ](/assets/images/article/IO/IO_202512_1stP.png)  
+  ![もくじ](/assets/images/article/IO/IO_202512_agenda.jpg)  
+
