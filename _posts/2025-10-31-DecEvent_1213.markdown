@@ -38,7 +38,7 @@ categories: Information Seminar
 
 ## タイムテーブル
 - 13:00-13:30
-    - 内容：東海理化シャトルPDKの概要と今後の予定 |
+    - 内容：東海理化シャトルPDKの概要と今後の予定
 - 13:30-14:30 
     - 講師：OpenSUSI 代表理事 jun1okamura
     - 内容：東海理化シャトルDRCとLVSの製作の概要と中身の解説
