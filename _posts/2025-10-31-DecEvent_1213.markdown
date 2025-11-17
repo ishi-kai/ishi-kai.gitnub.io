@@ -44,8 +44,10 @@ categories: Information Seminar
 
 ## タイムテーブル
 - 13:00-13:10
+    - 講師：RISE-A
     - 内容：RISE-A紹介（スポンサー枠）
 - 13:10-13:20
+    - 講師：OpenSUSI エバンジェリスト 高橋克己
     - 内容：本オープンPDKを運営管理するOpenSUSIの紹介
 - 13:20-13:40
     - 内容：[東海理化シャトルPDKの概要](https://ishi-kai.org/assets/presentation/event/202512/ISHI-KAI_event_202512_OpenIP62Summary.pdf)
@@ -77,6 +79,8 @@ categories: Information Seminar
     - 内容：PDK対談・本音編（これよりオンライン配信は行いません）
         - 上記の続きで、公には言えないことを語っていただく予定です。ある意味、ここが本番かもしれません。
 
+
+## 謎のコメント
 ![謎のコメント](/assets/images/event/202512/houta.png)
 - [ISHI会一周年記念イベント～大討論会～](https://ishikai.connpass.com/event/315799/)
 
