@@ -19,9 +19,9 @@ categories: Information Seminar
 ## 日時
 * 2025年12月13日（土）13：00～17:00
 
-## 場所
-* WeWork 日比谷FORT TOWER
-    * 東京都港区西新橋一丁目1番1号 日比谷FORT TOWER 10F
+## 場所（2025/11/21に変更になりました）
+* ~~WeWork 日比谷FORT TOWER~~ → [RISE-A カンファレンスC+D](https://www.rise-a.jp/access/index.html)
+    * ~~東京都港区西新橋一丁目1番1号 日比谷FORT TOWER 10F~~ → 東京都中央区⽇本橋室町1-7-1　スルガビル7階
 
 ## 参加申し込み 
 * [https://connpass.com/event/374444/](https://connpass.com/event/374444/)  
@@ -30,25 +30,36 @@ categories: Information Seminar
 * 無料
 
 ## 資料
+### プレゼン資料
+* [東海理化シャトルPDKの概要](https://ishi-kai.org/assets/presentation/event/202512/ISHI-KAI_event_202512_OpenIP62Summary.pdf)
+
+### チュートリアル資料
 * [オープンPDK](https://github.com/OpenSUSI/TR-1um)
+* [DRC チュートリアル](https://github.com/OpenSUSI/TR-1um/blob/main/Document/Tutorial_DRC.md)
+
 
 ## 開発環境 
-* [セットアップスクリプト](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA)
+* [セットアップスクリプト](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript)
     * 東海理化シャトルPDKをインストールしてください。
 
 ## タイムテーブル
-- 13:00-13:30
-    - 内容：東海理化シャトルPDKの概要と今後の予定
-- 13:30-14:30 
+- 13:00-13:10
+    - 内容：RISE-A紹介（スポンサー枠）
+- 13:10-13:20
+    - 内容：本オープンPDKを運営管理するOpenSUSIの紹介
+- 13:20-13:40
+    - 内容：[東海理化シャトルPDKの概要](https://ishi-kai.org/assets/presentation/event/202512/ISHI-KAI_event_202512_OpenIP62Summary.pdf)
+- 13:40-14:40 
     - 講師：OpenSUSI 代表理事 jun1okamura
     - 内容：東海理化シャトルDRCとLVSの製作の概要と中身の解説
-- 14:30-15:00
+        - [DRC チュートリアル](https://github.com/OpenSUSI/TR-1um/blob/main/Document/Tutorial_DRC.md)
+- 14:40-15:00
     - 休憩＆情報交換
 - 15:00-15:30 
     - 講師：Mitch Bailey
     - 内容：LVS詳解
         - 下記の資料をベースにLVSなどの詳しく解説します。
-            - https://github.com/msaligane/US_Japan_Semiconductor_Workshop/blob/main/Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification/Japan-US-Workshop-Bailey.pptx
+            - [https://github.com/msaligane/US_Japan_Semiconductor_Workshop/blob/main/Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification/Japan-US-Workshop-Bailey.pptx](https://github.com/msaligane/US_Japan_Semiconductor_Workshop/blob/main/Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification/Japan-US-Workshop-Bailey.pptx)
         - 日本語での発表なのでご安心ください。
 - 15:30-16:00 
     - 講師：SIGの遊び場 ほうた
@@ -65,3 +76,10 @@ categories: Information Seminar
     - パネラー：jun1okamura x ほうた x Mitch Bailey
     - 内容：PDK対談・本音編（これよりオンライン配信は行いません）
         - 上記の続きで、公には言えないことを語っていただく予定です。ある意味、ここが本番かもしれません。
+
+![謎のコメント](/assets/images/event/202512/houta.png)
+- [ISHI会一周年記念イベント～大討論会～](https://ishikai.connpass.com/event/315799/)
+
+
+## 協力
+* [RISE-A](http://rise-a.jp/) 様のご厚意によりリアル会場を提供していただきました。
