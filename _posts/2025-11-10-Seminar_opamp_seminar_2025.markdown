@@ -49,7 +49,7 @@ OPAMP回路を題材としますがいろいろなアナログ回路への応用
             - 第3回の続き
 - 参考書
     - [グリッドサーチ多目的値多パラメータ最適化ソフトウェアの拡張機能解説と物理シミュレーションでの例示](https://www.amazon.co.jp/dp/B0F74J2P4R)
-    - [多パラメータのグリッドサーチソフト(OptParaSol)解説](/assets/presentation/lecture/AirtomoR/多パラメータのグリッドサーチソフト(OptParaSol)解説.pptx)
+    - [多パラメータのグリッドサーチソフト(OptParaSol)解説](/assets/lecture/AirtomoR/多パラメータのグリッドサーチソフト(OptParaSol)解説.pptx)
 - 参考リンク
     - [ASCO (A SPICE Circuit Optimizer)](https://asco.sourceforge.net/examples.html)
     - [CMOSOperational and RF Power Amplifiers for Mobile Communications](https://asco.sourceforge.net/doc/phd_jramos.pdf)
