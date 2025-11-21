@@ -76,9 +76,9 @@ categories: Information Seminar
         - GPUチップに搭載されるトランジスタ数は100億個に迫っています。そこではGate All Around FETというトランジスタが使われます。
         - CMOSとの構造の違い、PDKを使う場合にどんな試練が待っているのか？を解説します。
 - 16:10-16:40
-    - パネラー：jun1okamura x ほうた x Mitch Bailey x Sadayuki Yoshitomi
+    - パネラー：jun1okamura x ほうた x Mitch Bailey x 吉富 
     -  内容：PDK対談
-        - 某国内大手でPDK開発を行っている商用PDKのエキスパートであるほうた氏とeFabless社などで提出されたGDSの構造チェックやPDKのメンテナンスなどを行っていたオープンPDKのエキスパートであるMitch Bailey氏に加えて、新興半導体企業でPDK開発を行っているSadayuki Yoshitomiを交えて、PDKについて大いに語っていただく予定です。
+        - 某国内大手でPDK開発を行っている商用PDKのエキスパートであるほうた氏とeFabless社などで提出されたGDSの構造チェックやPDKのメンテナンスなどを行っていたオープンPDKのエキスパートであるMitch Bailey氏に加えて、某半導体企業でPDK開発やコンサルを行っている吉富氏を交えて、PDKについて大いに語っていただく予定です。
 - 16:40-17:10
     - パネラー：jun1okamura x ほうた x Mitch Bailey x Sadayuki Yoshitomi
     - 内容：PDK対談・本音編（これよりオンライン配信は行いません）
