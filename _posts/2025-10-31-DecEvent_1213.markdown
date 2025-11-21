@@ -55,27 +55,32 @@ categories: Information Seminar
     - 講師：OpenSUSI 代表理事 jun1okamura
     - 内容：東海理化シャトルDRCとLVSの製作の概要と中身の解説
         - [DRC チュートリアル](https://github.com/OpenSUSI/TR-1um/blob/main/Document/Tutorial_DRC.md)
-- 14:40-15:00
+- 14:40-14:50
     - 休憩＆情報交換
-- 15:00-15:30 
+- 14:50-15:20 
     - 講師：Mitch Bailey
     - 内容：LVS詳解
         - 下記の資料をベースにLVSなどの詳しく解説します。
             - [https://github.com/msaligane/US_Japan_Semiconductor_Workshop/blob/main/Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification/Japan-US-Workshop-Bailey.pptx](https://github.com/msaligane/US_Japan_Semiconductor_Workshop/blob/main/Day%202%20-%201505%20-%20Pitfalls%20of%20Open-Source%20Chip%20Design%20Verification/Japan-US-Workshop-Bailey.pptx)
         - 日本語での発表なのでご安心ください。
-- 15:30-16:00 
+- 15:20-15:50 
     - 講師：SIGの遊び場 ほうた
     - 内容：オープンソースPDKの歩き方🚶
         - そもそもPDKって？
         - PDKを“読む”ならどこから？
         - PDKを“自作”するなら何から？
         - これまでやって来た事の実例
-- 16:00-16:30
-    - パネラー：jun1okamura x ほうた x Mitch Bailey
+- 15:50-16:10 （2025/11/22に追加になりました）
+    - 講師：半導体技術コンサルタント（株式会社メガチップス　技術顧問） 吉富
+    - 内容：超最先端微細デバイスGate All Around FETの技術を覗いてみよう。
+        - GPUチップに搭載されるトランジスタ数は100億個に迫っています。そこではGate All Around FETというトランジスタが使われます。
+        - CMOSとの構造の違い、PDKを使う場合にどんな試練が待っているのか？を解説します。
+- 16:10-16:40
+    - パネラー：jun1okamura x ほうた x Mitch Bailey x Sadayuki Yoshitomi
     -  内容：PDK対談
-        - 某国内大手でPDK開発を行っている商用PDKのエキスパートであるほうた氏とeFabless社などで提出されたGDSの構造チェックやPDKのメンテナンスなどを行っていたオープンPDKのエキスパートであるMitch Bailey氏を交えて、PDKについて大いに語っていただく予定です。
-- 16:30-17:00
-    - パネラー：jun1okamura x ほうた x Mitch Bailey
+        - 某国内大手でPDK開発を行っている商用PDKのエキスパートであるほうた氏とeFabless社などで提出されたGDSの構造チェックやPDKのメンテナンスなどを行っていたオープンPDKのエキスパートであるMitch Bailey氏に加えて、新興半導体企業でPDK開発を行っているSadayuki Yoshitomiを交えて、PDKについて大いに語っていただく予定です。
+- 16:40-17:10
+    - パネラー：jun1okamura x ほうた x Mitch Bailey x Sadayuki Yoshitomi
     - 内容：PDK対談・本音編（これよりオンライン配信は行いません）
         - 上記の続きで、公には言えないことを語っていただく予定です。ある意味、ここが本番かもしれません。
 
