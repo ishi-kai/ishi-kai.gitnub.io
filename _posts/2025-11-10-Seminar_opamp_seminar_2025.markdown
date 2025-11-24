@@ -53,6 +53,13 @@ OPAMP回路を題材としますがいろいろなアナログ回路への応用
     - [グリッドサーチ多目的値多パラメータ最適化ソフトウェアの拡張機能解説と物理シミュレーションでの例示](https://www.amazon.co.jp/dp/B0F74J2P4R)
     - [多パラメータのグリッドサーチソフト(OptParaSol)解説](/assets/lecture/AirtomoR/多パラメータのグリッドサーチソフト(OptParaSol)解説.pptx)
     - [(20251117プレゼン)LTSpiceでの26パラメータ3段オペアンプの例示](/assets/lecture/AirtomoR/20251117プレゼン_LTSpiceでの26パラメータ3段オペアンプの例示.pdf)
+    - [(20251124プレゼン)Ubuntuでのmyソフト、tutorialセットアップ方法](/assets/lecture/AirtomoR/20251124プレゼン_Ubuntuでのmyソフト、tutorialセットアップ方法.pdf)
+- Softwares
+    - [OptPlatformApp.zip](/assets/lecture/AirtomoR/OptPlatformApp.zip)
+    - Sample Project
+        - [3phase___OpAmp.zip](/assets/lecture/AirtomoR/3phase___OpAmp.zip)
+        - [simpFunc.zip](/assets/lecture/AirtomoR/simpFunc.zip)
+        - [simpleFunc.zip](/assets/lecture/AirtomoR/simpleFunc.zip)
 - 参考リンク
     - [ASCO (A SPICE Circuit Optimizer)](https://asco.sourceforge.net/examples.html)
     - [CMOSOperational and RF Power Amplifiers for Mobile Communications](https://asco.sourceforge.net/doc/phd_jramos.pdf)
