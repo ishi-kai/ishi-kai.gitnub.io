@@ -57,7 +57,7 @@ OPAMP回路を題材としますがいろいろなアナログ回路への応用
 - Softwares
     - [OptPlatformApp.zip](/assets/lecture/AirtomoR/OptPlatformApp.zip)
     - Sample Project
-        - [3phase___OpAmp.zip](/assets/lecture/AirtomoR/3phase___OpAmp.zip)
+        - [3phaseOpAmp.zip](/assets/lecture/AirtomoR/3phaseOpAmp.zip)
         - [simpFunc.zip](/assets/lecture/AirtomoR/simpFunc.zip)
         - [simpleFunc.zip](/assets/lecture/AirtomoR/simpleFunc.zip)
 - 参考リンク
