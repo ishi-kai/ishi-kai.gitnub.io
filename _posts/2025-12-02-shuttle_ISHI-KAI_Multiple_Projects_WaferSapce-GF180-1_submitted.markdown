@@ -26,7 +26,7 @@ categories: WaferSpace shuttle GF180
 
 問題点としては、Bare Die＝生チップでパッケージされてない状態のため、プローバーで測定するか、自腹でパッケージしないといけない点ですね。  
 ひとまずは、すべてのデザインにプロービング用パッドはつけたので、どこかで測定会でも出来ればと思います。  
-![/assets/images/shuttle/WaferSpace/2025/baredie](baredie.png)
+![baredie](/assets/images/shuttle/WaferSpace/2025/baredie.png)
 
 
 ## 投稿サイト
