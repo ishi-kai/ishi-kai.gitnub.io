@@ -86,6 +86,8 @@ LLMなども利用した最新のアナログ半導体設計技術となりま�
             - 12/18（木）22時～（定例アナログ系もくもく会）
         - 内容
             - いきなり！CMOS回路設計！！〜先生はPythonとLLM〜
+        - 資料(2025/12/05追加)
+            - [Prompt- and Python-Based Learning of CMOS Analog Circuits.ipynb](https://colab.research.google.com/drive/1F4OQW8qHCj28LsITEi9hs4TK2wbWIYcl?usp=sharing)
     - 第二回
         - 開催日
             - 12/25（木）22時～（定例アナログ系もくもく会）
