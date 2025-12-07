@@ -33,5 +33,11 @@ categories: WaferSpace shuttle GF180
 詳細は下記のサイトのご覧ください！  
 - [投稿サイト](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_WaferSapce-GF180-1/)  
 
+
+## アップデート
+### 2025/12/07
+- [締め切り後にPDKがアップデートされた顛末記](https://github.com/noritsuna/AdventCalendar2025/blob/main/OSSSilicon_Day_03.md)  
+
+
 ## 謝辞
 最後になりますが、今回のような枠を与えてくれた[Wafer.Sapce](https://wafer.space/)メンバーに感謝
