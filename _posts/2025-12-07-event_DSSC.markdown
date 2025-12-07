@@ -4,10 +4,8 @@ title:  "東京藝術大学の松浦知也先生による「ソーラーパネ�
 date:   2025-12-07 00:00:00 +0900
 categories: Event
 ---
-# [NTふくい2025](https://nt-fukui.jp/)へ有機半導体太陽光パネル製造ハンズオンします！
-
-[FUTURE VISION SUMMIT 2025](https://arturbanism.jp/project/futurevisionsummit2025_workshop/)にて、東京藝術大学の松浦知也先生による「ソーラーパネル・カフェ」をやります！  
-ISHI会でさんざんやってきた太陽光パネルハンズオンの簡易体験版となります。もちろん、お時間が許せばフル参加も可能ですので、お暇な方はぜひお立ち寄りください！！！  
+## [FUTURE VISION SUMMIT 2025](https://arturbanism.jp/project/futurevisionsummit2025_workshop/)にて、東京藝術大学の松浦知也先生による「ソーラーパネル・カフェ」をやります！
+ISHI会でもやってきた太陽光パネルハンズオンの簡易体験版となります。もちろん、お時間が許せばフル参加も可能ですので、お暇な方はぜひお立ち寄りください！！！  
 ![イメージ](https://arturbanism.jp/images/2025/11/FVS2025_WS_02_web-800x450.jpg)
 
 ### 開催概要
