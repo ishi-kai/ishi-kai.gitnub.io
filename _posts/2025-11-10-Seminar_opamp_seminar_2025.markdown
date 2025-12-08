@@ -54,6 +54,8 @@ OPAMP回路を題材としますがいろいろなアナログ回路への応用
     - [多パラメータのグリッドサーチソフト(OptParaSol)解説](/assets/lecture/AirtomoR/多パラメータのグリッドサーチソフト(OptParaSol)解説.pptx)
     - [(20251117プレゼン)LTSpiceでの26パラメータ3段オペアンプの例示](/assets/lecture/AirtomoR/20251117プレゼン_LTSpiceでの26パラメータ3段オペアンプの例示.pdf)
     - [(20251124プレゼン)Ubuntuでのmyソフト、tutorialセットアップ方法](/assets/lecture/AirtomoR/20251124プレゼン_Ubuntuでのmyソフト、tutorialセットアップ方法.pdf)
+    - [(20251201プレゼン)(第1回)ngspiceのpython対応検討他](/assets/lecture/AirtomoR/20251201プレゼン_第1回_ngspiceのpython対応検討他.pdf)
+    - [(20251208プレゼン)(第2回)ngspiceのpython対応検討他](/assets/lecture/AirtomoR/20251208プレゼン_第2回_ngspiceのpython対応検討他.pdf)
 - Softwares
     - [OptPlatformApp.zip](/assets/lecture/AirtomoR/OptPlatformApp.zip)
     - Sample Project
