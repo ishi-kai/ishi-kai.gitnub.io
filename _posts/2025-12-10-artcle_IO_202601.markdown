@@ -18,3 +18,17 @@ categories: Article IO
   ![サンプルページ](/assets/images/article/IO/IO_202601_1stP.png)  
   ![もくじ](/assets/images/article/IO/IO_202601_agenda.jpg)  
 
+
+# jun1okamuraによる「KLayout の Python API を試してみた！」シリーズ
+公開中です！  
+上記の記事やイベントと連動していますので、ぜひとも参考にしてください。
+
+## 公開先
+[オープンソース半導体 Advent Calendar 2025](https://qiita.com/advent-calendar/2025/osssilicon)で公開しています。
+
+- 5日:Layout/Cell
+- 10日:Instance Class
+- 17日:PCell
+- 19日:PCell Library
+- 21日:TR-1um PCell Library
+- 23日:PCellDeclarationHelper
