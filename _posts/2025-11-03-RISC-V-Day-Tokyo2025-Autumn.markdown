@@ -34,6 +34,7 @@ TinyTapeoutの紹介と投稿するための環境構築ハンズオンとなり
     * 場所
         * ギャラリー2
     * 資料
-        * [ダウンロード先](/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
+        * [ダウンロード先：PDF版](/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
+        * [ダウンロード先：PPTX版](/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pptx)
     * 備考
         * Windowsの場合は、Ubuntu24.04ベースのWSLとDockerデスクトップをインストールしておいてください。Macは動くかと思いますが実機での試験が出来ないためサポート外です。

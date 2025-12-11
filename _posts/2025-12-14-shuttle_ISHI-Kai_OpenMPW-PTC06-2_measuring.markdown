@@ -7,7 +7,10 @@ categories: openmpw shuttle PTC06
 ## ISHI会版OpenMPW PTC06-2測定＆お渡し会！！！～2025年PTC06（フェニテックシャトル）～
 [ISHI会版OpenMPW PTC06-2開始！！！～2025年PTC06（フェニテックシャトル）の相乗り募集～](https://ishi-kai.org/openmpw/shuttle/ptc06/2025/08/15/shuttle_ISHI-Kai_OpenMPW-PTC06-2_submitted.html)で募集したISHI会版OpenMPW PTC06-2で製造したチップが、2025年12月17日に到着します。  
 そこで、参加されたみなさんと測定＆お渡し会を開催したいと思います。  
-※ISHI会版OpenMPW PTC06-2に参加されなかった方でも参加可能です  
+
+
+***※ISHI会版OpenMPW PTC06-2に参加されなかった方でも参加可能です。来年のシャトルに参加を検討されている方は、情報収集や空気感を感じるために参加してみてください！***  
+
 
 ## シャトル提供スポンサー
 あらためて感謝を申し上げます。
