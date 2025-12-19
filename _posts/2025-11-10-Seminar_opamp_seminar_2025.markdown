@@ -90,18 +90,6 @@ LLMなども利用した最新のアナログ半導体設計技術となりま�
             - いきなり！CMOS回路設計！！〜先生はPythonとLLM〜
         - 資料(2025/12/05追加)
             - [Prompt- and Python-Based Learning of CMOS Analog Circuits.ipynb](https://colab.research.google.com/drive/1F4OQW8qHCj28LsITEi9hs4TK2wbWIYcl?usp=sharing)
-        - 動画(2025/12/18追加)
-            - [YouTube](https://youtube.com/live/nDlgnNB8oGA)
-    - 第二回(2025/12/18アップデート)
-        - 開催日
-            - 12/25（木）22時～（定例アナログ系もくもく会）
-        - 内容
-            - 第一回目の回路の詳細解説
-    - 第三回(2025/12/18追加)
-        - 開催日
-            - 1/8（木）22時～（定例アナログ系もくもく会）
-        - 内容
-            - OPAMPコンテスト紹介＆解説
 
 
 ## OPAMP回路や電流源のハンズオン資料とサンプル実装
