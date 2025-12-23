@@ -24,3 +24,7 @@ categories: Seminar
 - [サンプル回路](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/tree/main/samples/inverter)
 - [ツールの使い方解説資料](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA/tree/main/docs)
 - [サンプル回路の解説資料](https://github.com/3zki/lsi1_analog1/blob/main/analog_tutorial_jp.pdf)
+
+
+## 体験記事（2025年12月23日追加）
+- [半導体設計、手を動かして覚えよ　九州大学の講座に記者も挑戦](https://www.nikkei.com/article/DGXZQOJC10CDQ0Q5A710C2000000/)
