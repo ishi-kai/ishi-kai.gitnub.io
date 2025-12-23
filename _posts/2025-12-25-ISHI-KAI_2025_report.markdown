@@ -32,8 +32,14 @@ categories: Information
     - [ISHI会版OpenMPW PTC06-2投稿完了！！！～2025年PTC06（フェニテックシャトル）～](https://ishi-kai.org/openmpw/shuttle/ptc06/2025/08/15/shuttle_ISHI-Kai_OpenMPW-PTC06-2_submitted.html)
 - [ISHI会版OpenMPW TR10-2開始！！！～2025年TR10（東海理化シャトル）のテスト運用相乗り募集～](https://ishi-kai.org/openmpw/shuttle/tr10/2025/08/01/shuttle_ISHI-Kai_OpenMPW-TR10-2_start.html)
     - [ISHI会版OpenMPW TR10-2投稿完了！！！～2025年TR10（東海理化シャトル）～](https://ishi-kai.org/openmpw/shuttle/tr10/2025/10/02/shuttle_ISHI-Kai_OpenMPW-TR10-2_submitted.html)
+
+## ISHI会以外のOpenMPW
+今年は[IHP130](https://ihp-open-ip.readthedocs.io/en/latest/)とWafer.SpaceのGF180ベースのものがありました。  
+そのうち、ISHI会として参加したものは下記のとおりですね。  
+
 - [Wafer.Sapce GF180 Run 1 への投稿完了！！！](https://ishi-kai.org/waferspace/shuttle/gf180/2025/12/01/shuttle_ISHI-KAI_Multiple_Projects_WaferSapce-GF180-1_submitted.html)
     - [Wafer.Sapce GF180 Run 1 への投稿完了！！！の続報](https://github.com/noritsuna/AdventCalendar2025/blob/main/OSSSilicon_Day_03.md)
+
 
 ## ハンズオン
 今年は、いろいろなハンズオンを実施した年となりました。振り返ってみたいと思います。  
@@ -87,7 +93,7 @@ Verilogでの回路設計ハンズオンです。ほぼ、環境セットアッ�
 - [月刊I/O 2025年09月号 第五回目「Myチップを作りたい！」が掲載されます](https://ishi-kai.org/article/io/2025/08/06/artcle_IO_202509.html)
 - [月刊I/O 2025年10月号 第六回目「Myチップを作りたい！」が掲載されます](https://ishi-kai.org/article/io/2025/09/06/artcle_IO_202510.html)
 - [月刊I/O 2025年12月号にて「Myチップを作りたい！」の番外編「Myチップを作ってみた！①」が掲載されます](https://ishi-kai.org/article/io/2025/11/03/artcle_IO_202512.html)
-- [月刊I/O 2026年01月号にて「Myチップを作りたい！」の番外編「東海理化の1um CMOS プロセスでオリジナルチップを設計しよう」が掲載されます](https://ishi-kai.org/article/io/2025/12/07/artcle_IO_202601.html)
+- [月刊I/O 2026年01月号にて「Myチップを作りたい！」の番外編「東海理化の1um CMOS プロセスでオリジナルチップを設計しよう」が掲載されます](https://ishi-kai.org/article/io/2025/12/09/artcle_IO_202601.html)
 
 
 ### Interface
@@ -136,4 +142,7 @@ PDKなどに興味のある方は、ぜひ、参加してみてください。
 
 
 # まとめ
-来年は、ハンズオンの幅が広がる方向で活動が発展していくと思いますので、よろしくお願いします！！！
+今年は3年目して[本アドベントカレンダー](https://qiita.com/advent-calendar/2025/osssilicon)が全部埋まりました。さらに、Discordの登録者も570名を超えて600名が見えてきました。じわじわとオープンソース半導体人口が増えている流れを感じますね。  
+そして、ISHI会以外の人たちによるオープンソース半導体系の講演やハンズオンも出始めていますので、もしかしたら、いろいろと次の発展へ向けた活動が本格化するかもしれませんね。  
+  
+といったところで、来年は、ハンズオンの幅が広がる方向で活動が発展していき、これまでとはちょっと違った流れになりそうな気がしますので、よろしくお願いします！！！
