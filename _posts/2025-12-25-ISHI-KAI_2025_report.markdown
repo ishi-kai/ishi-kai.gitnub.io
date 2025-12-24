@@ -7,6 +7,13 @@ categories: Information
 本稿は[オープンソース半導体  Advent Calendar 2025](https://qiita.com/advent-calendar/2025/osssilicon)の最終日の記事です。  
 2025年の[ISHI会](https://ishi-kai.org/)を振り返る投稿です。大きなイベントをベースに振り返りたいと思います！ 
 
+## アドベントカレンダーフル！
+ついに、3年目にしてすべての項目が埋まりました！  
+参加してくれた皆様&購読してくれた皆様、ありがとうございました！  
+来年は2ページ目チャレンジしてみたいですね！  
+
+- [アドベントカレンダーフル](/assets/images/event/202512/AdventCalendar2025_25th.png)
+
 
 ## 新年の2025年のISHI会活動の予定
 まずは、[2025年のISHI会活動の予定](https://ishi-kai.org/information/2025/01/19/ISHI-KAI_2025_event_list.html)から、2025年の活動が予定通りだったか見てみましょう。  
