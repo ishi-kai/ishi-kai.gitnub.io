@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "月刊I/O 2026年02月号にて「Myチップを作りたい！」の番外編「突発的な無料のICチップ製造：シャトルは無くとも作っておこう！」が掲載されます"
+date:   2026-01-06 00:00:00 +0900
+categories: Article IO
+---
+
+# [月刊I/O 2026年02月号](https://www.amazon.co.jp/dp/B0GCF16T99/)にて「Myチップを作りたい！」の番外編「突発的な無料のICチップ製造：シャトルは無くとも作っておこう！」が掲載されます
+[月刊I/O 2026年02月号](https://www.amazon.co.jp/dp/B0GCF16T99/)で「Myチップを作りたい！」の番外編「突発的な無料のICチップ製造：シャトルは無くとも作っておこう！」が掲載されます！  
+  
+[Wafer.Sapce GF180 Run 1 への投稿完了！！！](https://ishi-kai.org/waferspace/shuttle/gf180/2025/12/01/shuttle_ISHI-KAI_Multiple_Projects_WaferSapce-GF180-1_submitted.html)に投稿した話を再編したものとなります。  
+[苦労話](https://github.com/noritsuna/AdventCalendar2025/blob/main/OSSSilicon_Day_03.md)もありますので、合わせてみてもらうとより楽しめるかと思います。  
+
+
+## [月刊I/O 2026年02月号](https://www.amazon.co.jp/dp/B0GCF16T99/)
+* [Amazon](https://www.amazon.co.jp/dp/B0GCF16T99/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18492048/)
+
+  ![表紙](/assets/images/article/IO/IO_202602_TOP.jpg)  
+  ![サンプルページ](/assets/images/article/IO/IO_202602_1stP.png)  
+  ![もくじ](/assets/images/article/IO/IO_202602_agenda.jpg)  
+
