@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "オープンソースカンファレンス2026 OsakaでLTもします"
+date:   2026-01-24 00:00:00 +0900
+categories: Information Event
+---
+
+# [オープンソースカンファレンス2026 Osaka](https://event.ospn.jp/osc2026-osaka/)
+
+[オープンソースカンファレンス2026 Osakaでの講演と展示](https://ishi-kai.org/information/event/2025/11/13/OSC2026Osaka.html)に続き、LTもすることになりました！  
+
+
+## LT
+### 内容
+- タイトル
+    - [ISHIの上にも三年](/assets/presentation/event/202601/OSC2026_Osaka_LT_ishi-kai.pdf)
+
+- ![AKATSUKI2026](/assets/images/call/akatsuki_2026_premessage.png)
+
