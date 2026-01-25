@@ -13,7 +13,7 @@ categories: Event
   
 さらに、九州地区をターゲットとした「地方版未踏ソフトウェア事業」であるAKATSUKIプロジェクトの半導体設計にフォーカスした新プロジェクトについて、お話しします。    
 チップを作ってみたいと思っている学生さんや若手の方はぜひご参加ください！  
-  
+- ![AKATSUKI2026](/assets/images/call/akatsuki_2026_premessage.png)
   
 また、ISHI会は、基本的に活動はDiscord上で行っています。ぜひ、ご参加いただければと思います！  
 Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)  
