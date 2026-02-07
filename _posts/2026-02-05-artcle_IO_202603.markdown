@@ -16,7 +16,7 @@ categories: Article IO
 
 ## [月刊I/O 2026年03月号](https://www.amazon.co.jp/dp/B0GKB2MRWZ/)
 * [Amazon](https://www.amazon.co.jp/dp/B0GKB2MRWZ/)
-* [楽天ブックス](https://books.rakuten.co.jp/rb/18492048/) ※後日アップデート予定
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18529226/)
 
   ![表紙](/assets/images/article/IO/IO_202603_TOP.jpg)  
   ![サンプルページ](/assets/images/article/IO/IO_202603_1stP.png)  
