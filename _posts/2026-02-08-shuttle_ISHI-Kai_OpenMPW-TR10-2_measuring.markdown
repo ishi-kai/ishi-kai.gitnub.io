@@ -14,9 +14,7 @@ categories: openmpw shuttle TR10
 
 ## シャトル提供スポンサー
 あらためて感謝を申し上げます。
-
 - [OpenSUSI](https://opensusi.org/)
-
 
 
 ### 測定内容
