@@ -33,9 +33,9 @@ categories: Event
     - タイトル：[End-to-end open-source Digital IC Design](https://efcl.ethz.ch/events/efcl-summer---winter-schools/efcl-winter-school-2026/the-event/track-1.html)参加報告
     - 内容： - 
 - 20:30 - 21:00
-    - 講演者： @nishizawa#2174 
-    - タイトル：学会系などいろいろなイベント報告
-    - 内容：
+    - 講演者： 西澤真一/広島大学 
+    - タイトル：FSiC2025に行ってきたよ
+    - 内容：オープンソースシリコン(OSS)やオープンソースEDA(OSEDA)およびそれらを利用した取り組みに関する学会である Free Silicon Conference (FSiC) 2025にて発表した内容，および会議の内容についてゆるふわに報告します．
 - 21:00 - 21:30
     - 講演者： Yuuki Umeta/新人
     - タイトル：ニッチじゃなくなってきた自作LSIの応用先を考えてみた
