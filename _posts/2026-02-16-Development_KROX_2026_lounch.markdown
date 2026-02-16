@@ -20,7 +20,7 @@ ISHI会が[鹿児島大学の片野田・森田研究室](http://www.mech.kagosh
 ### CANバス＋絶縁電源ボード上に載せたGPSシステムボード
 - ![GPS_CAN_Board_2026_01](https://raw.githubusercontent.com/ishi-kai/GPS4Rocket/main/images/GPS_CAN_Board_2026_01.jpg)
 - ![GPS_CAN_Board_2026_02](https://raw.githubusercontent.com/ishi-kai/GPS4Rocket/main/images/GPS_CAN_Board_2026_02.jpg)
-- ![GPS_CAN_Board_2026_03](https://raw.githubusercontent.com/ishi-kai/GPS4Rocket/main/images/GPS_CAN_Board_2026_03.jpg(
+- ![GPS_CAN_Board_2026_03](https://raw.githubusercontent.com/ishi-kai/GPS4Rocket/main/images/GPS_CAN_Board_2026_03.jpg)
 - ![GPS_CAN_Board_2026_04](https://raw.githubusercontent.com/ishi-kai/GPS4Rocket/main/images/GPS_CAN_Board_2026_04.jpg)
 
 ### リポジトリ
