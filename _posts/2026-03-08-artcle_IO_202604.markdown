@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "月刊I/O 2026年04月号にて特集「マイコン解体新書」と連載記事「手軽に有機半導体材料で有機トランジスタを作ってみよう」が同時掲載されます"
+date:   2026-03-08 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年04月号](https://www.amazon.co.jp/dp/B0GQJ35VC9/)にて特集「マイコン解体新書」と連載記事「手軽に有機半導体材料で有機トランジスタを作ってみよう」が同時掲載されます
+[月刊I/O 2026年04月号](https://www.amazon.co.jp/dp/B0GQJ35VC9/)で同時掲載です！  
+
+* 特集「マイコン解体新書」
+    * マイコンの中身がどのように実装されているか？を解説して、自分で実装できるようになることを目的とした記事となります。
+    * これが「次世代電子工作の基礎知識」となると考えています。
+        * [技術書典20](https://techbookfest.org/event/tbf20)で頒布予定のOpen Source Silicon Magazine Vol.2を簡易的にまとめた記事となっています。
+        * ![特集サンプルページ](/assets/images/article/IO/IO_202604_SP_1stP.png)  
+* 連載記事「手軽に有機半導体材料で有機トランジスタを作ってみよう」
+    * [ISHI会　2025年03月イベント：東京藝術大学主催：芸術情報土木工学特別演習：トランジスタを作ってみようの参加者募集](https://ishi-kai.org/information/seminar/2025/02/19/MarEvent_0225.html)で実施したハンズオンを記事化したものとなります。  
+    * ![連載サンプルページ](/assets/images/article/IO/IO_202604_1stP.png)  
+
+
+## [月刊I/O 2026年04月号](https://www.amazon.co.jp/dp/B0GQJ35VC9/)
+* [Amazon](https://www.amazon.co.jp/dp/B0GQJ35VC9/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18549392/)
+
+  ![表紙](/assets/images/article/IO/IO_202604_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202604_agenda.jpg)  
+
+  ![特集サンプルページ](/assets/images/article/IO/IO_202604_SP_1stP.png)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202604_1stP.png)  
