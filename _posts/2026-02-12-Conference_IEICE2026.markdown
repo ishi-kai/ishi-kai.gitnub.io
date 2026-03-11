@@ -23,6 +23,9 @@ categories: Information Conference
     - 3/13(金) 9:00
 - 場所
     - 1号館 N203
+- 資料
+    - [資料](/assets/presentation/2026/ieice_2026_noritsuna_pub.pdf)
+
 
 ![TOP](/assets/images/Conference/ieice2026_top.png)
 
