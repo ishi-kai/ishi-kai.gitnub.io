@@ -51,6 +51,7 @@ permalink: /links/
 ## 初心者向け情報
 * 初心者向け資料
      * [オープンソース半導体の世界がやってきた！](/assets/pdf/forBeginners.pdf)
+     * [Open Source Silicon Magazineシリーズ](https://github.com/ishi-kai/OpenSourceSiliconMagazine)
 
 * EDAツールのセットアップ方法
      * [https://github.com/ishi-kai/OpenRule1umPDK_setupEDA](https://github.com/ishi-kai/OpenRule1umPDK_setupEDA)
