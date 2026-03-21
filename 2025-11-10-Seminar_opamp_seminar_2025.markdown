@@ -1,0 +1,97 @@
+---
+layout: post
+title:  "アナログ回路の理解を深めたい人向けのセミナーを2講座開催します。"
+date:   2025-11-10 00:00:00 +0900
+categories: Seminar
+---
+
+# アナログ回路の理解を深めたい人向けのセミナーを2講座開催します。
+OPAMP回路をベースにさらにアナログ回路の理解を深めたい人向けのセミナーを2講座開催します。  
+短期複数回の講座と長期の複数回の講座の2種類となります。  
+それぞれ、テーマなども違いますので興味のあるものに参加してもらえればと思います。  
+
+
+## 「多目的値,多パラメータ最適化ソフト(自作)の回路への適用」講座
+OPAMP回路などのアナログ回路において最適なパラメータを決めるのは、計算だけで難しいものがあります。（理論値計算で出来ることはあたりをつけるところまでです。）
+かといって、spice monkey(手当たり次第にパラメータを入れてシミュレーションする行為)を人力でやることも難しいです。
+そこで、そのspice monkey作業を既存ソフトウェアよりも高確度、かつ人間にも探索過程や多目的値と多パラメータの相関をわかりやすい形で見せるGUIソフトウェアを自作しておりまして、その使い方などについて解説する講座です。
+OPAMP回路を題材としますがいろいろなアナログ回路への応用も可能なので、身につけておくべき技術です。ぜひ、ふるってご参加いただければと思います。
+
+### 講座内容
+
+- 回数：全4回
+- 時間：1～1.5時間
+- 会場：[ISHI会のDiscord内](https://discord.com/channels/1087260891264856144/1175045420922183740)
+- 講師：[@AirtomoR](https://x.com/AirtomoR)
+- テーマ：多目的値,多パラメータ最適化ソフト(自作)の回路への適用
+    - 第1回
+        - 開催日
+            - 11/17（月）22時～
+        - 内容
+            - 例題として用意ある26パラメータ3段オペアンプの例題(LTSpice)を私の環境を画面共有して実演
+        - 録画データ(2025/11/17追加)
+            - [YouTube動画](https://youtu.be/QHgV7wg1Tm8)
+    - 第2回
+        - 開催日
+            - 11/24（月）22時～
+        - 内容
+            - 御興味のある方へのPCへのセットアップサポート
+                - 事前にUbuntu22.04か24.04を入れている方にpyside2、sklearn、wine、LTSpiceのインストールを行い、最適化ソフト立上げ、26パラメータオペアンプ例題を実行出来る所まで進める
+                - (応募者がいない場合は上記を自分PCで自作自演)
+    - 第3回
+        - 開催日
+            - 12/1（月）22時～
+        - 内容
+            - まだ私が実施していないngspiceモデルへの適用(pythonでi/f合わせを少しする位の筈)をどなたかのPC環境を画面共有して実施
+            - (こちらは応募者が是非居てほしい。他の多パラメータ回路解析を経験したいので)(Ubuntuですでにngspice動いている人なら追加はpyside2とsklearnだけと思います)
+    - 第4回
+        - 開催日（変更あり）
+            - ~~12/6（土）22時～~~ → 12/8（月）22時～
+        - 内容
+            - 第3回の続き
+- 参考書
+    - [グリッドサーチ多目的値多パラメータ最適化ソフトウェアの拡張機能解説と物理シミュレーションでの例示](https://www.amazon.co.jp/dp/B0F74J2P4R)
+    - [多パラメータのグリッドサーチソフト(OptParaSol)解説](/assets/lecture/AirtomoR/多パラメータのグリッドサーチソフト(OptParaSol)解説.pptx)
+    - [(20251117プレゼン)LTSpiceでの26パラメータ3段オペアンプの例示](/assets/lecture/AirtomoR/20251117プレゼン_LTSpiceでの26パラメータ3段オペアンプの例示.pdf)
+    - [(20251124プレゼン)Ubuntuでのmyソフト、tutorialセットアップ方法](/assets/lecture/AirtomoR/20251124プレゼン_Ubuntuでのmyソフト、tutorialセットアップ方法.pdf)
+    - [(20251201プレゼン)(第1回)ngspiceのpython対応検討他](/assets/lecture/AirtomoR/20251201プレゼン_第1回_ngspiceのpython対応検討他.pdf)
+    - [(20251208プレゼン)(第2回)ngspiceのpython対応検討他](/assets/lecture/AirtomoR/20251208プレゼン_第2回_ngspiceのpython対応検討他.pdf)
+- Softwares
+    - [OptPlatformApp.zip](/assets/lecture/AirtomoR/OptPlatformApp.zip)
+    - Sample Project
+        - [3phaseOpAmp.zip](/assets/lecture/AirtomoR/3phaseOpAmp.zip)
+        - [simpFunc.zip](/assets/lecture/AirtomoR/simpFunc.zip)
+        - [simpleFunc.zip](/assets/lecture/AirtomoR/simpleFunc.zip)
+- 参考リンク
+    - [ASCO (A SPICE Circuit Optimizer)](https://asco.sourceforge.net/examples.html)
+    - [CMOSOperational and RF Power Amplifiers for Mobile Communications](https://asco.sourceforge.net/doc/phd_jramos.pdf)
+
+
+## 「Pythonでわかるアナログ半導体」講座
+通常のアナログ半導体設計においては、回路図エディタとレイアウトエディタというCADツールのようなものを使って設計・実装を行います。  
+しかし、オートメーション化や最近のAIによる自動設計を行う場合は、当然ですがすべてソフトウェア的に処理します。  
+オートメーション化においては、Google ColabやGitHub actionsでの実行されることが多く、すなわち、Pythonが用いられます。
+さらに、AIによる自動設計を行う場合、glayoutなどのPython上で動作するツールを利用することになります。すなわち、すべてのソフトウェア処理は、Pythonに繋がります。  
+そこで、Pythonでアナログ半導体設計を行うということがどういうことかを解説する講座になります。  
+LLMなども利用した最新のアナログ半導体設計技術となりますので、ぜひ、学びに来てください。
+
+
+### 講座内容
+
+- 回数：毎週木曜日の22時～（終了回数は未定）
+- 時間：1～1.5時間
+- 会場：[ISHI会のDiscord内](https://discord.com/channels/1087260891264856144/1175045420922183740)
+- 講師：[@カニテツ](https://discord.gg/F42HT4xB)
+- テーマ：Pythonでわかるアナログ半導体
+    - 第一回
+        - 開催日
+            - 12/18（木）22時～（定例アナログ系もくもく会）
+        - 内容
+            - いきなり！CMOS回路設計！！〜先生はPythonとLLM〜
+        - 資料(2025/12/05追加)
+            - [Prompt- and Python-Based Learning of CMOS Analog Circuits.ipynb](https://colab.research.google.com/drive/1F4OQW8qHCj28LsITEi9hs4TK2wbWIYcl?usp=sharing)
+
+
+## OPAMP回路や電流源のハンズオン資料とサンプル実装
+- [アナログ回路中級編：OPAMP](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/opamp)
+- [アナログ回路中級編：電流源](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/TR10/current-source)
