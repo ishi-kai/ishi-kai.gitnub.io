@@ -26,8 +26,8 @@ categories: Seminar
             - 変調について
         - 資料
             - [ソフトウェア無線機の基礎 第一回](/assets/lecture/RF/SDR/SDR_beginner_1st.pdf)
-        - 録画データ()
-            - [YouTube動画]()
+        - 録画データ
+            - [YouTube動画](https://youtube.com/live/QxqDpaTOcLg?feature=share)
     - 第2回
         - 開催日
             - 2026/04/09（木）22時～
@@ -35,8 +35,8 @@ categories: Seminar
             - 無線機のハードウェア
         - 資料
             - [ソフトウェア無線機の基礎 第二回](/assets/lecture/RF/SDR/SDR_beginner_2nd.pdf)
-        - 録画データ()
-            - [YouTube動画]()
+        - 録画データ
+            - [YouTube動画](https://youtube.com/live/-vnUlYMYNjc?feature=share)
     - 第3回
         - 開催日
             - 2026/04/16（木）22時～
@@ -44,8 +44,8 @@ categories: Seminar
             - IQ(直交)変復調方式について
         - 資料
             - [ソフトウェア無線機の基礎 第三回](/assets/lecture/RF/SDR/SDR_beginner_3rd.pdf)
-        - 録画データ()
-            - [YouTube動画]()
+        - 録画データ
+            - [YouTube動画](https://youtube.com/live/zQJpZ2htkV4?feature=share)
     - 第4回
         - 開催日
             - 2026/04/23（木）22時～
@@ -53,8 +53,8 @@ categories: Seminar
             - AM,FM変調と受信
         - 資料
             - [ソフトウェア無線機の基礎 第四回](/assets/lecture/RF/SDR/SDR_beginner_4th.pdf)
-        - 録画データ()
-            - [YouTube動画]()
+        - 録画データ
+            - [YouTube動画](https://youtube.com/live/L89h7_kkVzI?feature=share)
 
 #### 必要機材
 SDRが必要です。[RTL-SDR](https://www.rtl-sdr.com/)とAM,FM用のアンテナをご購入ください。  
