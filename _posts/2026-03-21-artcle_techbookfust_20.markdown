@@ -58,6 +58,13 @@ categories: Article
 * [Open Source Silicon Magazine Vol.1 ーはじめてのIC設計ー](https://techbookfest.org/product/3W7W1ukgkMrX6ENeBJaaYn)
 
 
+## 紙版＋電子版のセット
+* [技術書典20](https://techbookfest.org/event/tbf20)
+    * [電子版(PDF&epubのセット)：Open Source Silicon Magazine vol.2 ーはじめの一歩のその先へー～電気系ものづくりYouTuber イチケン氏降臨！次世代電子工作の第一歩！マイコンチップを自作しよう（アナログ編）～](https://techbookfest.org/product/16QdT05XCLVsRDi1fqX2wy) 
+* 価格
+    * 2500円 + 送料
+
+
 ## もくじ
   ![表紙](/assets/images/article/magazine/vol_2_cover.png)  
   ![まえがき](/assets/images/article/magazine/vol_2_ICHIKEN.png)  
