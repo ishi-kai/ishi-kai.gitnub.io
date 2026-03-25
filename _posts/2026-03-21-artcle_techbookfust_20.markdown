@@ -20,6 +20,7 @@ categories: Article
 
 みどころに関しては、[電気系ものづくりYouTuber イチケン氏]( https://www.youtube.com/@ICHIKEN1 )に書いていただいた "まえがき" に詰まっておりますので、下記を参照してもらえればと思います！  
 また、イチケンさんが挑戦したオペアンプ「[オペアンプを『半導体回路から自作』してみた【オープンソース半導体】](https://www.youtube.com/watch?v=maJQiwuKzZM)」の解説あります。  
+  ![サムネイル](https://img.youtube.com/vi/maJQiwuKzZM/hqdefault.jpg)  
 
   ![まえがき](/assets/images/article/magazine/vol_2_ICHIKEN.png)  
 
