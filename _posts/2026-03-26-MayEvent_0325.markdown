@@ -18,7 +18,7 @@ ISHI会もついに三周年を迎えました！
 Discordへの招待リンクです。(無効になっている場合は、 noritsuna atmark ishi-kai.org までご連絡ください。)  
 [https://discord.gg/Sj47dJk8x7](https://discord.gg/Sj47dJk8x7)  
 
-##参加費
+## 参加費
 * 無料 
 
 ## タイムテーブル
@@ -76,15 +76,15 @@ Discordへの招待リンクです。(無効になっている場合は、 norit
 - 時間は目安です。進行状況により変動します。
 
 
-##日時
+## 日時
 * 2026年5月6日（水・祝）１３：００〜１８：３０
 
-##開催場所
+## 開催場所
 * オフライン（東京会場：GMO yours・フクラス・福岡会場：エンジニアカフェ）
     * <b>東京会場＆オンラインの申し込みは[こちら](https://ishikai.connpass.com/event/381973/) </b>  
     * <b>福岡会場の申し込みは[こちら](https://ishikai.connpass.com/event/381975/) </b>  
 * オンライン配信（YouTube）
 
-#謝辞
+# 謝辞
 * [GMOインターネットグループ](https://www.gmo.jp/)様のご厚意によりリアル会場を提供していただきました。
 * [エンジニアカフェ](https://engineercafe.jp/ja/)様のご厚意によりリアル会場を提供していただきました。
