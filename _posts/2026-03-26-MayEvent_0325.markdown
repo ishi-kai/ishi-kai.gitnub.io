@@ -43,8 +43,8 @@ Discordへの招待リンクです。(無効になっている場合は、 norit
         - タイトル：OpenSUSI-MPW と FirstTapeout
         - 内容：OpenSUSIが2026年度にスタートする２つのOSS設計プログラムに関してのご紹介。
 - 同人誌完成記念講演：16:10 - 18:10
-    - 講演者属性：Open Source Silicon Magazine vol.2の筆陣
-    - テーマ：「Open Source Silicon Magazine vol.2 ーはじめの一歩のその先へー～電気系ものづくりYouTuber イチケン氏降臨！次世代電子工作の第一歩！マイコンチップを自作しよう（アナログ編）～」という初心者が中級者になるときに必要となる知識を詰め込んだ一冊の執筆陣による詳細解説となります。初心者の方、必見です！ https://ishi-kai.org/article/2026/03/20/artcle_techbookfust_20.html 
+    - 講演者属性：[Open Source Silicon Magazine vol.2](https://ishi-kai.org/article/2026/03/20/artcle_techbookfust_20.html) & Vol.3の筆陣
+    - テーマ：「[Open Source Silicon Magazine vol.2 ーはじめの一歩のその先へー～電気系ものづくりYouTuber イチケン氏降臨！次世代電子工作の第一歩！マイコンチップを自作しよう（アナログ編）～](https://ishi-kai.org/article/2026/03/20/artcle_techbookfust_20.html)」という初心者が中級者になるときに必要となる知識を詰め込んだ一冊の執筆陣による詳細解説となります。初心者の方、必見です！  
     - 16:10 - 16:30
         - 講演者：Shuntaro OHNO
         - 対象の章：基本の増幅回路 差動増幅OPAMP （教科書の最初に出てくるOPAMP）
