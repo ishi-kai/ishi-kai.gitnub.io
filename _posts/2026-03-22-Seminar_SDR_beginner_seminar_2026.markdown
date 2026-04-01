@@ -26,6 +26,7 @@ categories: Seminar
         - 内容
             - 変調について
         - 資料
+            - [GNU Radioのインストール](/assets/lecture/RF/SDR/GNURadio_install.pdf)
             - [ソフトウェア無線機の基礎 第一回](/assets/lecture/RF/SDR/SDR_beginner_1st.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/QxqDpaTOcLg?feature=share)
