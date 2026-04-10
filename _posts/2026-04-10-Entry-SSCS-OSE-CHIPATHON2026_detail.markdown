@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "IEEE SSCS Open-Source Ecosystem Chipathon 2026の詳細が公表されました。。"
+title:  "IEEE SSCS Open-Source Ecosystem Chipathon 2026の詳細が公表されました。"
 date:   2026-04-10 00:00:00 +0900
 categories: Information Chipathon
 ---
 
-## IEEE SSCS Open-Source Ecosystem Chipathon 2026が本格的に始動開始！
+## IEEE SSCS Open-Source Ecosystem Chipathon 2026が本格的に始動！
 [IEEE SSCS Open-Source Ecosystem Chipathon 2026](https://sscs.ieee.org/technical-committees/tc-ose/sscs-pico-design-contest/)の詳細が公表されました。  
 
 - [Chipathon Theme: “Build It. Test It. Publish It.”](https://sscs.ieee.org/technical-committees/tc-ose/sscs-pico-design-contest/)
