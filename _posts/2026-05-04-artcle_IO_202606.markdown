@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "月刊I/O 2026年06月号にて連載記事「オープンソース半導体の実用化事例 -ロケット向けGPS受信機を作ろう GPS衛星から信号を受信する-」が掲載されます"
+date:   2026-05-04 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年06月号](https://www.amazon.co.jp/dp/B0GYG9B5B1/)にて連載記事「オープンソース半導体の実用化事例 -ロケット向けGPS受信機を作ろう GPS衛星から信号を受信する-」が掲載されます
+
+[鹿児島大学の鹿児島ロケット(KROX)と共同開発した航法システムがKROXに搭載され、打ち上げられます。](https://ishi-kai.org/development/krox/2026/02/15/Development_KROX_2026_launch.html)にて、紹介した鹿児島大学のロケットに搭載したGPSのお話です。これから、下記の全3回に分けて解説予定です。  
+今年度も、鹿児島大学のロケットチーム（KROX）とGPSシステム完成に向けて共同開発する予定です。  
+気になる方は、ぜひ、お買い求めのうえ、ISHI会のほうへご参加ください！  
+
+- GPS信号のデコード編（今号）
+- 搭載したGPS基板設計編（2026/07月発売号）
+- 打ち上げ報告編（2026/08月発売号）
+
+※ただし、次回（2026/06月発売号）は「今年のISHI会のOpenMPWシャトルの案内」となります。  
+
+
+## [月刊I/O 2026年06月号](https://www.amazon.co.jp/dp/B0GYG9B5B1/)
+* [Amazon](https://www.amazon.co.jp/dp/B0GYG9B5B1/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18621394/)
+
+  ![表紙](/assets/images/article/IO/IO_202606_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202606_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202606_1stP.png)  
