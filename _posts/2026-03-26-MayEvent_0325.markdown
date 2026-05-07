@@ -95,6 +95,10 @@ Discordへの招待リンクです。(無効になっている場合は、 norit
     * <b>福岡会場の申し込みは[こちら](https://ishikai.connpass.com/event/381975/) </b>  
 * オンライン配信（YouTube）
 
+### 録画データ
+- [Vol.1](https://www.youtube.com/live/IREKCZ_JNxA?si=gzwt3bTDdBHp7UUe)
+- [Vol.2](https://www.youtube.com/live/7aCJuImPLW4?si=blizEhjYoaYYjTJp)
+
 # 謝辞
 * [GMOインターネットグループ](https://www.gmo.jp/)様のご厚意によりリアル会場を提供していただきました。
 * [エンジニアカフェ](https://engineercafe.jp/ja/)様のご厚意によりリアル会場を提供していただきました。
