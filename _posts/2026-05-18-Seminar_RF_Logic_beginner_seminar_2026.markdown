@@ -92,11 +92,12 @@ categories: Seminar
 
 #### 必要機材
 Verilog基礎講座には、FPGAボードがあると実地出来るためより理解が深まります。  
-これ以外の機材については、現在、検討中です。  
+~~これ以外の機材については、現在、検討中です。~~ BOMリストを追加しました。追記：2026/05/31  
 
 - FPGAボード
     - [Efinix](https://akizukidenshi.com/catalog/g/g129595/) 
-
+- BOMリスト
+    - [BOMリスト](/assets/lecture/RF/1bitADC/BOMLIST.xlsx)
 
 ### 参考リンク
 - [tinytapeout.com](tinytapeout.com)の公式サイト
