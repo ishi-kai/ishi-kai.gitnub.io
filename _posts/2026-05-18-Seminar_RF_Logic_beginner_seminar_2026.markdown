@@ -32,7 +32,7 @@ categories: Seminar
         - 内容
             - Verilogの基礎その1
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第一回](/assets/lecture/RF/logic/logic_beginner_1st.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第一回](/assets/lecture/RF/1bitADC/Verilog_1st.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/4USHCNKCveY?feature=share)
     - 第2回
@@ -41,7 +41,7 @@ categories: Seminar
         - 内容
             - Verilogの基礎その2
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第二回](/assets/lecture/RF/logic/logic_beginner_2nd.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第二回](/assets/lecture/RF/1bitADC/Verilog_2nd.pdf)
         - 録画データ
             - [YouTube動画](フルデジタルで音声を操るためのロジック回路)
     - 第3回
@@ -50,7 +50,7 @@ categories: Seminar
         - 内容
             - Verilogの基礎その3
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第三回](/assets/lecture/RF/logic/logic_beginner_3rd.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第三回](/assets/lecture/RF/1bitADC/Verilog_3rd.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/8vWkD8OhERI?feature=share)
     - 第4回
@@ -59,7 +59,7 @@ categories: Seminar
         - 内容
             - ΔΣ変調器のADC
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第四回](/assets/lecture/RF/logic/delta_sigma_adc.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第四回](/assets/lecture/RF/1bitADC/delta_sigma_adc.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/NkOG854vl1s?feature=share)
     - 第5回
@@ -68,7 +68,7 @@ categories: Seminar
         - 内容
             - １回でΔΣ変調器のDAC
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第五回](/assets/lecture/RF/logic/delta_sigma_dac.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第五回](/assets/lecture/RF/1bitADC/delta_sigma_dac.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/Lq2GKOYtoWA?feature=share)
     - 第6回
@@ -77,7 +77,7 @@ categories: Seminar
         - 内容
             - パイプライン処理
         - 資料
-            - [フルデジタルで音声を操るためのロジック回路 第六回](/assets/lecture/RF/logic/delta_sigma_pipeline.pdf)
+            - [フルデジタルで音声を操るためのロジック回路 第六回](/assets/lecture/RF/1bitADC/delta_sigma_pipeline.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/96138Cocgd8?feature=share)
 
@@ -98,6 +98,10 @@ Verilog基礎講座には、FPGAボードがあると実地出来るためより
     - [Efinix](https://akizukidenshi.com/catalog/g/g129595/) 
 - BOMリスト
     - [BOMリスト](/assets/lecture/RF/1bitADC/BOMLIST.xlsx)
+
+
+- 上記機材のインストールマニュアル
+    - [インストールマニュアル](/assets/lecture/RF/1bitADC/Install.pdf)
 
 ### 参考リンク
 - [tinytapeout.com](tinytapeout.com)の公式サイト
