@@ -40,9 +40,11 @@ categories: openmpw shuttle OpenSUSI-TR10
 これからもこの構造でもっとシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  
 
   ![ISHI会版OpenMPW_zep](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_zep.png)  
+  ![ISHI会版OpenMPW_sanken](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_sanken.png)  
 
 - シャトル提供スポンサー
     - [ZEPエンジニアリング（株）](https://www.zep.co.jp/)
+    - [サンケン電気（株）](https://www.sanken-ele.co.jp/)
 - 告知サイト
     - [ISHI会版OpenMPW OpenSUSI-TR10](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/05/04/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_start.html)
 
@@ -61,6 +63,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 - シャトル提供スポンサー
     - [ZEPエンジニアリング（株）](https://www.zep.co.jp/)
+    - [サンケン電気（株）](https://www.sanken-ele.co.jp/)
 
 
 # チップ製造枠
