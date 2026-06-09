@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "月刊I/O 2026年07月号にて連載記事「自作半導体の実機レビューオリジナル設計のOPAMPを製造・計測・評価してみた！」が掲載されます"
+date:   2026-06-08 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年07月号](https://www.amazon.co.jp/dp/B0H31197B4/)にて連載記事「自作半導体の実機レビューオリジナル設計のOPAMPを製造・計測・評価してみた！」が掲載されます
+[去年のISHI会版OpenMPW TR10-2](https://ishi-kai.org/openmpw/shuttle/tr10/2026/02/07/shuttle_ISHI-Kai_OpenMPW-TR10-2_measuring.html)に参加されたOhnoさんによる参加体験記事です。  
+今年も↓で募集しておりますので、気になる方は本記事を参考に参加検討していただければと思います！  
+
+
+- [2026年07月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：東京編](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/05/05/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_start.html)
+- [2026年08月イベント：二日でOPAMP回路ハンズオン](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/04/13/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_OPAMP.html)
+- [2026年08月イベント：オーディオ用OPAMP半導体ハンズオン](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/04/14/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_AudioOPAMP.html)
+
+
+
+## [月刊I/O 2026年07月号](https://www.amazon.co.jp/dp/B0H31197B4/)
+* [Amazon](https://www.amazon.co.jp/dp/B0H31197B4/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18621394/)
+
+  ![表紙](/assets/images/article/IO/IO_202607_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202607_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202607_1stP.png)  
