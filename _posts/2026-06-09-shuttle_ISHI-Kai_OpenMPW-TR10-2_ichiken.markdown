@@ -10,13 +10,14 @@ categories: openmpw shuttle TR10
 興味がある方は、ぜひ、ご覧になっていただければと思います。  
 
 - [1bit-CPU](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU)
+    - HDLやロジック回路（デジタル回路）がどのようにGDSに変換されているのかの学習が目的のハンズオンです。
 
 ## ISHI会版OpenMPW TR10-2について
 ISHI会版OpenMPW TR10-2の全16人による全18デザインの投稿が完了しました！  
 下の図はみなさまのデザインとなります。  
 
-![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/raw/main/Submitted/all_members_layout.png?raw=true)  
-![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/raw/main/Submitted/all_members_layout_using.png?raw=true)  
+![みんなのデザイン](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/raw/main/images/all_members_layout.png?raw=true)  
+![みんなのデザインとラベル](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/raw/main/images/all_members_layout_using.png?raw=true)  
 
 ### 投稿サイト
 詳細は下記のサイトのご覧ください！  
