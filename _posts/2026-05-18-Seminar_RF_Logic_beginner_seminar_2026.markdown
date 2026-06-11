@@ -106,4 +106,3 @@ Verilog基礎講座には、FPGAボードがあると実地出来るためより
 ### 参考リンク
 - [tinytapeout.com](tinytapeout.com)の公式サイト
 - [半導体製造(TinyTapeout)に挑戦しよう！](https://ishi-kai.org/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
-
