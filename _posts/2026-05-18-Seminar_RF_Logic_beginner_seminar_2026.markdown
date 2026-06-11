@@ -46,7 +46,7 @@ categories: Seminar
             - [YouTube動画](フルデジタルで音声を操るためのロジック回路)
     - 第3回
         - 開催日
-            - 2026/06/18（木）22時～
+            - 2026/06/25（木）22時～
         - 内容
             - Verilogの基礎その3
         - 資料
@@ -55,7 +55,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/8vWkD8OhERI?feature=share)
     - 第4回
         - 開催日
-            - 2026/06/25（木）22時～
+            - 2026/07/02（木）22時～
         - 内容
             - ΔΣ変調器のADC
         - 資料
@@ -64,7 +64,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/NkOG854vl1s?feature=share)
     - 第5回
         - 開催日
-            - 2026/07/02（木）22時～
+            - 2026/07/09（木）22時～
         - 内容
             - １回でΔΣ変調器のDAC
         - 資料
@@ -80,6 +80,9 @@ categories: Seminar
             - [フルデジタルで音声を操るためのロジック回路 第六回](/assets/lecture/RF/1bitADC/delta_sigma_pipeline.pdf)
         - 録画データ
             - [YouTube動画](https://youtube.com/live/96138Cocgd8?feature=share)
+
+#### 備考
+- 第3回が一週間伸びました。 追記：2026/06/12  
 
 #### 必要知識
 - 論理回路の基礎
