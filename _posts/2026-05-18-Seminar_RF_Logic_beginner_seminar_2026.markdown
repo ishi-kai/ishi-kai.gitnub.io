@@ -73,7 +73,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/Lq2GKOYtoWA?feature=share)
     - 第6回
         - 開催日
-            - 2026/07/09（木）22時～
+            - 2026/07/16（木）22時～
         - 内容
             - パイプライン処理
         - 資料
