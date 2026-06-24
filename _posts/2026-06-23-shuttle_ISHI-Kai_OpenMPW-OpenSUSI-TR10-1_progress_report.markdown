@@ -4,10 +4,10 @@ title:  "ISHI会版OpenMPW OpenSUSI-TR10-1を使ってみた！報告会"
 date:   2026-06-23 00:00:00 +0900
 categories: openmpw shuttle OpenSUSI-TR10
 ---
-
 # [ISHI会版OpenMPW OpenSUSI-TR10-1を使ってみた！報告会](https://ishikai.connpass.com/event/395888/)の開催
-「[Open Source Silicon Magazine vol.2 ーはじめの一歩のその先へー～電気系ものづくりYouTuber イチケン氏降臨！次世代電子工作の第一歩！マイコンチップを自作しよう（アナログ編）～](https://ishi-kai.org/article/2026/03/20/artcle_techbookfust_20.html)」の執筆陣が、先陣を切って「ISHI会版OpenMPW OpenSUSI-TR10-1」を使って各種回路を作ってくれましたので、その報告会です。  
+「[Open Source Silicon Magazine vol.2 ーはじめの一歩のその先へー～電気系ものづくりYouTuber イチケン氏降臨！次世代電子工作の第一歩！マイコンチップを自作しよう（アナログ編）～](https://ishi-kai.org/article/2026/03/20/artcle_techbookfust_20.html)」の執筆陣が、先陣を切って「ISHI会版OpenMPW OpenSUSI-TR10-1（ベースサービス：[OpenSUSI-MPW](https://www.opensusi.org/mpw-service)）」を使って各種回路を作ってくれましたので、その報告会です。  
 いろいろとトラブルも出ましたし、基本的には上記で解説した回路を進化させて、単体で機能する回路を作成してもらいましたので、実用チップを作ってみたいという方は必見です！  
+
 
 ## 製作物
 - [AMラジオチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/AM_Radio/Yamada3)
@@ -66,14 +66,18 @@ categories: openmpw shuttle OpenSUSI-TR10
 - 2026年7月19日（日）  13：00〜18：00  
 
 ## スケジュール
-- 13:00 - 14:00
+- 13:00 - 13:30
+    - [OpenSUSI-MPW](https://www.opensusi.org/mpw-service)の紹介 by OpenSUSI
+- 13:30 - 14:00
     - [BGR＋周辺回路](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/BGR/Maehashi)チーム
 - 14:00 - 15:00
     - [DCDCコンバータチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/blob/main/member_project/DCDC/ShuntaroOHNO)チーム
-- 15:00 - 16:00
-    - [AMラジオチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/AM_Radio/Yamada3)チーム
-- 16:00 - 17:00
+- 15:00 - 15:20
+    - (休憩)
+- 15:20 - 16:00
     - [耳で聞けるJJY（標準電波）受信機のIC](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/JJY_Receiver/Masahiro)チーム
+- 16:00 - 17:00
+    - [AMラジオチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/AM_Radio/Yamada3)チーム
 - ※スケジュールは概算です。当日、変動します。  
 
 
