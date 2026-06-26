@@ -55,7 +55,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/8vWkD8OhERI?feature=share)
     - 第4回
         - 開催日
-            - 2026/07/02（木）22時～
+            - 2026/07/09（木）22時～
         - 内容
             - ΔΣ変調器のADC
         - 資料
@@ -64,7 +64,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/NkOG854vl1s?feature=share)
     - 第5回
         - 開催日
-            - 2026/07/09（木）22時～
+            - 2026/07/16（木）22時～
         - 内容
             - １回でΔΣ変調器のDAC
         - 資料
@@ -73,7 +73,7 @@ categories: Seminar
             - [YouTube動画](https://youtube.com/live/Lq2GKOYtoWA?feature=share)
     - 第6回
         - 開催日
-            - 2026/07/16（木）22時～
+            - 2026/07/23（木）22時～
         - 内容
             - パイプライン処理
         - 資料
@@ -83,6 +83,7 @@ categories: Seminar
 
 #### 備考
 - 第3回が一週間伸びました。 追記：2026/06/12  
+- 第4回が一週間伸びました。 追記：2026/06/26  
 
 #### 必要知識
 - 論理回路の基礎
