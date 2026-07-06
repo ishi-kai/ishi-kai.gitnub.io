@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "月刊I/O 2026年08月号にて連載記事「オープンソース半導体の実用化事例 -ロケット向けGPS受信器を作ろう ロケットに搭載するためのボードを作る-」が掲載されます"
+date:   2026-07-06 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年08月号](https://www.amazon.co.jp/dp/B0H6Y2HTC7/)にて連載記事「オープンソース半導体の実用化事例 -ロケット向けGPS受信器を作ろう ロケットに搭載するためのボードを作る-」が掲載されます
+
+[鹿児島大学の鹿児島ロケット(KROX)と共同開発した航法システムがKROXに搭載され、打ち上げられます。](https://ishi-kai.org/development/krox/2026/02/15/Development_KROX_2026_launch.html)にて、紹介した鹿児島大学のロケットに搭載したGPSのお話です。これから、下記の全3回に分けて解説予定です。  
+今年度も、鹿児島大学のロケットチーム（KROX）とGPSシステム完成に向けて共同開発する予定です。  
+気になる方は、ぜひ、お買い求めのうえ、ISHI会のほうへご参加ください！  
+
+- [GPS信号のデコード編](https://ishi-kai.org/article/io/2026/05/03/artcle_IO_202606.html)
+- 搭載したGPS基板設計編（今号）
+- 打ち上げ報告編（2026/08月発売号）
+
+
+## [月刊I/O 2026年08月号](https://www.amazon.co.jp/dp/B0H6Y2HTC7/)
+* [Amazon](https://www.amazon.co.jp/dp/B0H6Y2HTC7/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18704751/)
+
+  ![表紙](/assets/images/article/IO/IO_202608_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202608_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202608_1stP.png)  
