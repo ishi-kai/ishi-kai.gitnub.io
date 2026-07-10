@@ -44,7 +44,14 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 
 ## ハンズオンの内容
+* [サンプルの回路図とレイアウト](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp_r2r_audio/)
+
   ![回路図](https://raw.githubusercontent.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/main/member_project/OPAMP/3zki/images/schem.png)  
+
+
+### 利用する資料  
+* [オーディオ用OPAMPハンズオン（PDF版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pdf)
+* [オーディオ用OPAMPハンズオン（PPTX版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pptx)
 
 
 ### 最低限の知識となる資料（これが理解できない方は[インバータ回路ハンズオン](https://ishikai.connpass.com/event/390287/)へ参加してください。）  
@@ -52,7 +59,7 @@ categories: openmpw shuttle OpenSUSI-TR10
     * [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_OpenSUSI-TR10.pdf)  
 
 
-### 利用する資料  
+#### あると良い知識  
 * [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp)  
 
 
