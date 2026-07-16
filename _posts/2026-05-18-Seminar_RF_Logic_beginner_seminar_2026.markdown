@@ -43,7 +43,7 @@ categories: Seminar
         - 資料
             - [フルデジタルで音声を操るためのロジック回路 第二回](/assets/lecture/RF/1bitADC/Verilog_2nd.pdf)
         - 録画データ
-            - [YouTube動画](フルデジタルで音声を操るためのロジック回路)
+            - [YouTube動画](https://www.youtube.com/watch?v=i-zB5A6gZh8)
     - 第3回
         - 開催日
             - 2026/06/25（木）22時～
