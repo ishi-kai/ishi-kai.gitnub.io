@@ -81,9 +81,11 @@ categories: Seminar
         - 録画データ
             - [YouTube動画](https://youtube.com/live/96138Cocgd8?feature=share)
 
+
 #### 備考
 - 第3回が一週間伸びました。 追記：2026/06/12  
 - 第4回が一週間伸びました。 追記：2026/06/26  
+- [サンプルソースコード置き場](https://github.com/ishi-kai/openmpw-HDL-examples/blob/main/README.md)を作成しました。 追記：2026/07/16  
 
 #### 必要知識
 - 論理回路の基礎
@@ -108,6 +110,8 @@ Verilog基礎講座には、FPGAボードがあると実地出来るためより
 - 上記機材のインストールマニュアル
     - [インストールマニュアル](/assets/lecture/RF/1bitADC/Install.pdf)
 
+
 ### 参考リンク
 - [tinytapeout.com](tinytapeout.com)の公式サイト
 - [半導体製造(TinyTapeout)に挑戦しよう！](https://ishi-kai.org/assets/presentation/2025/ISHIKAI_TinyTapeout_sky130_2025.pdf)
+- [サンプルソースコード置き場](https://github.com/ishi-kai/openmpw-HDL-examples/blob/main/README.md)
