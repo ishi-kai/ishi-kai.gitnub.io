@@ -1,0 +1,42 @@
+* Created by KLayout
+*** My special header ***
+
+* cell opamp_r2r_diff
+* pin BNI
+* pin BNO
+* pin BPI
+* pin BPO
+* pin INM
+* pin INM_N
+* pin INM_P
+* pin INP
+* pin INP_N
+* pin INP_P
+* pin VDD
+* pin VSS
+.SUBCKT opamp_r2r_diff BNI BNO BPI BPO INM INM_N INM_P INP INP_N INP_P VDD VSS
+* device instance $1 r0 *1 115.6,-159.9 PMOS
+XM$1 INP_P INP \$39 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $5 r0 *1 185.6,-159.9 PMOS
+XM$5 INM_P INM \$39 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $9 r0 *1 185.6,-109.9 PMOS
+XM$9 \$39 BPI \$53 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $13 r0 *1 115.6,-109.9 PMOS
+XM$13 \$39 BPI \$52 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $17 r0 *1 185.6,-52.9 PMOS
+XM$17 VDD BPO \$53 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $21 r0 *1 115.6,-52.9 PMOS
+XM$21 VDD BPO \$52 VDD PMOS L=4u W=48u AS=87.6p AD=87.6p PS=74.6u PD=74.6u
+* device instance $25 r0 *1 122.9,-327.3 NMOS
+XM$25 \$2 BNO VSS VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+* device instance $27 r0 *1 122.9,-277.3 NMOS
+XM$27 \$2 BNI \$14 VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+* device instance $29 r0 *1 192.9,-277.3 NMOS
+XM$29 \$5 BNI \$14 VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+* device instance $31 r0 *1 192.9,-327.3 NMOS
+XM$31 \$5 BNO VSS VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+* device instance $33 r0 *1 122.9,-227.3 NMOS
+XM$33 \$14 INP INP_N VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+* device instance $35 r0 *1 192.9,-227.3 NMOS
+XM$35 \$14 INM INM_N VSS NMOS L=4u W=24u AS=51.6p AD=51.6p PS=44.6u PD=44.6u
+.ENDS opamp_r2r_diff

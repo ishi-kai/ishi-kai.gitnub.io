@@ -8,6 +8,7 @@ categories: Seminar OpenSUSI-TR10
 「[ISHI会版OpenMPW OpenSUSI-TR10-1　オーディオ用OPAMP半導体ハンズオンセミナー](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/04/14/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_AudioOPAMP.html)」でご紹介した[令和８年度高等学校DX加速化推進事業（DXハイスクール）の重点類型 プロフェッショナル型・半導体重点枠](https://www.mext.go.jp/content/20260401-mxt_koukou02-000046737_0007.pdf)の採択校の「京都府立工業高等学校」でオーディオ用OPAMP半導体ハンズオンしてきましたので、その報告になります。  
 
   ![京都府立工業高等学校](https://ishi-kai.org/assets/images/Seminar/DX_sch_kyoto.png)  
+  ![kyoto-ths](/assets/images/handson/kyoto-ths/kyoto-ths.jpg)
 
 ## スタート
 1日目は、EDAツールの使い方を学習してもらうためにインバータ回路ハンズオンのレイアウトに特化したバージョンを体験してもらいました。  
