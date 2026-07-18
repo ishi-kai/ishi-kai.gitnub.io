@@ -69,25 +69,25 @@ AB級アンプレイアウトが完成した後に「Database Unit未設定に�
 
 ### 各チームの成果物
 #### チームAK
- ![OK_AK](/assets/images/handson/kyoto-ths/OK_AK.png)
+ ![OK_AK](/assets/images/handson/kyoto-ths/OK_AK.jpg)
  ![ABAMP_AK](/assets/images/handson/kyoto-ths/ABAMP_AK.png)
  ![diff_AK](/assets/images/handson/kyoto-ths/diff_AK.png)
  - [レイアウト置き場](/assets/images/handson/kyoto-ths/AK/)
 
 #### チームKM
- ![OK_KM](/assets/images/handson/kyoto-ths/OK_KM.png)
+ ![OK_KM](/assets/images/handson/kyoto-ths/OK_KM.jpg)
  ![ABAMP_KM](/assets/images/handson/kyoto-ths/ABAMP_KM.png)
  ![diff_KM](/assets/images/handson/kyoto-ths/diff_KM.png)
  - [レイアウト置き場](/assets/images/handson/kyoto-ths/KM/)
 
 #### チームHK
- ![OK_HK](/assets/images/handson/kyoto-ths/OK_HK.png)
+ ![OK_HK](/assets/images/handson/kyoto-ths/OK_HK.jpg)
  ![ABAMP_HK](/assets/images/handson/kyoto-ths/ABAMP_HK.png)
  ![diff_HK](/assets/images/handson/kyoto-ths/diff_HK.png)
  - [レイアウト置き場](/assets/images/handson/kyoto-ths/HK/)
 
 #### チームMR
- ![OK_MR](/assets/images/handson/kyoto-ths/OK_MR.png)
+ ![OK_MR](/assets/images/handson/kyoto-ths/OK_MR.jpg)
  ![ABAMP_MR](/assets/images/handson/kyoto-ths/ABAMP_MR.png)
  ![diff_MR](/assets/images/handson/kyoto-ths/diff_MR.png)
  - [レイアウト置き場](/assets/images/handson/kyoto-ths/MR/)
