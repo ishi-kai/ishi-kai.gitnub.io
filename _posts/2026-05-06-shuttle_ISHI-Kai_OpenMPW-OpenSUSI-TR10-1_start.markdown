@@ -80,8 +80,8 @@ categories: openmpw shuttle OpenSUSI-TR10
 * 【住所】東京都港区西新橋一丁目1番1号 日比谷FORT TOWER 9階 9R会議室
 * 【参加資格】　特になし  
 ### オンライン配信
-* ISHI会Discord内チャット
-    * 【参加資格】　特になし
+* [YouTubeストリーミング](https://youtube.com/live/FU1mHNy8IBs?feature=share)
+    * 【参加資格】 聞き専用（質問などは出来ません）
 
 
 ## 参加費
