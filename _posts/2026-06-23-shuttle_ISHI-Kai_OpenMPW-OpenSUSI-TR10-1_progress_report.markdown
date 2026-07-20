@@ -68,17 +68,23 @@ categories: openmpw shuttle OpenSUSI-TR10
 ## スケジュール
 - 13:00 - 13:30
     - [OpenSUSI-MPW](https://www.opensusi.org/mpw-service)の紹介 by OpenSUSI
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM)
 - 13:30 - 14:00
     - [BGR＋周辺回路](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/BGR/Maehashi)チーム
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=25m48s)
 - 14:00 - 15:00
     - [DCDCコンバータチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/blob/main/member_project/DCDC/ShuntaroOHNO)チーム
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=55m04s)
 - 15:00 - 15:20
     - (休憩)
 - 15:20 - 16:00
     - [耳で聞けるJJY（標準電波）受信機のIC](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/JJY_Receiver/Masahiro)チーム
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=2h01m41s)
 - 16:00 - 17:00
     - [AMラジオチップ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/AM_Radio/Yamada3)チーム
-- ※スケジュールは概算です。当日、変動します。  
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=2h34m43s)
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=2h44m25s)
+        - [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM&t=3h04m58s )
 
 
 ## 開催場所
@@ -89,6 +95,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 ### オンライン配信
 * YouTube
+    * [録画データ](https://www.youtube.com/watch?v=EySpq-LB5QM)
 
 ## 参加費
 無料
