@@ -50,6 +50,7 @@ categories: openmpw shuttle OpenSUSI-TR10
  ![R2R_Layout](/assets/images/handson/kyoto-ths/R2R_Layout.png)
 
 そこで、オーディオ用OPAMPの音質に関する部分だけをルールに従ってレイアウトしてもらいます。具体的には、Rail-to-Railな最終段のAB級アンプ部分と二段差動増幅OPAMP部分のみを作ってみようというハンズオンとなります。  
+※そのため、回路の解説などはありません。レイアウトに関する解説のみとなります。回路の解説は[こちら](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp_r2r)をご覧ください。  
 
  ![target_circuit](/assets/images/handson/kyoto-ths/target_circuit.png)
  ![target_ABAMP](/assets/images/handson/kyoto-ths/target_ABAMP.png)
