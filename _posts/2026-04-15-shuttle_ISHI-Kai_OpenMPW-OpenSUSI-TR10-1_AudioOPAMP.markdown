@@ -6,7 +6,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 ---
 
 # [2026年08月イベント：オーディオ用OPAMP半導体ハンズオン](https://connpass.com/event/390873/)募集の概要
-オーディオ用OPAMPの音質に関する部分だけを設計して、レイアウトして、製造するハンズオンとなります。具体的には、Rail-to-Railな二段差動増幅OPAMP部分と最終段のAB級アンプ部分のみを作ってみようというハンズオンとなります。その他の部分は、こちらで用意したものを利用してもらいます。  
+オーディオ用OPAMPの音質に関する部分だけをレイアウトして、製造するハンズオンとなります。具体的には、Rail-to-Railな二段差動増幅OPAMP部分と最終段のAB級アンプ部分のみを作ってみようというハンズオンとなります。その他の部分は、こちらで用意したものを利用してもらいます。  
 **枠は現在の暫定値です。応募人数により増減します。**  
 **チップ製造あり枠のみ、[2026年08月イベント：二日でOPAMP回路ハンズオン](https://connpass.com/event/390290/) と [2026年08月イベント：オーディオ用OPAMP半導体ハンズオン](https://connpass.com/event/390873/)のどちらか一方のみ申し込めます。両方に登録されていた場合、落選とします。**
 
@@ -40,16 +40,24 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 
 * 注意点  
-    * 基本的には、Rail-to-Railな二段差動増幅OPAMP部分と最終段のAB級アンプ部分のみを設計・レイアウトしていただきます。  
+    * 基本的には、Rail-to-Railな二段差動増幅OPAMP部分と最終段のAB級アンプ部分のみをレイアウトしていただきます。  
 
 
 ## ハンズオンの内容
-* [サンプルの回路図とレイアウト](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp_r2r_audio/)
+オーディオ用OPAMPと言えば、Rail-to-Rail OPAMPが一つの解となりますが、下図のようにちゃんと作ると1日で終わるようなものではありません。  
 
-  ![回路図](https://raw.githubusercontent.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_TR10-2/main/member_project/OPAMP/3zki/images/schem.png)  
+ ![R2R_Circuit](/assets/images/handson/kyoto-ths/R2R_Circuit.png)
+ ![R2R_Layout](/assets/images/handson/kyoto-ths/R2R_Layout.png)
+
+そこで、オーディオ用OPAMPの音質に関する部分だけをルールに従ってレイアウトしてもらいます。具体的には、Rail-to-Railな最終段のAB級アンプ部分と二段差動増幅OPAMP部分のみを作ってみようというハンズオンとなります。  
+
+ ![target_circuit](/assets/images/handson/kyoto-ths/target_circuit.png)
+ ![target_ABAMP](/assets/images/handson/kyoto-ths/target_ABAMP.png)
+ ![target_diff](/assets/images/handson/kyoto-ths/target_diff.png)
 
 
 ### 利用する資料  
+* [サンプルの回路図とレイアウト](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp_r2r_audio/)
 * [オーディオ用OPAMPハンズオン（PDF版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pdf)
 * [オーディオ用OPAMPハンズオン（PPTX版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pptx)
 
@@ -153,7 +161,8 @@ categories: openmpw shuttle OpenSUSI-TR10
     * [アナログ開発環境の使い方について](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_OpenSUSI-TR10.pdf)  
 
 ### 利用する資料  
-* [OPAMP設計解説資料](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/opamp)  
+* [オーディオ用OPAMPハンズオン（PDF版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pdf)
+* [オーディオ用OPAMPハンズオン（PPTX版）](https://github.com/ishi-kai/openmpw-transistor-level-examples/blob/main/OpenSUSI-TR10/docs/OPAMP_R2R_Audio_OpenSUSI-TR10.pptx)
 
 ### 次のステップは？
 - 中級者のための書籍を用意しています
