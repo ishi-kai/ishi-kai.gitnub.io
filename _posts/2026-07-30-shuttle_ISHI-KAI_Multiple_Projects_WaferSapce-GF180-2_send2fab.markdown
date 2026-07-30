@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wafer.Sapce GF180 Run 2 がファブ（工場）への提出が完了！！！"
-date:   2006-07-30 00:00:00 +0900
+date:   2026-07-30 00:00:00 +0900
 categories: WaferSpace shuttle GF180
 ---
 ## [Wafer.Sapce GF180 Run 2](https://www.crowdsupply.com/wafer-space/gf180mcu-run-2/) がファブ（工場）への提出が完了！！！
