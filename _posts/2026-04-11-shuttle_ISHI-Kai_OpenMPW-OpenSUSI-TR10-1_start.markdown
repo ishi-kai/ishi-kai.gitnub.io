@@ -7,7 +7,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 # 半導体設計初めての人向けのセミナーのご案内
 ## [2026年06月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北海道編](https://ishikai.connpass.com/event/388722/)の参加者募集の概要
-[北海道情報大学 メディアクリエイティブセンター](https://mcc.do-johodai.ac.jp/)との共催 x 札幌の地元企業である[(株)アットマークテクノ](https://www.atmark-techno.com/)さんのスポンサードという形にて、北海道初の半導体設計初めてで、半導体の基本用語の「EDA」や「PDK」さえ、何？そもそも「シャトル」って何？という方向けにハンズオンセミナーします。  
+[北海道情報大学 メディアクリエイティブセンター](https://mcc.do-johodai.ac.jp/)との共催 x ~~札幌の地元企業である[(株)アットマークテクノ](https://www.atmark-techno.com/)さんのスポンサードという~~ 形にて、北海道初の半導体設計初めてで、半導体の基本用語の「EDA」や「PDK」さえ、何？そもそも「シャトル」って何？という方向けにハンズオンセミナーします。  
 具体的には、アナログ半導体のHellow WorldやLチカに相当するインバータ回路を、設計ツールのセットアップ〜回路設計〜チップ上へのレイアウトまでを1日でやっていただくハンズオンとなります。  
 半導体なんて全く知らないけど、作ってはみたい！という方は、ぜひ、ご参加ください！  
 
@@ -18,6 +18,12 @@ categories: openmpw shuttle OpenSUSI-TR10
 - 募集サイト
     - [2026年06月イベント：初めての半導体設計・製造体験！一日で作るインバータ回路ハンズオン：北海道編](https://ishikai.connpass.com/event/388722/)
         - 東京での募集は[ISHI会　2026年5月イベント「ISHI会三周年記念イベント～学生＆新人、半導体初心者に贈る！～」](https://ishi-kai.org/information/seminar/2026/03/25/MayEvent_0325.html)にて発表予定です。
+
+
+### 追記（2026/08/26）
+[(株)アットマークテクノ](https://www.atmark-techno.com/)のスポンサー枠が消滅しました。  
+現在、新規のスポンサー枠を探しております。  
+
 
 
 ### 利用する資料  
@@ -35,10 +41,10 @@ categories: openmpw shuttle OpenSUSI-TR10
 大風呂敷を広げれば、日本のOpenMPWはまだまだ続いています！  
 しかも、今回は北海道からの登場となっています。これからもこの構造でもっと全国的にシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  
 
-  ![ISHI会版OpenMPW_atmark](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_atmark.png)  
+  ![ISHI会版OpenMPW_atmark](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_.png)  
 
 - シャトル提供スポンサー
-    - [(株)アットマークテクノ](https://www.atmark-techno.com/)
+    - 
 - 告知サイト
     - [ISHI会版OpenMPW OpenSUSI-TR10](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/04/10/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_start.html)
         - 東京での募集は[ISHI会　2026年5月イベント「ISHI会三周年記念イベント～学生＆新人、半導体初心者に贈る！～」](https://ishi-kai.org/information/seminar/2026/03/25/MayEvent_0325.html)にて発表予定です。
@@ -58,7 +64,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 スポンサー提供のため「**無料**」となります。  
 
 - シャトル提供スポンサー
-    - [(株)アットマークテクノ](https://www.atmark-techno.com/)
+    - 
 
 
 #チップ製造枠
