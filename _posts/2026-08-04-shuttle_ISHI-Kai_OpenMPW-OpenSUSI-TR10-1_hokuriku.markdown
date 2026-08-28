@@ -31,7 +31,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 スポンサー提供のため「**無料**」となります。  
 
 - シャトル提供スポンサー
-    - [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
+    - [一般社団法人RISE-A](https://www.rise-a.jp/)
 
 
 ### 利用する資料  
@@ -49,10 +49,10 @@ categories: openmpw shuttle OpenSUSI-TR10
 大風呂敷を広げれば、日本のOpenMPWはまだまだ続いています！  
 これからもこの構造でもっとシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  
 
-  ![ISHI会版OpenMPW](https://ishi-kai.org/assets/images/shuttle/ISHIKAI_OpenMPW_TR10_2.png)  
+  ![ISHI会版OpenMPW](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_RISE-A.png)  
 
 - シャトル提供スポンサー
-    - [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
+    - [一般社団法人RISE-A](https://www.rise-a.jp/)
 - 告知サイト
     - [ISHI会版OpenMPW OpenSUSI-TR10](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/08/03/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_hokuriku.html)
 
@@ -70,7 +70,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 スポンサー提供のため「**無料**」となります。  
 
 - シャトル提供スポンサー
-    - [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センター](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
+    - [一般社団法人RISE-A](https://www.rise-a.jp/)
 
 
 #チップ製造枠
