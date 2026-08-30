@@ -25,6 +25,11 @@ categories: openmpw shuttle OpenSUSI-TR10
 現在、新規のスポンサー枠を探しております。  
 
 
+### 追記（2026/08/31）
+[一般社団法人RISE-A](https://www.rise-a.jp/)が枠を提供してくれました。  
+無事に製造できる予定です。  
+
+
 
 ### 利用する資料  
 * インバーターの作り方  
@@ -39,12 +44,12 @@ categories: openmpw shuttle OpenSUSI-TR10
 ## ISHI会版OpenMPW OpenSUSI-TR10-1について
 小規模ながらスポンサーのGoogle社＋コニュニティーサポートのeFables社＋製造ファブのSkywater社の構造であり、OpenMPWの構造ということとなります！  
 大風呂敷を広げれば、日本のOpenMPWはまだまだ続いています！  
-しかも、今回は北海道からの登場となっています。これからもこの構造でもっと全国的にシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  
+これからもこの構造でもっと全国的にシャトルを増やしていこうと思いますので、皆様のご支援、よろしくお願いいたします！  
 
-  ![ISHI会版OpenMPW_atmark](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_.png)  
+  ![ISHI会版OpenMPW](/assets/images/shuttle/ISHIKAI_OpenMPW_OpenSUSI-TR10_1_RISE-A.png)  
 
 - シャトル提供スポンサー
-    - 
+    - [一般社団法人RISE-A](https://www.rise-a.jp/)
 - 告知サイト
     - [ISHI会版OpenMPW OpenSUSI-TR10](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/04/10/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_start.html)
         - 東京での募集は[ISHI会　2026年5月イベント「ISHI会三周年記念イベント～学生＆新人、半導体初心者に贈る！～」](https://ishi-kai.org/information/seminar/2026/03/25/MayEvent_0325.html)にて発表予定です。
@@ -64,7 +69,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 スポンサー提供のため「**無料**」となります。  
 
 - シャトル提供スポンサー
-    - 
+    - [一般社団法人RISE-A](https://www.rise-a.jp/)
 
 
 #チップ製造枠
