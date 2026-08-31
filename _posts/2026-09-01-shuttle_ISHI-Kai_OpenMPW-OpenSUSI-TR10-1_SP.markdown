@@ -44,7 +44,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 - 募集対象：OpenSUSI TR10 PDKでまだ作られていない回路
     - 要するに「ただのOPAMPを作りました」ではだめです。何か、ひと工夫した回路やレイアウトなどが対象です。
         - いままでに何が作られたかは[ISHI会のDiscord内チャンネル](https://discord.com/channels/1087260891264856144/1484190502567018656)の過去ログを参考にしてください。
-        - https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1 にもアップロードされています。
+        - [https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1) にもアップロードされています。
 - 制限：利用ピン数が少ないほど、採用される可能性が高くなります（載せられる場所が多い）。サイズは、600um x 1800umくらいまでならほぼ採択に影響ありません。
     - 資格：国内在住の方
     - サイズ：1800um x 1800um
