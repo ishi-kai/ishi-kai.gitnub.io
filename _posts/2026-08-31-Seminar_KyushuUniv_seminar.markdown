@@ -14,3 +14,7 @@ categories: Seminar
 - [2026_九州大学価値創造型半導体人材育成センター_実習シリーズ③ 集積回路設計・評価ハンズオンセミナー](https://ecsvc.ed.kyushu-u.ac.jp/pdf/260701_jisshu_03.pdf)
   - 本実習シリーズは九州大学の学生か教員が対象です。
 
+
+## これまでの実績
+- [九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターが主催する2025年度実習シリーズでISHI会のインバータハンズオンが採用されました](https://ishi-kai.org/seminar/2025/07/15/Seminar_KyushuUniv_inverter.html)
+
