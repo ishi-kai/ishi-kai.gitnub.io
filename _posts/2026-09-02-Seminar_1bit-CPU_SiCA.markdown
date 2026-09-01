@@ -2,7 +2,7 @@
 layout: post
 title:  "1bit-CPUハンズオン by SiCAを開催しました"
 date:   2026-09-02 00:00:00 +0900
-categories: openmpw shuttle OpenSUSI-TR10
+categories: Seminar shuttle OpenSUSI-TR10
 ---
 ## [1bit-CPUハンズオン](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU) by [SiCA (Semiconductor Innovation and Co-Creation Arena) ](https://sica-arena.jp/)を開催しました
 [SiCA](https://sica-arena.jp/)のプレイベントとして、[約50万登録者のものづくり系YouTuberのICHIKENさん](https://www.youtube.com/@ICHIKEN1)により、公開された[設計・レイアウトした1bit-CPUの動画](https://www.youtube.com/watch?v=5_aIvm-i4ag)に登場した[1bit-CPU](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU)と同じ内容のハンズオンを実施してきました。    
