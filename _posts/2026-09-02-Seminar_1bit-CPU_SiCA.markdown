@@ -11,9 +11,9 @@ categories: Seminar shuttle OpenSUSI-TR10
 今後は、このような形で半導体設計は基礎教養レベルになるかもしれませんね。  
 
 
-- ![SiCAパンフ](/assets/images/handson/SiCA/2026_SICA_01.jpg)
-- ![SiCA連携](/assets/images/handson/SiCA/2026_SICA_02.jpg)
-- ![作業中風景](/assets/images/handson/SiCA/2026_SICA_03.jpg)
+- ![SiCAパンフ](/assets/images/handson/SiCA/2026_SiCA_01.jpg)
+- ![SiCA連携](/assets/images/handson/SiCA/2026_SiCA_02.jpg)
+- ![作業中風景](/assets/images/handson/SiCA/2026_SiCA_03.jpg)
 
 
 - [1bit-CPU](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU)
