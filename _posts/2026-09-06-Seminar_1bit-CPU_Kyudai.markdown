@@ -7,6 +7,10 @@ categories: Seminar shuttle OpenSUSI-TR10
 ## ISHI会ハンズオン in 九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターを開催しました
 「[九州大学大学院システム情報科学府附属価値創造型半導体人材育成センターが主催する2026年度実習シリーズでISHI会のハンズオンが採用されました。](https://ishi-kai.org/seminar/2026/08/30/Seminar_KyushuUniv_seminar.html)」でご案内し通り、1日目に去年の参加者を対象として[1bit-CPUハンズオン](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU) を開催し、2日目に初めての人向けの[インバータハンズオン](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_OpenSUSI-TR10.pdf)を開催しました。  
 
+## サポート要員
+- [九州産業大学 貞方 敦雄](https://x.com/Sadakata_Lab)
+- [Yamada3](https://x.com/keropiyo_)
+
 ### 1日目：[1bit-CPUハンズオン](https://github.com/ishi-kai/openmpw-transistor-level-examples/tree/main/OpenSUSI-TR10/1bit-CPU)
 参加者は3名と少なめになりました。やはり、去年の学生さんはすでに卒業されていたりなど、2年目限定となると参加者が厳しいですね。  
 ただ、今回は教員の方の参加となったため、来年は期待出来そうな気はします。  
