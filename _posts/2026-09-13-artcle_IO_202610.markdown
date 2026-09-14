@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "月刊I/O 2026年10月号にて連載記事「『CPUチップを自作』するーオープンソース環境でフルカスタムCPUをつくってボードに載せて動かすー」が掲載されます"
+date:   2026-09-13 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年10月号](https://www.amazon.co.jp/dp/B0HGSNQ3J9/)にて連載記事「『CPUチップを自作』するーオープンソース環境でフルカスタムCPUをつくってボードに載せて動かすー」が掲載されます
+
+今月号は、[秋田先生](https://x.com/akita11)による「『CPUチップを自作』するーオープンソース環境でフルカスタムCPUをつくってボードに載せて動かすー」です！4bit-CPUのTD4を実チップにしたお話になります。  
+さらに、bunnie氏の[Baochip-1x](https://github.com/baochip/baochip-1x)の話も出ています。CPU設計・製造に興味のある方は、ぜひ、お手に取ってもらえればと思います。  
+
+
+## [月刊I/O 2026年10月号](https://www.amazon.co.jp/dp/B0HGSNQ3J9/)
+* [Amazon](https://www.amazon.co.jp/dp/B0HGSNQ3J97/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18793011/)
+
+  ![表紙](/assets/images/article/IO/IO_202610_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202610_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202610_1stP.png)  

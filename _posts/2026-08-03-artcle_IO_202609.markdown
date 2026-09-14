@@ -15,10 +15,10 @@ categories: Article IO
 - 作ったGPS受信器をロケットに載せて打ち上げよう-（今号）
 
 
-## [月刊I/O 2026年08月号](https://www.amazon.co.jp/dp/B0HBXQK887/)
+## [月刊I/O 2026年09月号](https://www.amazon.co.jp/dp/B0HBXQK887/)
 * [Amazon](https://www.amazon.co.jp/dp/B0HBXQK887/)
 * [楽天ブックス](https://books.rakuten.co.jp/rb/18750227/)
 
-  ![表紙](/assets/images/article/IO/IO_202608_TOP.jpg)  
-  ![もくじ](/assets/images/article/IO/IO_202608_agenda.jpg)  
-  ![連載サンプルページ](/assets/images/article/IO/IO_202608_1stP.png)  
+  ![表紙](/assets/images/article/IO/IO_202609_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202609_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202609_1stP.png)  
