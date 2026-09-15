@@ -55,16 +55,10 @@ categories: openmpw shuttle OpenSUSI-TR10
     - [一般社団法人RISE-A](https://www.rise-a.jp/)
 
 
-#チップ製造枠
-現時点で確定値となります。
-
-
-#日程
 ##日時
 2026年9月19日（日）13：00〜18：00  
 
 ##開催場所
-### リアル会場
 * 【施設名】WeWork 日比谷FORT TOWER  
 * 【住所】東京都港区西新橋一丁目1番1号 日比谷FORT TOWER 10階 10L会議室
 * 【参加資格】　特になし  
