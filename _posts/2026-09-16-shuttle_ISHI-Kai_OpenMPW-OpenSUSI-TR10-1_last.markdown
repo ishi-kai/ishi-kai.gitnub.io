@@ -55,7 +55,7 @@ categories: openmpw shuttle OpenSUSI-TR10
 
 # 日時
 ## 日時
-2026年9月19日（日）13：00〜18：00  
+2026年9月19日（土）13：00〜18：00  
 
 ## 開催場所
 * 【施設名】WeWork 日比谷FORT TOWER  
