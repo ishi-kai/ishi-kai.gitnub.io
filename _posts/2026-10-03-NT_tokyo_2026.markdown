@@ -32,6 +32,7 @@ UIAP(https://uiap.jp)のスポンサードで実施されるため、無料で�
     - 1時間ほどお時間をいただければ、フルバージョンも可能です。
 
 ![ECデバイス](/assets/images/NT/Tokyo2026/EC.jpg)
+![ECデバイスポスター](/assets/images/NT/Tokyo2026/EC_poster_GeneratedGemini.jpg)
 
 - [当日利用する資料:PDF版](https://ishi-kai.org/assets/pdf/EC.pdf)
 - [当日利用する資料:PPTX版](https://ishi-kai.org/assets/pdf/EC.pptx)
