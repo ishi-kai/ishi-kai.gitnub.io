@@ -36,6 +36,7 @@ UIAP(https://uiap.jp)のスポンサードで実施されるため、無料で�
 
 - [当日利用する資料:PDF版](https://ishi-kai.org/assets/pdf/EC.pdf)
 - [当日利用する資料:PPTX版](https://ishi-kai.org/assets/pdf/EC.pptx)
+- [ボードデータ](https://github.com/ishi-kai/EC_BOARD)
 
 
 # 開催概要
