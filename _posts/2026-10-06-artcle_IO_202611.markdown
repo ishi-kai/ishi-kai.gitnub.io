@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "月刊I/O 2026年11月号にて連載記事「電波時計を「音」で聞いてみよう ー電波時計用ICを自作するー」が掲載されます"
+date:   2026-10-06 00:00:00 +0900
+categories: Article IO
+---
+# [月刊I/O 2026年11月号](https://www.amazon.co.jp/dp/B0HJV23DD6/)にて連載記事「電波時計を「音」で聞いてみよう ー電波時計用ICを自作するー」が掲載されます
+
+今月号からしばらくは「[ISHI会版OpenMPW OpenSUSI-TR10-1～2026年OpenSUSI-TR10（OpenSUSI-TR1umシャトル）の相乗り～](https://ishi-kai.org/openmpw/shuttle/opensusi-tr10/2026/09/25/shuttle_ISHI-Kai_OpenMPW-OpenSUSI-TR10-1_submitted.html)」に投稿されたいろいろな回路の紹介となります。  
+初回は、Masahiro氏と西尾和俊氏による電波時計を「音」で聞いてみよう ー電波時計用ICを自作するーとなります。  
+アナログ系の応用回路が複数詰め込まれていますので、アナログ回路に興味のある人は、ぜひ、ご覧ください！  
+
+- [ISHI会版OpenMPW OpenSUSI-TR10-1のgithub](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1)
+
+
+## [月刊I/O 2026年11月号](https://www.amazon.co.jp/dp/B0HJV23DD6/)
+* [Amazon](https://www.amazon.co.jp/dp/B0HJV23DD6/)
+* [楽天ブックス](https://books.rakuten.co.jp/rb/18842358/)
+
+  ![表紙](/assets/images/article/IO/IO_202611_TOP.jpg)  
+  ![もくじ](/assets/images/article/IO/IO_202611_agenda.jpg)  
+  ![連載サンプルページ](/assets/images/article/IO/IO_202611_1stP.png)  
