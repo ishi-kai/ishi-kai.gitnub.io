@@ -11,6 +11,9 @@ Wafer.Spaceへ投稿するための環境構築ハンズオンとなります。
 
 という案内をする予定だったのですが、なんと、すでに60名の枠が埋まってしまいました。。。まだ、公開されてから数日しか経ってないはずなのですが、最近の半導体関連の勢いを感じますね。  
 
+* 2026/10/22追記
+    * 枠が128名に拡大されました。
+
 
 * [RISC-V Day Tokyo 2026 Autumn](https://riscv.or.jp/risc-v-day-tokyo-2026-autumn/)
     * 開催日時
@@ -34,12 +37,12 @@ Wafer.Spaceへ投稿するための環境構築ハンズオンとなります。
     * 場所
         * ギャラリー2
     * 料金
-        * 3000円
+        * 3000円（お弁当付き）
     * 申し込み先
         * [PEATEX](https://peatix.com/event/5190001)
     * 資料
-        * [ダウンロード先：PDF版](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_GF180.pdf) （準備中）
-        * [ダウンロード先：PPTX版](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript/blob/main/docs/inverter_GF180.pptx) （準備中）
+        * [ダウンロード先：PDF版](https://github.com/ishi-kai/RISC-V-Day_2611_inverter_workshop/blob/main/docs/inverter_RISC-V-Day.pdf) （2026/10/22追記）
+        * [ダウンロード先：PPTX版](https://github.com/ishi-kai/RISC-V-Day_2611_inverter_workshop/blob/main/docs/inverter_RISC-V-Day.pdf) （2026/10/22追記）
     * 備考
         * Windowsの場合は、Ubuntu24.04ベースのWSLと[EDAツール(xschem, ngspice, klayout)とGF180 PDK](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript)をインストールしておいてください。Mac環境はサポート外です。
-            * EDAツールやGF180 PDKが既にセットアップ済みの[WSLイメージのセットアップ](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript#wsl-image)をお勧めしています。
+            * EDAツールやGF180 PDKが既にセットアップ済みの[WSLイメージのセットアップ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)をお勧めしています。（2026/10/22追記）
