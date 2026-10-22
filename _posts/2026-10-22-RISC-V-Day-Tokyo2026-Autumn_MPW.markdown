@@ -24,6 +24,7 @@ categories: Information Conference RISC-V
 * [GDSファイルテンプレートサイト](https://github.com/ishi-kai/RISC-V-Day_MPW_template)
 * [投稿用サイト](https://docs.google.com/forms/d/e/1FAIpQLSc03BBdM_YsMIQLg8rjOAOwWR8Er7i9uSUOLvgvSsFZ5M1xpg/viewform)
 * [投稿用サイトとMPWの統合用サイトの統合用バッチシステム](https://github.com/ishi-kai/RISC-V-Day_MPW_submit_batch)
+* [カスタム GF180D PDK](https://github.com/ishi-kai/gf180mcuD/tree/RD_2611)
 * [WSLイメージのセットアップ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
 
 
@@ -55,6 +56,7 @@ categories: Information Conference RISC-V
     * [GDSファイルテンプレートサイト](https://github.com/ishi-kai/RISC-V-Day_MPW_template)
     * [投稿用サイト](https://docs.google.com/forms/d/e/1FAIpQLSc03BBdM_YsMIQLg8rjOAOwWR8Er7i9uSUOLvgvSsFZ5M1xpg/viewform)
     * [投稿用サイトとMPWの統合用サイトの統合用バッチシステム](https://github.com/ishi-kai/RISC-V-Day_MPW_submit_batch)
+    * [カスタム GF180D PDK](https://github.com/ishi-kai/gf180mcuD/tree/RD_2611)
     * [WSLイメージのセットアップ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
 * 備考
     * Windowsの場合は、Ubuntu24.04ベースのWSLと[EDAツール(xschem, ngspice, klayout)とGF180 PDK](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript)をインストールしておいてください。Mac環境はサポート外です。
