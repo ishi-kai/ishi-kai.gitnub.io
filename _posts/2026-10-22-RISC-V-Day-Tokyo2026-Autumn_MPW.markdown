@@ -25,7 +25,9 @@ categories: Information Conference RISC-V
 * [投稿用サイト](https://docs.google.com/forms/d/e/1FAIpQLSc03BBdM_YsMIQLg8rjOAOwWR8Er7i9uSUOLvgvSsFZ5M1xpg/viewform)
 * [投稿用サイトとMPWの統合用サイトの統合用バッチシステム](https://github.com/ishi-kai/RISC-V-Day_MPW_submit_batch)
 * [カスタム GF180D PDK](https://github.com/ishi-kai/gf180mcuD/tree/RD_2611)
-* [WSLイメージ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
+* [開発環境インストール済みWSLイメージ for Windows(Intel)](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
+* [開発環境インストール済みVMWareイメージ for Mac(AppleSilicon)](https://1drv.ms/u/c/5b2da16fa1785921/IQCqPbDkydCDSIIDXWhnJPt4Ac6tlGZEmdSJ1KBrlScjH-c?e=tkbkHM)
+* [開発環境インストール済みVMWareイメージ for Mac(Intel)](https://1drv.ms/u/c/5b2da16fa1785921/IQB15NotWS2tSKXvKLnUxCBSAaj4ca_HSrEJUjqyo-AdrT0?e=qjW5OL)
 
 
 #### 当日のテキスト
@@ -57,7 +59,9 @@ categories: Information Conference RISC-V
     * [投稿用サイト](https://docs.google.com/forms/d/e/1FAIpQLSc03BBdM_YsMIQLg8rjOAOwWR8Er7i9uSUOLvgvSsFZ5M1xpg/viewform)
     * [投稿用サイトとMPWの統合用サイトの統合用バッチシステム](https://github.com/ishi-kai/RISC-V-Day_MPW_submit_batch)
     * [カスタム GF180D PDK](https://github.com/ishi-kai/gf180mcuD/tree/RD_2611)
-    * [WSLイメージ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
+    * [開発環境インストール済みWSLイメージ for Windows(Intel)](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)
+    * [開発環境インストール済みVMWareイメージ for Mac(AppleSilicon)](https://1drv.ms/u/c/5b2da16fa1785921/IQCqPbDkydCDSIIDXWhnJPt4Ac6tlGZEmdSJ1KBrlScjH-c?e=tkbkHM)
+    * [開発環境インストール済みVMWareイメージ for Mac(Intel)](https://1drv.ms/u/c/5b2da16fa1785921/IQB15NotWS2tSKXvKLnUxCBSAaj4ca_HSrEJUjqyo-AdrT0?e=qjW5OL)
 * 備考
     * Windowsの場合は、Ubuntu24.04ベースのWSLと[EDAツール(xschem, ngspice, klayout)とGF180 PDK](https://github.com/ishi-kai/OpenEDA-PDK_SetupScript)をインストールしておいてください。Mac環境はサポート外です。
         * EDAツールやGF180 PDKが既にセットアップ済みの[WSLイメージのセットアップ](https://1drv.ms/u/c/5b2da16fa1785921/IQAYKAR9Itt1QpfMKvila5a1AXS2cEI7ZkqgZE0gu0h6hfc?e=wejwlz)をお勧めしています。
