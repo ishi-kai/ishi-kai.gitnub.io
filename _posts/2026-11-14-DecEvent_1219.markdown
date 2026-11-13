@@ -41,17 +41,21 @@ categories: Information Seminar
     - 講師：圓山宗智
     - タイトル：64ビットRISC-VコアをClaude Codeで完全自動設計してLinuxを動作させた話
     - 内容：人間がRTLを1行も書かずにRISC-V RV64GCコア「mmRISC-2」（1-issue, in-order）をClaude Codeで完全自動設計してDebianを動作させることができました。生成AIがドキュメントを書き、RTLをコーディングし、機能検証し、Coremark性能を向上させ、タイミングを収束させていくまでの流れを追ってみたいと思います。さらに、4-issues, out-of-orderの「mmRISC-3」コア設計もClaude Codeで挑戦しており、その奮闘の様子もご紹介します。
-- 15:00-15:20 
+- 15:00-15:10 
     - 休憩＆情報交換
-- 15:20-16:00 
+- 15:10-15:40 
+    - 講師：大野駿太郎（ShuntaroOHNO）
+    - タイトル：ソフトウェアで試作、実機で検証、そして専用回路へ！BIOとbio2rtlによる半導体開発
+    - 内容：独立したGPIO制御専用RISC-Vコア（BIO）を持つBaochipを使用し、自作半導体を動作設計する方法を紹介します。この方法では、チップの動作をソフトウェアとして記述して、エミュレータとbaochip実機で動作を検証し、講師が開発したbio2rtl
+- 15:40-16:10 
     - 講師：岡崎英之介（ぺんぎん）
     - タイトル：初めてのテープアウト with LLM
     - 内容：今年のシャトルで載せられた「インバータ」、「SRAM」、「平衡3進数演算器」、「VGAのISHI会ロゴ」の紹介、LLMをどう活用したかなどについて話します。
-- 16:00-16:30
+- 16:10-16:40
     - 講師：今村謙之
     - タイトル：AIでアナログ回路設計をした話
     - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話をします。（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）
-- 16:30-17:00
+- 16:40-17:00
     - 講師：今村謙之
     - タイトル：来年のISHI会のOpenMPW（半導体製造）チャンスの話
     - 内容：来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
