@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "ISHI会　2026年12月イベント「今年やってみたこと報告会」と「忘年会」の参加者募集"
+date:   2026-11-14 00:00:00 +0900
+categories: Information Seminar
+---
+
+# 2026年12月イベント「[今年やってみたこと報告会](https://connpass.com/event/413137/)」と「[忘年会](https://connpass.com/event/413140/)」の参加者募集の概要
+みなさんに、今年やってみたことを報告していただくイベントとなります。  
+終了後、[忘年会](https://connpass.com/event/413140/)を予定しています。別申し込みとなっていますので、リンクから申し込みください。  
+
+# 日程
+## 日時
+* 2026年12月19日（土）13：00～17:00
+
+## 場所
+* リアル会場：WeWork 日比谷FORT TOWER
+    * 東京都港区西新橋一丁目1番1号 日比谷FORT TOWER 10F
+
+* YouTube Streaming
+    * [https://youtube.com/live/p5ZWagWD-yk?feature=share](https://youtube.com/live/p5ZWagWD-yk?feature=share)
+
+
+## 参加申し込み 
+* [https://connpass.com/event/413137/](https://connpass.com/event/413137/)  
+
+## 参加費
+* 無料
+
+
+## タイムテーブル
+- 13:00-13:30
+    - 講師：（調整中）
+    - タイトル：今年のやってみたこと総括
+    - 内容：[ISHI会版OpenMPW OpenSUSI-TR10-1～2026年OpenSUSI-TR10（OpenSUSI-TR1umシャトル）の相乗り～](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/)で実施したハンズオンなどを振り返ります。
+- 13:30-14:00
+    - 講師：OpenSUSI 代表理事 岡村淳一
+    - タイトル：オープンソースＥＤＡ/ＰＤＫとＡＩエージェントの利活用法（Intel 4004編）
+    - 内容：11月18日に公開した note の内容に関して詳細に語ります。
+- 14:00-15:00
+    - 講師：圓山宗智
+    - タイトル：64ビットRISC-VコアをClaude Codeで完全自動設計してLinuxを動作させた話
+    - 内容：人間がRTLを1行も書かずにRISC-V RV64GCコア「mmRISC-2」（1-issue, in-order）をClaude Codeで完全自動設計してDebianを動作させることができました。生成AIがドキュメントを書き、RTLをコーディングし、機能検証し、Coremark性能を向上させ、タイミングを収束させていくまでの流れを追ってみたいと思います。さらに、4-issues, out-of-orderの「mmRISC-3」コア設計もClaude Codeで挑戦しており、その奮闘の様子もご紹介します。
+- 15:00-15:20 
+    - 休憩＆情報交換
+- 15:20-16:00 
+    - 講師：岡崎英之介（ぺんぎん）
+    - タイトル：初めてのテープアウト with LLM
+    - 内容：今年のシャトルで載せられた「インバータ」、「SRAM」、「平衡3進数演算器」、「VGAのISHI会ロゴ」の紹介、LLMをどう活用したかなどについて話します。
+- 16:00-16:30
+    - 講師：今村謙之
+    - タイトル：AIでアナログ回路設計をした話
+    - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話をします。（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）
+- 16:30-17:00
+    - 講師：今村謙之
+    - タイトル：来年のISHI会のOpenMPW（半導体製造）チャンスの話
+    - 内容：来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
+
+## 協力
+* [OpenSUSI](http://opensusi.org/) 様のご厚意によりリアル会場を提供していただきました。
+
+
+# 忘年会
+予約するときに使う人数把握のためです。  
+参加予定の方は、こちらへもお申し込みください。  
+
+- [予約用リンク](https://connpass.com/event/413140/)
