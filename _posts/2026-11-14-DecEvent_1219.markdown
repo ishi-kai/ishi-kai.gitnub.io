@@ -30,11 +30,11 @@ categories: Information Seminar
 
 ## タイムテーブル
 - 13:00-13:30
-    - 講師：（調整中）
-    - タイトル：今年のやってみたこと総括
-    - 内容：[ISHI会版OpenMPW OpenSUSI-TR10-1～2026年OpenSUSI-TR10（OpenSUSI-TR1umシャトル）の相乗り～](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/)で実施したハンズオンなどを振り返ります。
+    - 講師：AIST Solutions 事業プロデューサ／一般社団法人OpenSUSI エバンジェリスト 髙橋 克己
+    - タイトル：設計体験の「場」をつくってみた ― 2026年、OpenSUSI-MPWのワークショップを運営側から振り返る
+    - 内容：2026年、東海理化のTR-1µmを使うOpenSUSI-MPWで、設計体験の場をいくつか企画・運営しました。イチケンさんの1bit-CPU回（8月）と、Opアンプ設計ワークショップ（9月）です。Opアンプ回には、高専・大学の学生、企業のエンジニア、メディアが参加しました。本発表では運営側の目線で、設計枠の確保とスポンサーとの組み方、使われなかった枠を別の回に回す工夫、参加者がつまずいた点と完走の状況を振り返ります。あわせて、「設計して終わり」にしない仕組みづくりについて、来年に向けた課題を共有します。
 - 13:30-14:00
-    - 講師：OpenSUSI 代表理事 岡村淳一
+    - 講師：一般社団法人OpenSUSI 代表理事 岡村淳一
     - タイトル：オープンソースＥＤＡ/ＰＤＫとＡＩエージェントの利活用法（Intel 4004編）
     - 内容：11月18日に公開した note の内容に関して詳細に語ります。
 - 14:00-15:00
@@ -52,13 +52,13 @@ categories: Information Seminar
     - タイトル：初めてのテープアウト with LLM
     - 内容：今年のシャトルで載せられた「インバータ」、「SRAM」、「平衡3進数演算器」、「VGAのISHI会ロゴ」の紹介、LLMをどう活用したかなどについて話します。
 - 16:10-16:40
-    - 講師：今村謙之
-    - タイトル：AIでアナログ回路設計をした話
-    - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話をします。（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）
+    - 講師：(調整中)
+    - タイトル：(調整中)
+    - 内容：(調整中)
 - 16:40-17:00
     - 講師：今村謙之
-    - タイトル：来年のISHI会のOpenMPW（半導体製造）チャンスの話
-    - 内容：来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
+    - タイトル：AIでアナログ回路設計をした話と来年のISHI会のOpenMPW（半導体製造）チャンスの話
+    - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）　と　来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
 
 ## 協力
 * [OpenSUSI](http://opensusi.org/) 様のご厚意によりリアル会場を提供していただきました。
