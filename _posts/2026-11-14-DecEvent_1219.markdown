@@ -50,7 +50,7 @@ categories: Information Seminar
 - 15:40-16:10 
     - 講師：岡崎英之介（ぺんぎん）
     - タイトル：初めてのテープアウト with LLM
-    - 内容：今年のシャトルで載せられた「インバータ」、「SRAM」、「平衡3進数演算器」、「VGAのISHI会ロゴ」の紹介、LLMをどう活用したかなどについて話します。
+  - 内容：今年のシャトルで載せられた「インバータ」、「[SRAM](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/SRAM/PenguinEino)」、「[平衡3進数演算器](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/balanced-ternary-logic/PenguinEino)」、「[VGAのISHI会ロゴ](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/RGB121_VGA/PenguinEino)」の紹介、LLMをどう活用したかなどについて話します。
 - 16:10-16:40
     - 講師：(調整中)
     - タイトル：(調整中)
@@ -58,8 +58,12 @@ categories: Information Seminar
 - 16:40-17:10
     - 講師：前橋雄（Maehashi）
     - タイトル：今年の活動報告と来年に向けた話
-    - 内容：自分の設計してみた話として、BGRとCMOS Image Sensorを設計・テープアウトしてみたのでその紹介をします。また、夏に札幌で行われたインバータハンズオンで初めて講師をやってみた報告と、少し紹介・宣伝として記事執筆についての話と来年のOpen-SUSI Chipathonの話も。内容もりもりでお送りします。
-- 17:10-17:30
+  - 内容：自分の設計してみた話として、[BGR](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/BGR/Maehashi)と[CMOS Image Sensor](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/imager/YuMaehashi)を設計・テープアウトしてみたのでその紹介をします。また、夏に札幌で行われたインバータハンズオンで初めて講師をやってみた報告と、少し紹介・宣伝として記事執筆についての話と来年のOpen-SUSI Chipathonの話も。内容もりもりでお送りします。
+- 17:10-17:40
+    - 講師：小谷　豊
+    - タイトル：アナログ電子ブロックMosbiusでFMラジオチップを作る@IEEE Chipathon2026
+    - 内容：IEEE Chipathon2026に参加して、Mosbiusというアナログ電子ブロックに準拠した形でFMラジオの復調に使用できるPLLを設計しましたので、その紹介をします。 IEEE Chipathon2026の概要や、筆者が参加した、Mosbiusという、アナログ電子ブロックを設計する競技部門、実際に設計した、FMラジオの復調に使用できるPLLについて解説します。 また、関連して使用したGF180mcuDのPDKのTipsなども説明します。
+- 17:40-17:50
     - 講師：今村謙之
     - タイトル：AIでアナログ回路設計をした話と来年のISHI会のOpenMPW（半導体製造）チャンスの話
     - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）　と　来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
