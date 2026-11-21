@@ -11,7 +11,7 @@ categories: Information Seminar
 
 # 日程
 ## 日時
-* 2026年12月19日（土）13：00～17:00
+* 2026年12月19日（土）13：00～17:30
 
 ## 場所
 * リアル会場：WeWork 日比谷FORT TOWER
@@ -55,7 +55,11 @@ categories: Information Seminar
     - 講師：(調整中)
     - タイトル：(調整中)
     - 内容：(調整中)
-- 16:40-17:00
+- 16:40-17:10
+    - 講師：前橋雄（Maehashi）
+    - タイトル：今年の活動報告と来年に向けた話
+    - 内容：自分の設計してみた話として、BGRとCMOS Image Sensorを設計・テープアウトしてみたのでその紹介をします。また、夏に札幌で行われたインバータハンズオンで初めて講師をやってみた報告と、少し紹介・宣伝として記事執筆についての話と来年のOpen-SUSI Chipathonの話も。内容もりもりでお送りします。
+- 17:10-17:30
     - 講師：今村謙之
     - タイトル：AIでアナログ回路設計をした話と来年のISHI会のOpenMPW（半導体製造）チャンスの話
     - 内容：今年のOpenSUSI-MPW向け（東海理化シャトル）に、アナログ系回路図をAIに任せて設計・レイアウトしてみた話（[LPF](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/LPF/noritsuna), [MIXER](https://github.com/ishi-kai/ISHI-KAI_Multiple_Projects_OpenMPW_OpenSUSI-TR10-1/tree/main/member_project/MIXER/noritsuna)）　と　来年は初心者向けのハンズオンはコラボレーション企画をメイン「したい」というお話と中級者になりたい人向けのグループワークのお話です。
